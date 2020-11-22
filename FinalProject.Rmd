@@ -1,0 +1,214 @@
+---
+title: "Final Project"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r }
+library(dplyr)
+library(plyr)
+
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r}
+hospitals <- read.csv(file = "Dataset/Hospitals.csv",sep=",",header=T)
+hospital_ratings <- read.csv(file = "Dataset/Hospital General Information.csv", sep=",",header=T)
+county_time_series <- read.csv(file = "Dataset/County_time_series.csv",sep=",",header=T)
+crosswalk = read.csv("Dataset/CountyCrossWalk_Zillow.csv",header=T)
+unemployment = read.csv("Dataset/GeoFRED_Unemployment_Rate_by_County_Percent.csv",sep=",",header=T)
+public_schools <- read.csv("Dataset/Public_Schools.csv",sep=",",header=T)
+
+```
+```{r}
+colnames(unemployment)[4:22] <- seq(2000,2018)
+head(unemployment)
+
+```
+```{r}
+hospitals
+```
+```{r}
+hospital_ratings
+```
+```{r}
+hospital_ratings <-hospital_ratings %>% select('Hospital.Name', 'Hospital.overall.rating')
+hospital_ratings
+```
+```{r}
+hospitals_with_ratings <- merge(hospitals, hospital_ratings, by.x="NAME",by.y = "Hospital.Name")
+hospitals_with_ratings
+```
+
+```{r}
+hospital_with_ratings <- filter(hospitals_with_ratings, COUNTYFIPS != 'NOT AVAILABLE')
+hospital_with_ratings <- filter(hospitals_with_ratings, Hospital.overall.rating != 'Not Available')
+```
+```{r}
+hospitals_with_ratings <- rename(hospitals_with_ratings,c('COUNTYFIPS' = 'FIPS', 'Hospital.overall.rating' = 'AverageHospitalRating'))
+hospitals_with_ratings
+
+```
+```{r}
+filter(hospitals_with_ratings, FIPS == 1039)
+
+```
+```{r}
+alabamaschool <- filter(public_schools, COUNTYFIPS == 1039)
+
+```
+```{r}
+dim(alabamaschool)[1]
+```
+```{r}
+head(unemployment)
+```
+
+```{r}
+unemployment_per_county <- unemployment %>% select('Region.Code', '2018')
+unemployment_per_county <- rename(unemployment_per_county,c('Region.Code' = 'FIPS', '2018' = 'UnemploymentRate'))
+```
+```{r}
+alabamaunemployment <- filter(unemployment_per_county, FIPS == 1039)
+alabamaunemployment
+```
+```{r}
+head(public_schools)
+```
+```{r}
+public_schools_per_county<-public_schools %>%
+    group_by(COUNTYFIPS) %>%
+    dplyr::summarise(count=n())
+public_schools_per_county
+```
+
+
+```{r}
+public_schools_per_county <- public_schools_per_county %>% select('COUNTYFIPS', 'count')
+public_schools_per_county <- rename(public_schools_per_county,c('COUNTYFIPS' = 'FIPS', 'count' = 'NumberOfSchools'))
+public_schools_per_county
+```
+
+```{r}
+filter(public_schools_per_county, FIPS == 1039)
+
+```
+```{r}
+hospitals_with_ratings
+```
+
+
+```{r}
+average_hospital_rating_per_county  <- hospitals_with_ratings %>% select('FIPS', 'AverageHospitalRating')
+average_hospital_rating_per_county
+```
+```{r}
+average_hospital_rating_per_county$AverageHospitalRating <- as.numeric(average_hospital_rating_per_county$AverageHospitalRating)
+```
+
+```{r}
+average_hospital_rating_per_county <-
+average_hospital_rating_per_county %>%
+    group_by(FIPS) %>%
+    dplyr::summarize(AverageHospitalRating = mean(AverageHospitalRating, na.rm=TRUE))
+average_hospital_rating_per_county
+```
+
+
+```{r}
+filter(average_hospital_rating_per_county, FIPS == 1039)
+
+```
+```{r}
+hospitals_per_county <-hospitals %>%
+    group_by(COUNTYFIPS) %>%
+    dplyr::summarise(count=n())
+hospitals_per_county 
+```
+```{r}
+hospitals_per_county <- rename(hospitals_per_county,c('COUNTYFIPS' = 'FIPS', 'count' = 'NumberOfHospitals'))
+hospitals_per_county
+```
+
+```{r}
+hospitals_per_county  <- merge(hospitals_per_county,average_hospital_rating_per_county , by.x="FIPS",by.y = "FIPS")
+head(hospitals_per_county)
+```
+```{r}
+county_time_series
+```
+
+
+```{r}
+house_prices  <-
+county_time_series %>%
+    group_by(RegionName) %>%
+    dplyr::summarize(ZHVI_AllHomes = mean(ZHVI_AllHomes, na.rm=TRUE))
+house_prices 
+```
+```{r}
+head(crosswalk)
+```
+```{r}
+colnames(crosswalk)[1:1] <-c("CountyName")
+```
+
+```{r}
+crosswalk  <- crosswalk %>% select('FIPS', 'CountyName','StateName')
+crosswalk
+```
+```{r}
+team_est <- rename(house_prices,c('RegionName' = 'FIPS', 'ZHVI_AllHomes' = 'AverageHousePrice'))
+team_est
+```
+```{r}
+team_est  <- merge(team_est,crosswalk , by.x="FIPS",by.y = "FIPS")
+
+```
+```{r}
+team_est
+```
+```{r}
+team_est  <- merge(team_est,unemployment_per_county , by.x="FIPS",by.y = "FIPS")
+```
+```{r}
+team_est
+```
+```{r}
+team_est  <- merge(team_est,public_schools_per_county , by.x="FIPS",by.y = "FIPS")
+
+```
+```{r}
+team_est
+```
+
+```{r}
+team_est  <- merge(team_est,hospitals_per_county , by.x="FIPS",by.y = "FIPS")
+```
+
+```{r}
+hospitals_per_county
+```
+
+```{r}
+team_est
+
+```
+
+```{r}
+write.csv(team_est,"teamest.csv", row.names = FALSE)
+
+```
+
+
+
+
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.

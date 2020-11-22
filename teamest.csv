@@ -1,0 +1,1804 @@
+FIPS,AverageHousePrice,CountyName,StateName,UnemploymentRate,NumberOfSchools,NumberOfHospitals,AverageHospitalRating
+1001,114483.6653,Autauga,Alabama,3.6,15,1,4
+1003,164861.6858,Baldwin,Alabama,3.6,47,4,3
+1005,NA,Barbour,Alabama,5.3,11,1,3
+1007,NA,Bibb,Alabama,4,10,1,NA
+1013,NA,Butler,Alabama,4.8,8,2,3
+1015,NA,Calhoun,Alabama,4.7,40,4,2.666666667
+1019,NA,Cherokee,Alabama,3.7,8,1,4
+1025,NA,Clarke,Alabama,7.6,11,2,3
+1027,NA,Clay,Alabama,4,8,1,3
+1031,NA,Coffee,Alabama,4,19,1,3
+1033,92332.05128,Colbert,Alabama,4.7,27,2,2.5
+1039,NA,Covington,Alabama,4.7,15,3,2.5
+1041,NA,Crenshaw,Alabama,4.1,4,2,3
+1043,NA,Cullman,Alabama,3.3,36,2,3
+1045,NA,Dale,Alabama,4.2,18,1,4
+1049,98315.49296,De Kalb,Alabama,3.8,20,1,3
+1051,125561.3734,Elmore,Alabama,3.4,20,2,3.4
+1053,NA,Escambia,Alabama,4.6,18,2,4
+1055,77994.25287,Etowah,Alabama,4.1,45,4,2.75
+1059,NA,Franklin,Alabama,3.8,13,2,3
+1061,NA,Geneva,Alabama,3.9,12,1,3
+1065,NA,Hale,Alabama,5.1,8,1,NA
+1069,114940.9962,Houston,Alabama,4.1,31,5,3.5
+1071,104431.9149,Jackson,Alabama,4.1,25,1,3
+1073,99759.77011,Jefferson,Alabama,3.7,226,14,2.75
+1077,96148.57143,Lauderdale,Alabama,4.2,22,1,2
+1079,NA,Lawrence,Alabama,4.2,16,1,4
+1081,148163.2184,Lee,Alabama,3.6,37,1,4
+1083,NA,Limestone,Alabama,3.5,21,2,2
+1089,NA,Madison,Alabama,3.5,91,7,3
+1091,NA,Marengo,Alabama,5.1,14,1,3
+1093,NA,Marion,Alabama,4.1,14,2,3
+1095,NA,Marshall,Alabama,3.4,35,2,3
+1097,93971.64751,Mobile,Alabama,4.7,121,7,2
+1099,72273.94636,Monroe,Alabama,6.3,10,1,3
+1101,NA,Montgomery,Alabama,4,76,8,4
+1107,NA,Pickens,Alabama,4.6,10,1,3
+1109,NA,Pike,Alabama,4.5,11,1,3
+1111,NA,Randolph,Alabama,4,11,1,4
+1113,103098.4674,Russell,Alabama,4.1,19,2,4
+1117,164133.3333,Shelby,Alabama,2.9,53,3,3
+1121,NA,Talladega,Alabama,4.3,36,2,3
+1123,110576.9231,Tallapoosa,Alabama,4.2,13,2,3
+1127,NA,Walker,Alabama,4.3,29,1,3
+1129,NA,Washington,Alabama,6,8,1,NA
+1133,NA,Winston,Alabama,4.2,14,1,5
+2020,250916.309,Anchorage,Alaska,5.6,100,9,3
+2090,197946.7811,Fairbanks North Star,Alaska,6,37,3,3
+2110,274259.8361,Juneau,Alaska,4.6,14,1,3
+2122,210048.4211,Kenai Peninsula,Alaska,7.8,44,3,3
+2130,223292.3372,Ketchikan Gateway,Alaska,6.2,11,1,3
+2170,NA,Matanuska Susitna,Alaska,7.9,44,1,3
+2220,NA,Sitka,Alaska,4.3,7,2,NA
+2261,NA,Valdez Cordova,Alaska,8,17,3,NA
+4001,136755.9441,Apache,Arizona,10.1,65,4,3
+4003,124720.3065,Cochise,Arizona,5.6,84,8,1
+4005,241994.636,Coconino,Arizona,5.4,75,4,4
+4007,146740.9962,Gila,Arizona,5.7,38,4,3
+4009,114949.4253,Graham,Arizona,5.1,37,1,3
+4013,178057.0881,Maricopa,Arizona,4.1,1246,73,3.047619048
+4015,144750.9579,Mohave,Arizona,5.7,70,5,2.25
+4017,146158.6207,Navajo,Arizona,7.4,91,6,NA
+4019,155807.2797,Pima,Arizona,4.4,386,21,2
+4021,142070.5179,Pinal,Arizona,4.9,143,6,3
+4025,199438.6973,Yavapai,Arizona,4.4,107,5,3
+4027,117031.4176,Yuma,Arizona,16.9,72,2,2
+5001,NA,Arkansas,Arkansas,3.5,9,2,4
+5003,NA,Ashley,Arkansas,5.5,8,1,3
+5005,102860.9195,Baxter,Arkansas,4.1,10,1,3
+5007,121924.9042,Benton,Arkansas,2.8,68,6,3.5
+5009,89286.97318,Boone,Arkansas,3.6,20,1,3
+5011,NA,Bradley,Arkansas,4.4,7,1,4
+5015,NA,Carroll,Arkansas,3.2,10,2,3
+5021,NA,Clay,Arkansas,4.5,7,1,NA
+5027,NA,Columbia,Arkansas,4.8,9,1,2
+5031,94221.83908,Craighead,Arkansas,3,36,6,3
+5037,NA,Cross,Arkansas,4.1,6,1,4
+5043,NA,Drew,Arkansas,4.9,8,1,3
+5045,108660.9195,Faulkner,Arkansas,3.2,39,2,3
+5047,NA,Franklin,Arkansas,3.6,10,2,NA
+5049,NA,Fulton,Arkansas,4,6,1,2
+5051,115008.046,Garland,Arkansas,4.1,30,6,2
+5055,81437.93103,Greene,Arkansas,3.5,15,1,2
+5061,NA,Howard,Arkansas,3.4,10,2,3
+5063,71191.57088,Independence,Arkansas,4.1,15,1,2
+5069,68753.84615,Jefferson,Arkansas,5.3,29,2,2
+5071,NA,Johnson,Arkansas,4.5,12,1,3
+5075,NA,Lawrence,Arkansas,4,12,1,3
+5081,NA,Little River,Arkansas,5.2,7,1,NA
+5083,NA,Logan,Arkansas,4,11,2,NA
+5093,NA,Mississippi,Arkansas,5.6,25,2,2
+5109,NA,Pike,Arkansas,4.1,7,1,3
+5113,86918.18182,Polk,Arkansas,4.2,9,1,3
+5119,104294.636,Pulaski,Arkansas,3.4,131,21,2.666666667
+5123,NA,Saint Francis,Arkansas,5.2,12,1,2
+5125,116624.9042,Saline,Arkansas,3.1,28,2,3
+5127,NA,Scott,Arkansas,3.6,6,1,NA
+5131,93884.67433,Sebastian,Arkansas,3.6,40,7,2.5
+5137,NA,Stone,Arkansas,4.6,7,1,3
+5141,66378.9272,Van Buren,Arkansas,5.2,8,1,3
+5143,128081.2261,Washington,Arkansas,2.6,64,10,3
+5149,NA,Yell,Arkansas,4.2,11,2,3
+6001,471302.682,Alameda,California,3,400,27,2.5
+6005,224845.2107,Amador,California,3.9,17,1,2
+6007,197437.931,Butte,California,4.9,101,7,2.333333333
+6013,398249.0421,Contra Costa,California,3.1,270,12,2
+6015,164258.5774,Del Norte,California,5.6,21,1,2
+6017,311345.5939,El Dorado,California,3.6,69,3,3
+6019,169162.4521,Fresno,California,7.4,350,15,2
+6021,179603.7267,Glenn,California,6.5,26,1,NA
+6023,217380.0766,Humboldt,California,3.6,93,6,3
+6025,149809.9617,Imperial,California,17.5,72,2,2
+6027,246674.477,Inyo,California,3.9,30,2,NA
+6029,148808.8123,Kern,California,8,271,15,1.8
+6031,143448.2759,Kings,California,7.8,67,4,2.5
+6033,177877.3946,Lake,California,5.1,43,2,3
+6035,145078.5441,Lassen,California,4.8,31,1,4
+6037,374740.613,Los Angeles,California,4.7,2277,131,2.775
+6039,176903.8314,Madera,California,7,81,2,2
+6041,707818.3908,Marin,California,2.3,79,4,3.5
+6043,225658.1498,Mariposa,California,5.4,16,1,NA
+6045,285385.0575,Mendocino,California,3.9,74,3,3.5
+6047,NA,Merced,California,8.1,113,3,3
+6049,NA,Modoc,California,7.3,15,2,NA
+6051,342059.8326,Mono,California,3.6,18,1,NA
+6053,391807.2797,Monterey,California,6.4,147,4,3.333333333
+6057,326322.6054,Nevada,California,3.5,55,2,3
+6059,480765.9004,Orange,California,2.9,615,41,2.75
+6061,330571.2644,Placer,California,3.2,120,4,4
+6063,259608.9005,Plumas,California,7.6,15,3,3
+6065,252723.7548,Riverside,California,4.3,506,24,2.272727273
+6067,234401.9157,Sacramento,California,3.8,380,19,3
+6069,335359.387,San Benito,California,5.1,23,2,2
+6071,214208.046,San Bernardino,California,4,556,32,2.583333333
+6073,378364.751,San Diego,California,3.3,763,37,3.333333333
+6075,691017.2414,San Francisco,California,2.4,134,18,3
+6077,226098.4674,San Joaquin,California,5.9,239,10,2.4
+6079,409974.7126,San Luis Obispo,California,2.9,84,6,3.333333333
+6081,667807.2797,San Mateo,California,2.2,179,11,3.25
+6083,442957.0881,Santa Barbara,California,3.9,124,9,3.75
+6085,617061.3027,Santa Clara,California,2.6,422,17,2.666666667
+6087,520674.7126,Santa Cruz,California,4.8,81,5,3
+6089,182344.4444,Shasta,California,4.9,102,7,4
+6093,156492.1348,Siskiyou,California,6.5,58,2,3
+6095,281056.705,Solano,California,3.9,107,7,3
+6097,403252.4904,Sonoma,California,2.7,191,12,3.25
+6099,196717.2414,Stanislaus,California,6.4,190,12,2
+6105,NA,Trinity,California,5.3,23,1,NA
+6107,143585.8238,Tulare,California,9.5,197,7,2.5
+6111,409491.954,Ventura,California,3.8,233,13,3
+6113,290204.9808,Yolo,California,4.2,65,2,3.5
+6115,161053.2567,Yuba,California,6.4,40,2,1
+8001,183392.3372,Adams,Colorado,3.3,150,7,3
+8005,211384.2912,Arapahoe,Colorado,3.1,159,9,3.5
+8013,305860.9195,Boulder,Colorado,2.8,86,6,3.5
+8015,249907.6923,Chaffee,Colorado,2.5,10,1,NA
+8021,NA,Conejos,Colorado,4.2,11,1,NA
+8029,154651.0204,Delta,Colorado,3.8,18,1,3
+8031,219083.1418,Denver,Colorado,3,193,17,3.4
+8035,305284.6743,Douglas,Colorado,2.7,90,5,3.333333333
+8037,497801.992,Eagle,Colorado,2.6,21,1,4
+8041,186024.9042,El Paso,Colorado,3.7,219,12,4
+8043,NA,Fremont,Colorado,5,15,1,4
+8045,262722.2222,Garfield,Colorado,3.1,26,2,3.5
+8049,221821.0526,Grand,Colorado,2.5,8,2,NA
+8051,NA,Gunnison,Colorado,2.4,7,1,NA
+8055,NA,Huerfano,Colorado,6.2,5,1,3
+8059,240281.9923,Jefferson,Colorado,2.9,168,3,3
+8063,NA,Kit Carson,Colorado,2.1,13,1,NA
+8067,247870.8812,La Plata,Colorado,2.9,22,2,4.333333333
+8069,219355.1724,Larimer,Colorado,2.7,95,8,3.666666667
+8071,NA,Las Animas,Colorado,4.5,16,1,NA
+8075,92563.21839,Logan,Colorado,2.8,13,1,3
+8077,159969.7318,Mesa,Colorado,3.9,54,4,3.5
+8081,157780.2395,Moffat,Colorado,3.5,8,1,3
+8083,179474.8603,Montezuma,Colorado,4.6,19,1,3
+8085,170081.2261,Montrose,Colorado,3.5,18,1,4
+8087,NA,Morgan,Colorado,2.8,18,2,3
+8089,69928.35249,Otero,Colorado,4.8,16,1,3
+8097,1046833.898,Pitkin,Colorado,3.7,6,1,4
+8099,NA,Prowers,Colorado,3.1,13,1,3
+8101,109615.3257,Pueblo,Colorado,4.7,60,4,4
+8103,NA,Rio Blanco,Colorado,4.2,5,2,NA
+8105,116531.3514,Rio Grande,Colorado,4.6,13,1,3
+8107,350133.4661,Routt,Colorado,2.6,13,1,4
+8117,NA,Summit,Colorado,2.1,9,1,4
+8119,181468.1992,Teller,Colorado,3.5,7,1,NA
+8123,173456.705,Weld,Colorado,2.9,100,1,4
+8125,NA,Yuma,Colorado,2,11,2,3
+9001,366894.636,Fairfield,Connecticut,4.1,278,7,2.4
+9003,192883.908,Hartford,Connecticut,4.4,374,12,2.6
+9005,216243.6782,Litchfield,Connecticut,3.9,84,3,2.5
+9007,232803.0651,Middlesex,Connecticut,3.6,72,1,3
+9009,200913.0268,New Haven,Connecticut,4.5,281,10,2.666666667
+9011,200529.1188,New London,Connecticut,4,114,2,3.5
+9013,203650.1916,Tolland,Connecticut,3.7,56,3,3.333333333
+9015,165901.5326,Windham,Connecticut,4.6,50,2,3
+10005,NA,Sussex,Delaware,4,48,3,3.5
+11001,351876.6816,District of Columbia,District of Columbia,5.6,260,15,1.8
+12001,134264.751,Alachua,Florida,3.2,76,6,3
+12003,NA,Baker,Florida,3.3,9,2,NA
+12005,153280.0766,Bay,Florida,3.9,51,5,3
+12007,95781.63265,Bradford,Florida,3.3,13,1,3
+12009,133307.6628,Brevard,Florida,3.5,131,11,3.285714286
+12011,161854.023,Broward,Florida,3.3,386,28,2.666666667
+12013,NA,Calhoun,Florida,4.2,10,1,NA
+12015,145900,Charlotte,Florida,3.9,26,4,2.333333333
+12017,112860.3846,Citrus,Florida,5.1,25,2,2
+12019,145958.6207,Clay,Florida,3.2,48,3,3
+12021,249211.1111,Collier,Florida,3.5,72,6,3
+12023,101839.8467,Columbia,Florida,3.7,23,3,3
+12027,88066.53386,De Soto,Florida,3.7,12,1,3
+12031,123712.2605,Duval,Florida,3.5,217,15,3
+12033,110838.6973,Escambia,Florida,3.6,76,9,3.2
+12035,160614.3426,Flagler,Florida,4,17,1,3
+12037,NA,Franklin,Florida,3.5,5,1,NA
+12045,130070.1149,Gulf,Florida,4.3,6,1,4
+12049,69521.22449,Hardee,Florida,4.9,11,1,3
+12051,86789.27203,Hendry,Florida,6,17,1,3
+12053,116285.4406,Hernando,Florida,4.4,36,5,2.5
+12055,90511.87739,Highlands,Florida,4.9,23,3,2.333333333
+12057,138548.659,Hillsborough,Florida,3.3,328,21,2.727272727
+12059,NA,Holmes,Florida,4.1,11,1,NA
+12061,147288.1226,Indian River,Florida,4.3,29,4,2.5
+12063,72360.95618,Jackson,Florida,4,22,2,3
+12069,146669.7318,Lake,Florida,3.4,62,6,2.333333333
+12071,162860.5364,Lee,Florida,3.4,130,7,2
+12073,142191.954,Leon,Florida,3.3,66,5,2.5
+12075,105896.5517,Levy,Florida,3.8,18,1,NA
+12079,NA,Madison,Florida,3.9,14,1,NA
+12081,178016.8582,Manatee,Florida,3.3,81,5,2.333333333
+12083,107496.5517,Marion,Florida,4.2,68,7,2
+12086,189668.9655,Miami-Dade,Florida,3.8,557,38,2.695652174
+12087,406365.1341,Monroe,Florida,2.9,26,4,2.666666667
+12089,190173.9464,Nassau,Florida,3.2,21,1,3
+12091,158882.7586,Okaloosa,Florida,2.8,53,6,3.333333333
+12093,97740.22989,Okeechobee,Florida,3.6,17,1,3
+12095,155778.5441,Orange,Florida,3.1,266,18,3
+12097,144669.3487,Osceola,Florida,3.6,74,6,2
+12099,181075.0958,Palm Beach,Florida,3.5,287,20,2.533333333
+12101,125698.0843,Pasco,Florida,3.8,115,10,2.833333333
+12103,135356.3218,Pinellas,Florida,3.2,182,18,2.8
+12105,119350.9579,Polk,Florida,4,170,6,2.2
+12107,89447.50958,Putnam,Florida,4.8,25,1,2
+12109,223113.0268,Saint Johns,Florida,2.8,58,1,3
+12111,135500.3831,Saint Lucie,Florida,4.4,53,6,2
+12113,148526.0536,Santa Rosa,Florida,3.3,40,5,3.333333333
+12115,179158.6207,Sarasota,Florida,3.3,65,7,4
+12117,166037.5479,Seminole,Florida,3.1,76,5,2
+12119,176228.3525,Sumter,Florida,5.1,14,2,3
+12121,NA,Suwannee,Florida,3.8,14,1,3
+12123,NA,Taylor,Florida,3.9,10,2,NA
+12127,132897.318,Volusia,Florida,3.7,94,9,2.8
+12131,267611.1111,Walton,Florida,3,23,2,4
+12133,65805.30612,Washington,Florida,3.8,10,1,NA
+13009,110008.8123,Baldwin,Georgia,5,6,2,3
+13015,109462.9213,Bartow,Georgia,3.7,24,1,4
+13017,NA,Ben Hill,Georgia,6,4,1,3
+13019,NA,Berrien,Georgia,4.1,5,1,NA
+13021,95090.03831,Bibb,Georgia,4.4,49,8,3.5
+13023,NA,Bleckley,Georgia,5.8,5,1,3
+13027,NA,Brooks,Georgia,3.8,4,1,NA
+13031,120081.9923,Bulloch,Georgia,4.1,16,2,2
+13033,NA,Burke,Georgia,5.8,6,1,NA
+13035,81076.24521,Butts,Georgia,4,5,1,NA
+13043,NA,Candler,Georgia,3.5,4,1,NA
+13045,99524.13793,Carroll,Georgia,3.9,29,3,3
+13047,116284.2697,Catoosa,Georgia,3.3,16,1,NA
+13051,130506.5134,Chatham,Georgia,3.7,56,9,2.333333333
+13063,NA,Clayton,Georgia,4.8,66,4,2
+13067,172179.6935,Cobb,Georgia,3.3,126,6,2.5
+13069,NA,Coffee,Georgia,4.4,13,1,3
+13071,78275.47893,Colquitt,Georgia,3.6,14,2,3
+13077,138425.2874,Coweta,Georgia,3.3,31,3,3
+13081,NA,Crisp,Georgia,4.8,8,1,3
+13087,81236.39847,Decatur,Georgia,4.6,9,1,3
+13089,137963.9847,Dekalb,Georgia,3.9,158,15,3
+13091,NA,Dodge,Georgia,5.2,6,1,3
+13095,82326.43678,Dougherty,Georgia,5,25,2,1
+13097,120532.1839,Douglas,Georgia,4,35,2,3
+13105,85087.4477,Elbert,Georgia,4.8,6,1,4
+13107,NA,Emanuel,Georgia,5.7,8,1,3
+13109,NA,Evans,Georgia,3.6,4,1,4
+13111,187977.6398,Fannin,Georgia,3.9,5,1,3
+13113,210944.0613,Fayette,Georgia,3.4,24,1,2
+13115,103913.7931,Floyd,Georgia,4.2,30,5,3.333333333
+13117,230164.3678,Forsyth,Georgia,3.1,36,1,3
+13121,183952.1073,Fulton,Georgia,3.9,206,19,2.6
+13127,179768.323,Glynn,Georgia,3.6,18,2,3
+13129,106393.4866,Gordon,Georgia,3.8,15,1,5
+13131,NA,Grady,Georgia,3.8,7,1,4
+13133,NA,Greene,Georgia,4.2,5,2,3
+13135,160402.2989,Gwinnett,Georgia,3.4,140,6,3
+13137,112640.4624,Habersham,Georgia,3.6,13,1,3
+13139,137629.8851,Hall,Georgia,3.1,42,2,3
+13143,81109.30233,Haralson,Georgia,3.8,10,1,3
+13151,133515.3257,Henry,Georgia,4.1,51,2,2
+13153,102190.0383,Houston,Georgia,4,41,2,3.5
+13155,NA,Irwin,Georgia,5.7,3,1,3
+13157,NA,Jackson,Georgia,2.9,20,1,2
+13159,NA,Jasper,Georgia,3.4,4,1,NA
+13161,NA,Jeff Davis,Georgia,4.8,4,1,3
+13163,NA,Jefferson,Georgia,5.3,6,1,3.5
+13175,79775.86207,Laurens,Georgia,4.8,15,2,4
+13179,102873.1801,Liberty,Georgia,4.3,16,2,3
+13185,117031.0345,Lowndes,Georgia,4,20,3,3
+13187,153776.2452,Lumpkin,Georgia,3.4,5,1,3
+13189,NA,McDuffie,Georgia,5.4,6,2,3
+13193,NA,Macon,Georgia,6.1,3,1,NA
+13199,60321.78771,Meriwether,Georgia,4.8,9,3,NA
+13205,NA,Mitchell,Georgia,5.4,8,1,NA
+13207,NA,Monroe,Georgia,3.6,5,1,3
+13211,203011.8881,Morgan,Georgia,3.5,4,1,NA
+13213,99532.53589,Murray,Georgia,5.2,11,1,3
+13215,94867.41573,Muscogee,Georgia,5,59,7,3.333333333
+13217,109145.5939,Newton,Georgia,4.3,24,1,2
+13223,NA,Paulding,Georgia,3.4,34,2,3
+13233,75612.64368,Polk,Georgia,4.1,11,2,NA
+13235,NA,Pulaski,Georgia,4.2,3,1,3
+13237,NA,Putnam,Georgia,4.9,5,1,3
+13241,NA,Rabun,Georgia,4.1,4,1,NA
+13245,NA,Richmond,Georgia,5,63,11,2
+13255,88295.01916,Spalding,Georgia,4.6,18,1,3
+13257,NA,Stephens,Georgia,4.4,6,1,3
+13261,NA,Sumter,Georgia,5.9,8,2,3
+13275,96090.43825,Thomas,Georgia,4.7,13,2,3
+13277,104032.1839,Tift,Georgia,4,11,1,2
+13279,NA,Toombs,Georgia,5.7,9,1,3
+13281,182582.5175,Towns,Georgia,5.6,3,1,4
+13285,NA,Troup,Georgia,3.6,19,1,4
+13291,152521.4559,Union,Georgia,3.6,6,1,3
+13293,66060.91954,Upson,Georgia,4.4,4,1,3
+13297,123965.9004,Walton,Georgia,3.5,19,2,2
+13299,64662.83525,Ware,Georgia,3.9,10,2,3
+13303,NA,Washington,Georgia,4.9,5,1,3
+13305,89781.22605,Wayne,Georgia,4.6,8,1,2.666666667
+13313,97033.33333,Whitfield,Georgia,4.6,32,1,4
+13317,NA,Wilkes,Georgia,4.6,4,1,3
+13321,NA,Worth,Georgia,4.3,4,1,NA
+15001,252238.6973,Hawaii,Hawaii,2.8,56,6,3
+15003,430432.567,Honolulu,Hawaii,2.1,183,17,3
+15007,NA,Kauai,Hawaii,2.3,20,2,4
+15009,420318.7739,Maui,Hawaii,2.3,33,4,3
+16001,164504.5977,Ada,Idaho,2.4,131,11,3
+16005,125647.5096,Bannock,Idaho,2.6,35,2,3
+16007,150226.5957,Bear Lake,Idaho,2.9,6,1,NA
+16009,130283.908,Benewah,Idaho,4.5,8,1,NA
+16011,140149.8084,Bingham,Idaho,2.7,32,3,4
+16017,266811.1111,Bonner,Idaho,4,19,1,3
+16019,113735.249,Bonneville,Idaho,2.4,52,2,3.5
+16021,153619.9234,Boundary,Idaho,4.4,5,1,NA
+16027,117780.4598,Canyon,Idaho,3,78,2,4
+16041,NA,Franklin,Idaho,2.1,10,1,NA
+16045,222121.2903,Gem,Idaho,3.3,9,1,NA
+16047,136019.1571,Gooding,Idaho,2.4,11,1,4
+16055,223837.1648,Kootenai,Idaho,3.4,47,4,NA
+16057,204857.4713,Latah,Idaho,2.4,19,1,4
+16059,NA,Lemhi,Idaho,4.4,9,1,NA
+16065,165385.1064,Madison,Idaho,1.7,15,1,3
+16067,NA,Minidoka,Idaho,2.5,12,1,NA
+16077,148432.1839,Power,Idaho,2.9,8,1,NA
+16079,NA,Shoshone,Idaho,5.7,9,1,NA
+16085,NA,Valley,Idaho,3.7,8,2,NA
+16087,NA,Washington,Idaho,4.1,9,1,NA
+17001,111435.249,Adams,Illinois,3.6,26,2,3
+17011,NA,Bureau,Illinois,4.6,28,2,3.5
+17019,118083.6653,Champaign,Illinois,4.1,62,3,3
+17021,62888.12261,Christian,Illinois,5.1,20,2,4
+17025,71499.11504,Clay,Illinois,4.8,11,1,3
+17027,99235.24904,Clinton,Illinois,3.3,23,1,3.666666667
+17029,90168.19923,Coles,Illinois,4.4,17,1,3
+17031,190693.8697,Cook,Illinois,4.2,1326,73,2.695652174
+17037,149794.2529,De Kalb,Illinois,4.1,42,3,4
+17043,244330.2682,Du Page,Illinois,3.3,258,8,3.5
+17045,NA,Edgar,Illinois,4.3,18,1,4
+17049,99975.47893,Effingham,Illinois,3.5,18,1,4
+17051,NA,Fayette,Illinois,5,15,1,NA
+17053,68163.60153,Ford,Illinois,4.4,9,1,4
+17055,NA,Franklin,Illinois,5.9,23,1,3
+17057,NA,Fulton,Illinois,5.7,23,1,3
+17061,NA,Greene,Illinois,4.6,7,1,NA
+17063,172439.7516,Grundy,Illinois,4.9,25,1,4
+17065,NA,Hamilton,Illinois,4,4,1,2
+17069,NA,Hardin,Illinois,7.3,3,1,NA
+17073,94808.3682,Henry,Illinois,4.7,29,2,4
+17075,88650,Iroquois,Illinois,4.1,25,1,2
+17077,NA,Jackson,Illinois,4.3,23,2,3
+17081,65005.17928,Jefferson,Illinois,5,21,3,2.5
+17083,97364.01674,Jersey,Illinois,4.5,8,1,3
+17085,NA,Jo Daviess,Illinois,4.1,18,1,NA
+17089,196850,Kane,Illinois,4.6,145,5,3.333333333
+17091,111985.8238,Kankakee,Illinois,4.8,43,2,4
+17095,65802.29885,Knox,Illinois,5,24,2,3
+17097,223118.0077,Lake,Illinois,4.2,207,8,4
+17099,111577.3946,La Salle,Illinois,5.4,50,5,3
+17101,NA,Lawrence,Illinois,5.5,6,1,3
+17103,NA,Lee,Illinois,4.1,16,1,3
+17105,86126.05364,Livingston,Illinois,4.1,24,1,4
+17107,NA,Logan,Illinois,4.4,15,1,4
+17109,75790.90909,McDonough,Illinois,4.7,15,1,3
+17111,191409.1954,McHenry,Illinois,3.7,84,3,4.333333333
+17113,129790.4215,McLean,Illinois,3.8,57,2,3.166666667
+17115,74524.90421,Macon,Illinois,5.2,45,2,2.5
+17117,65959.77011,Macoupin,Illinois,4.5,30,2,3.5
+17119,95895.4023,Madison,Illinois,4.2,80,7,3.166666667
+17121,NA,Marion,Illinois,4.6,28,2,2.5
+17125,NA,Mason,Illinois,5.4,9,1,3
+17127,NA,Massac,Illinois,6.5,9,1,4
+17135,NA,Montgomery,Illinois,5.5,16,2,3.285714286
+17137,72517.24138,Morgan,Illinois,4.1,24,1,3
+17141,NA,Ogle,Illinois,4.7,26,1,4
+17143,93243.02789,Peoria,Illinois,5.3,77,4,3.2
+17145,NA,Perry,Illinois,5.7,12,2,4
+17147,NA,Piatt,Illinois,3.9,17,2,NA
+17157,NA,Randolph,Illinois,4.1,16,3,3.230769231
+17159,NA,Richland,Illinois,4.2,7,1,3
+17161,84929.50192,Rock Island,Illinois,4.8,57,3,2
+17163,89953.63985,Saint Clair,Illinois,4.7,95,4,3.176470588
+17165,NA,Saline,Illinois,6.3,15,2,3
+17167,107842.9119,Sangamon,Illinois,4.1,74,4,2.714285714
+17169,NA,Schuyler,Illinois,4.2,4,1,NA
+17177,84875.13514,Stephenson,Illinois,4.4,23,1,3
+17179,105014.1762,Tazewell,Illinois,4.6,56,2,3
+17183,NA,Vermilion,Illinois,5.7,40,3,3
+17187,79393.10345,Warren,Illinois,3.9,10,1,4
+17189,NA,Washington,Illinois,2.8,9,1,NA
+17191,NA,Wayne,Illinois,5.3,12,1,NA
+17195,86837.4502,Whiteside,Illinois,4.3,30,2,4
+17197,179311.8774,Will,Illinois,4.3,198,4,3
+17199,76312.80788,Williamson,Illinois,4.9,24,3,2.5
+17201,101402.3904,Winnebago,Illinois,5.4,92,4,3.333333333
+17203,121203.0651,Woodford,Illinois,3.8,20,1,4
+18001,92424.13793,Adams,Indiana,2.6,10,1,3
+18003,99155.9387,Allen,Indiana,3.2,89,12,3
+18005,124561.6,Bartholomew,Indiana,2.6,20,1,4
+18009,63857.47126,Blackford,Indiana,3.9,5,1,4
+18011,162746.7433,Boone,Indiana,2.7,17,1,4
+18017,NA,Cass,Indiana,3.8,15,3,3.25
+18019,106897.6,Clark,Indiana,3.4,32,4,2
+18021,78673.94636,Clay,Indiana,4,10,1,3
+18023,82808.81226,Clinton,Indiana,2.9,12,1,3
+18027,79929.50192,Daviess,Indiana,2.7,12,1,3
+18029,137109.1954,Dearborn,Indiana,3.7,15,2,3
+18031,99601.53257,Decatur,Indiana,3,7,1,4
+18033,102986.9732,De Kalb,Indiana,2.8,14,2,3
+18035,81918.3908,Delaware,Indiana,4,36,3,3
+18037,113920.6897,Dubois,Indiana,2.5,18,1,5
+18039,111837.1648,Elkhart,Indiana,2.6,56,3,4
+18041,66734.48276,Fayette,Indiana,4.7,9,1,4
+18043,128030.6513,Floyd,Indiana,3.3,17,3,NA
+18049,84136.39847,Fulton,Indiana,3.5,7,1,4
+18051,87255.9387,Gibson,Indiana,2.7,13,1,3
+18053,70736.39847,Grant,Indiana,3.9,27,3,3.333333333
+18055,NA,Greene,Indiana,4.5,14,1,3
+18057,199242.5743,Hamilton,Indiana,2.7,67,6,4.2
+18059,137171.6475,Hancock,Indiana,3,22,1,3
+18061,107462.4521,Harrison,Indiana,3.4,15,1,3
+18063,142636.7816,Hendricks,Indiana,2.9,42,2,4
+18065,73919.92337,Henry,Indiana,3.5,19,1,4
+18067,80366.29213,Howard,Indiana,3.9,26,3,3
+18069,81328.73563,Huntington,Indiana,3.6,11,1,4
+18071,94575.86207,Jackson,Indiana,2.9,15,1,5
+18075,67288.88889,Jay,Indiana,3.4,10,1,4
+18077,91659.00383,Jefferson,Indiana,3.5,10,3,4
+18079,90373.18008,Jennings,Indiana,3.7,8,1,3
+18081,125693.4866,Johnson,Indiana,2.9,38,3,3.5
+18083,65278.54406,Knox,Indiana,3.3,11,1,2.571428571
+18085,141181.1321,Kosciusko,Indiana,2.7,20,2,3
+18087,122576.6284,Lagrange,Indiana,2.5,13,1,4
+18089,126099.3506,Lake,Indiana,5,134,15,3.75
+18093,79064.36782,Lawrence,Indiana,3.9,19,2,3.5
+18095,78514.17625,Madison,Indiana,3.8,30,5,4
+18097,110059.6386,Marion,Indiana,3.5,242,23,2.857142857
+18099,105940.2299,Marshall,Indiana,3.2,16,4,NA
+18103,67084.67433,Miami,Indiana,4,11,1,3
+18105,131267.0498,Monroe,Indiana,3.8,30,3,4
+18113,97445.97701,Noble,Indiana,3,16,1,4
+18117,71612.64368,Orange,Indiana,3.9,8,1,3
+18123,77069.7318,Perry,Indiana,3.7,5,1,4
+18127,153909.9617,Porter,Indiana,3.9,53,3,4
+18131,74734.09962,Pulaski,Indiana,3.2,6,1,4
+18133,107090.0383,Putnam,Indiana,3.7,17,1,4
+18135,68963.60153,Randolph,Indiana,3.9,13,1,4
+18137,107320.6897,Ripley,Indiana,3.7,13,1,4
+18139,82697.89474,Rush,Indiana,2.9,8,1,3
+18141,NA,Saint Joseph,Indiana,3.6,72,7,4
+18145,104604.5977,Shelby,Indiana,3.1,16,1,4
+18151,124740.9962,Steuben,Indiana,2.7,9,1,3
+18153,65746.45161,Sullivan,Indiana,4.6,9,1,2
+18157,119962.8352,Tippecanoe,Indiana,3.2,37,7,3
+18159,97292.72031,Tipton,Indiana,2.9,5,1,4
+18163,93578.9272,Vanderburgh,Indiana,3.2,39,6,3
+18165,65162.06897,Vermillion,Indiana,5.5,7,1,4
+18167,74185.05747,Vigo,Indiana,4.4,29,4,3.5
+18171,79751.72414,Warren,Indiana,3.3,4,1,3
+18173,128038.6973,Warrick,Indiana,3,17,4,4
+18175,83927.58621,Washington,Indiana,3.5,8,1,NA
+18179,100350.1916,Wells,Indiana,2.8,9,1,3
+18181,NA,White,Indiana,3.1,12,1,3
+18183,108888.5057,Whitley,Indiana,2.8,11,1,4
+19001,NA,Adair,Iowa,2.4,5,1,NA
+19005,NA,Allamakee,Iowa,3.1,10,1,NA
+19007,NA,Appanoose,Iowa,3.3,12,1,4
+19009,NA,Audubon,Iowa,2.6,3,1,NA
+19011,95424.30279,Benton,Iowa,2.7,14,1,NA
+19013,96616.85824,Black Hawk,Iowa,2.9,36,3,3
+19015,96521.88841,Boone,Iowa,2.2,17,1,3
+19017,100807.7551,Bremer,Iowa,2.1,19,2,3.666666667
+19019,NA,Buchanan,Iowa,2.6,18,2,NA
+19021,78070.88123,Buena Vista,Iowa,2.2,15,1,3
+19025,NA,Calhoun,Iowa,2.6,6,1,4
+19029,NA,Cass,Iowa,2.7,13,1,3
+19033,93957.71812,Cerro Gordo,Iowa,2.6,14,2,3
+19035,NA,Cherokee,Iowa,2.2,11,2,3
+19041,82783.67347,Clay,Iowa,3.3,7,1,4
+19043,NA,Clayton,Iowa,3.2,11,2,NA
+19045,80985.05747,Clinton,Iowa,3.2,20,3,2
+19047,NA,Crawford,Iowa,3.5,13,2,3
+19049,184800,Dallas,Iowa,1.7,31,1,NA
+19053,NA,Decatur,Iowa,2.3,7,1,NA
+19057,77957.85441,Des Moines,Iowa,3.3,17,1,2
+19059,NA,Dickinson,Iowa,3.1,10,1,4
+19061,139865.1685,Dubuque,Iowa,2.5,27,3,4
+19069,NA,Franklin,Iowa,2.2,8,1,NA
+19071,NA,Fremont,Iowa,1.9,8,1,NA
+19073,NA,Greene,Iowa,2.3,7,1,NA
+19075,NA,Grundy,Iowa,2.5,11,1,NA
+19077,NA,Guthrie,Iowa,2.6,10,1,NA
+19079,NA,Hamilton,Iowa,2.7,11,1,3
+19081,NA,Hancock,Iowa,2.3,7,1,3
+19083,NA,Hardin,Iowa,2.9,13,2,NA
+19091,NA,Humboldt,Iowa,2.5,6,1,NA
+19093,NA,Ida,Iowa,2,5,1,3
+19095,112216.7598,Iowa,Iowa,2.1,9,1,NA
+19099,88692.05021,Jasper,Iowa,2.6,19,1,3
+19101,NA,Jefferson,Iowa,2.5,8,1,4
+19103,161692.8287,Johnson,Iowa,1.9,35,4,3.8
+19105,NA,Jones,Iowa,3,10,2,NA
+19107,NA,Keokuk,Iowa,2.9,7,1,NA
+19111,NA,Lee,Iowa,4.1,13,3,3
+19113,119816.4751,Linn,Iowa,2.8,75,2,2.25
+19125,95107.34694,Marion,Iowa,2.1,18,3,4
+19135,NA,Monroe,Iowa,3,5,1,3
+19137,NA,Montgomery,Iowa,2.5,10,1,4
+19139,96154.39331,Muscatine,Iowa,2.7,17,1,3
+19145,NA,Page,Iowa,2.7,11,4,3.5
+19147,NA,Palo Alto,Iowa,2.2,9,1,NA
+19149,NA,Plymouth,Iowa,1.9,17,1,4
+19153,131733.3333,Polk,Iowa,2.5,131,9,3.25
+19155,111344.898,Pottawattamie,Iowa,2.3,37,2,4
+19159,NA,Ringgold,Iowa,2.8,4,2,NA
+19161,NA,Sac,Iowa,2.4,8,1,3
+19163,119114.5594,Scott,Iowa,3,57,4,3.5
+19167,145805.3097,Sioux,Iowa,1.8,15,6,4
+19169,150882.0225,Story,Iowa,1.6,28,4,3
+19175,NA,Union,Iowa,3.6,6,1,4
+19179,NA,Wapello,Iowa,3.5,15,1,3
+19183,89554.78927,Washington,Iowa,2.3,14,1,NA
+19197,NA,Wright,Iowa,2.7,10,2,4.5
+20001,62015.70881,Allen,Kansas,4,10,2,2
+20003,65355.31915,Anderson,Kansas,3.5,7,1,NA
+20005,82838.29787,Atchison,Kansas,4.6,6,1,3
+20007,56240.42553,Barber,Kansas,2.6,4,3,NA
+20009,68260.17699,Barton,Kansas,3.2,15,3,3.5
+20013,68081.22605,Brown,Kansas,3.1,7,2,2
+20015,121811.4943,Butler,Kansas,3.5,43,2,3.5
+20019,46647.87234,Chautauqua,Kansas,4.1,4,1,NA
+20021,60781.6,Cherokee,Kansas,3.7,15,2,NA
+20023,65374.46809,Cheyenne,Kansas,2.4,4,1,NA
+20025,60312.76596,Clark,Kansas,2.5,5,2,NA
+20027,84303.19149,Clay,Kansas,3.2,6,1,3
+20029,57698.93617,Cloud,Kansas,3.5,8,1,NA
+20031,85692.55319,Coffey,Kansas,4.8,11,2,4
+20033,52527.65957,Comanche,Kansas,2.6,3,1,NA
+20035,62569.9115,Cowley,Kansas,3.4,24,2,3.5
+20037,67128,Crawford,Kansas,4,17,2,3
+20039,61234.04255,Decatur,Kansas,2.9,2,1,NA
+20041,92598.93617,Dickinson,Kansas,3.5,18,2,3.25
+20045,152852.1073,Douglas,Kansas,3,30,1,3
+20047,51815.95745,Edwards,Kansas,2.5,3,1,NA
+20051,134384.0426,Ellis,Kansas,2.4,11,1,3
+20053,65850,Ellsworth,Kansas,2.8,6,1,4
+20055,98067.04981,Finney,Kansas,2.5,21,1,3
+20057,88821.2766,Ford,Kansas,2.5,16,1,3
+20059,95926.15385,Franklin,Kansas,3.5,15,1,4
+20061,131408.8496,Geary,Kansas,4.9,16,2,3
+20067,NA,Grant,Kansas,2.8,4,1,NA
+20073,51629.78723,Greenwood,Kansas,3.6,6,1,NA
+20075,NA,Hamilton,Kansas,1.9,2,1,NA
+20077,57786.17021,Harper,Kansas,2.9,5,2,NA
+20079,NA,Harvey,Kansas,3.2,18,2,3.5
+20081,91682.97872,Haskell,Kansas,2.1,5,1,NA
+20085,91537.23404,Jackson,Kansas,3,9,1,NA
+20089,56126.59574,Jewell,Kansas,2.8,2,1,NA
+20091,198116.8317,Johnson,Kansas,2.8,156,17,3.8
+20093,88242.55319,Kearny,Kansas,2.3,6,1,NA
+20095,72031.91489,Kingman,Kansas,3.2,8,1,NA
+20097,81690.42553,Kiowa,Kansas,2.4,4,1,NA
+20099,NA,Labette,Kansas,4,18,3,4
+20103,132948.659,Leavenworth,Kansas,3.6,28,3,4
+20105,59295.74468,Lincoln,Kansas,2.5,3,1,NA
+20111,NA,Lyon,Kansas,3.5,16,1,3
+20113,118314.8936,McPherson,Kansas,2.6,20,3,3.6
+20115,NA,Marion,Kansas,3,11,2,NA
+20119,64324.46809,Meade,Kansas,2.1,5,1,NA
+20121,139272.7969,Miami,Kansas,3.5,15,2,4
+20123,72988.29787,Mitchell,Kansas,2.3,6,1,3
+20125,NA,Montgomery,Kansas,4.3,12,2,3
+20127,79446.80851,Morris,Kansas,2.7,6,1,NA
+20131,83985.10638,Nemaha,Kansas,2.3,10,2,NA
+20133,57537.23404,Neosho,Kansas,4.9,10,1,3
+20141,56809.57447,Osborne,Kansas,2.7,6,1,NA
+20143,81125.53191,Ottawa,Kansas,2.9,6,1,NA
+20151,72930.85106,Pratt,Kansas,2.8,6,1,3
+20155,77160.17699,Reno,Kansas,3.6,32,2,2
+20157,58724.46809,Republic,Kansas,2.7,5,1,3
+20161,159723.8938,Riley,Kansas,2.8,18,2,NA
+20163,61268.08511,Rooks,Kansas,3.2,8,1,NA
+20165,57225.53191,Rush,Kansas,2.8,6,1,NA
+20167,59964.75096,Russell,Kansas,2.9,5,1,NA
+20169,105253.0973,Saline,Kansas,3,16,2,3
+20173,103887.3563,Sedgwick,Kansas,3.8,157,13,4.5
+20175,91803.19149,Seward,Kansas,3.3,14,1,3
+20177,105037.1681,Shawnee,Kansas,3.5,56,5,3
+20181,72964.89362,Sherman,Kansas,2.9,5,1,NA
+20183,57798.93617,Smith,Kansas,2.5,4,1,4
+20185,54686.17021,Stafford,Kansas,2.7,6,1,NA
+20189,88017.02128,Stevens,Kansas,2.8,6,1,NA
+20191,70706.38298,Sumner,Kansas,3.5,20,2,2
+20193,88612.76596,Thomas,Kansas,2.6,7,1,3.666666667
+20205,57795.74468,Wilson,Kansas,4.4,8,2,3.5
+20209,70669.7318,Wyandotte,Kansas,4.7,61,4,3.333333333
+21001,NA,Adair,Kentucky,5.3,5,1,4
+21003,NA,Allen,Kentucky,3.6,5,1,3
+21009,NA,Barren,Kentucky,4.3,20,1,3
+21013,NA,Bell,Kentucky,6.3,21,2,4
+21017,99357.08812,Bourbon,Kentucky,3.9,10,1,3
+21021,114121.0728,Boyle,Kentucky,4.4,14,1,2
+21027,NA,Breckinridge,Kentucky,5.1,10,1,3
+21033,NA,Caldwell,Kentucky,4.7,5,1,3
+21041,NA,Carroll,Kentucky,4.3,7,1,3
+21045,NA,Casey,Kentucky,4.5,6,1,4
+21047,92529.50192,Christian,Kentucky,5.2,27,3,2
+21049,125436.7816,Clark,Kentucky,4.1,19,1,4
+21057,NA,Cumberland,Kentucky,4.5,3,1,3
+21059,105561.3027,Daviess,Kentucky,3.9,34,2,3
+21065,NA,Estill,Kentucky,5.2,6,1,4
+21067,132121.0728,Fayette,Kentucky,3.3,78,11,3
+21069,NA,Fleming,Kentucky,5.3,6,1,3
+21071,NA,Floyd,Kentucky,6.4,18,3,2
+21073,114829.8851,Franklin,Kentucky,3.8,18,1,3
+21083,NA,Graves,Kentucky,4.9,18,1,3
+21085,NA,Grayson,Kentucky,4.8,8,1,4
+21089,NA,Greenup,Kentucky,6.4,16,1,3
+21093,113733.4661,Hardin,Kentucky,4.1,41,3,4
+21095,NA,Harlan,Kentucky,7.3,14,1,2
+21097,NA,Harrison,Kentucky,4.1,8,1,3
+21099,NA,Hart,Kentucky,3.8,8,1,3
+21101,99196.93487,Henderson,Kentucky,3.8,14,1,3.666666667
+21107,80345.92275,Hopkins,Kentucky,4.3,21,1,3
+21111,120214.1762,Jefferson,Kentucky,4.1,177,17,1
+21115,NA,Johnson,Kentucky,6.5,15,1,3
+21121,NA,Knox,Kentucky,6.2,16,1,1
+21127,NA,Lawrence,Kentucky,7,6,1,3
+21137,74138.31418,Lincoln,Kentucky,5,11,1,3
+21141,NA,Logan,Kentucky,3.8,10,1,3
+21145,103195.0192,McCracken,Kentucky,5.5,22,2,2.5
+21151,124052.8634,Madison,Kentucky,3.9,27,2,3
+21155,NA,Marion,Kentucky,3.7,9,1,3
+21157,135837.931,Marshall,Kentucky,5.3,12,1,3
+21161,NA,Mason,Kentucky,5.4,5,1,3
+21171,NA,Monroe,Kentucky,3.9,7,1,2
+21173,99755.13514,Montgomery,Kentucky,5.9,13,1,3
+21175,NA,Morgan,Kentucky,6.1,9,1,NA
+21179,NA,Nelson,Kentucky,4.3,19,1,4
+21183,NA,Ohio,Kentucky,5.7,11,1,3
+21185,221177.0115,Oldham,Kentucky,3.3,23,2,3
+21193,NA,Perry,Kentucky,6.3,17,1,2
+21195,NA,Pike,Kentucky,6,26,2,2.5
+21199,NA,Pulaski,Kentucky,5,19,1,2
+21207,NA,Russell,Kentucky,5.8,6,1,2
+21209,145013.0268,Scott,Kentucky,3.3,15,1,3
+21213,NA,Simpson,Kentucky,3.9,6,1,4
+21217,85377.77778,Taylor,Kentucky,4.3,8,1,3
+21227,121464.751,Warren,Kentucky,3.6,43,4,3.5
+21231,NA,Wayne,Kentucky,6.8,9,1,NA
+21239,NA,Woodford,Kentucky,3,7,1,NA
+22001,108304.2553,Acadia,Louisiana,5.4,27,6,2
+22003,NA,Allen,Louisiana,5.5,12,2,3
+22005,155662.2318,Ascension,Louisiana,4.1,28,6,NA
+22007,130263.8298,Assumption,Louisiana,6.7,10,1,NA
+22009,85566.43357,Avoyelles,Louisiana,5.7,12,3,3
+22011,96640.71856,Beauregard,Louisiana,5.3,12,2,3
+22013,86890.4,Bienville,Louisiana,5.8,9,1,NA
+22017,95864.07767,Caddo,Louisiana,5.4,72,14,2
+22019,112495.4023,Calcasieu,Louisiana,3.7,62,11,3.333333333
+22021,74499.3007,Caldwell,Louisiana,5.7,6,2,3.25
+22023,133728.3871,Cameron,Louisiana,3.4,4,1,NA
+22027,84163.63636,Claiborne,Louisiana,5.2,7,1,4
+22029,87690.20979,Concordia,Louisiana,6.9,11,2,NA
+22031,104538.4615,De Soto,Louisiana,5.7,9,1,3
+22033,123388.0851,East Baton Rouge,Louisiana,4.3,128,23,2.5
+22037,129272.6316,East Feliciana,Louisiana,4.6,8,4,NA
+22039,NA,Evangeline,Louisiana,5.6,12,2,4
+22041,70198.6014,Franklin,Louisiana,7.1,6,1,2
+22049,95126.57343,Jackson,Louisiana,4.6,5,1,NA
+22051,145884.4311,Jefferson,Louisiana,4.3,86,17,3.333333333
+22053,NA,Jefferson Davis,Louisiana,4.6,13,4,3
+22055,NA,Lafayette,Louisiana,4.5,45,17,2.333333333
+22057,149007.6628,Lafourche,Louisiana,4.8,32,3,4
+22059,NA,La Salle,Louisiana,4.5,9,2,3
+22061,130574.477,Lincoln,Louisiana,5.2,17,5,2
+22065,108125.974,Madison,Louisiana,8.1,6,1,NA
+22067,NA,Morehouse,Louisiana,8,11,3,2
+22069,121559.2,Natchitoches,Louisiana,5.9,17,2,4
+22071,149777.5281,Orleans,Louisiana,4.9,91,15,2.333333333
+22073,NA,Ouachita,Louisiana,5.1,59,11,2.5
+22077,NA,Pointe Coupee,Louisiana,5.3,6,1,3
+22079,89681.6092,Rapides,Louisiana,5.2,55,13,3.5
+22081,86334.26573,Red River,Louisiana,4.5,5,2,NA
+22083,79613.08411,Richland,Louisiana,6.2,13,2,3
+22085,NA,Sabine,Louisiana,5.2,11,1,3
+22097,84500.76628,Saint Landry,Louisiana,6.2,36,6,3
+22101,NA,Saint Mary,Louisiana,6.7,25,2,3
+22103,167087.5,Saint Tammany,Louisiana,4.1,56,15,3.333333333
+22105,139840.9962,Tangipahoa,Louisiana,5.3,34,10,NA
+22109,116577.7778,Terrebonne,Louisiana,5,34,5,3
+22111,112579.661,Union,Louisiana,5.6,8,3,3
+22113,NA,Vermilion,Louisiana,5.2,22,2,3
+22115,112287.4126,Vernon,Louisiana,6.4,19,4,3
+22117,84557.89474,Washington,Louisiana,5.7,16,4,4
+22119,103159.5745,Webster,Louisiana,6.1,16,2,4
+22123,79925.97403,West Carroll,Louisiana,9,5,1,3
+22125,206795.8042,West Feliciana,Louisiana,3.9,5,1,NA
+22127,77609.96169,Winn,Louisiana,6.1,8,3,3
+23001,116588.5057,Androscoggin,Maine,3.1,36,2,3
+23003,NA,Aroostook,Maine,4.5,50,6,3.5
+23005,199767.433,Cumberland,Maine,2.5,98,8,3.428571429
+23007,NA,Franklin,Maine,3.8,17,1,3
+23009,NA,Hancock,Maine,3.5,34,4,4
+23011,115158.6207,Kennebec,Maine,3,53,8,4
+23013,212802.3121,Knox,Maine,3,24,1,3
+23017,130024.2236,Oxford,Maine,3.7,32,2,3
+23019,121331.4607,Penobscot,Maine,3.6,76,6,3
+23021,NA,Piscataquis,Maine,3.9,8,2,3
+23027,NA,Waldo,Maine,3.3,26,1,3
+23029,NA,Washington,Maine,4.6,38,2,3.5
+23031,221408.046,York,Maine,2.8,61,5,3.5
+24001,70217.62452,Allegany,Maryland,5.7,22,2,NA
+24003,263459.7701,Anne Arundel,Maryland,3.5,123,2,NA
+24005,191647.5096,Baltimore,Maryland,4.2,174,7,NA
+24013,253365.5172,Carroll,Maryland,3.4,47,2,NA
+24015,186104.5977,Cecil,Maryland,4.6,29,2,NA
+24017,239665.5172,Charles,Maryland,4.1,38,1,NA
+24021,245143.6782,Frederick,Maryland,3.6,67,1,NA
+24023,122121.8391,Garrett,Maryland,5.1,12,1,NA
+24025,220396.9349,Harford,Maryland,3.8,54,2,NA
+24027,344314.5594,Howard,Maryland,3.2,76,3,NA
+24029,188327.1967,Kent,Maryland,4.6,7,1,NA
+24031,347851.7241,Montgomery,Maryland,3.3,208,8,1.5
+24033,212883.1418,Prince Georges,Maryland,4.3,211,7,NA
+24037,227955.9387,Saint Marys,Maryland,4,27,1,NA
+24039,NA,Somerset,Maryland,7.2,9,1,NA
+24041,250119.1571,Talbot,Maryland,4,8,1,NA
+24043,157805.364,Washington,Maryland,4.5,46,3,NA
+24045,117737.1648,Wicomico,Maryland,5.5,25,3,NA
+24047,200147.8927,Worcester,Maryland,8.4,14,1,NA
+24510,91968.58238,Baltimore City,Maryland,5.9,190,18,2.25
+25001,306211.8774,Barnstable,Massachusetts,4.4,55,4,3.5
+25003,172992.3372,Berkshire,Massachusetts,4.1,47,4,4.5
+25005,233100.3831,Bristol,Massachusetts,4.4,148,10,3.5
+25009,301534.4828,Essex,Massachusetts,3.5,232,16,2.5
+25011,167926.8199,Franklin,Massachusetts,3.1,40,1,3
+25013,158308.8123,Hampden,Massachusetts,4.7,161,10,3
+25015,207024.5211,Hampshire,Massachusetts,3.1,50,4,4
+25017,349330.2682,Middlesex,Massachusetts,2.8,384,24,3.166666667
+25019,1009348.659,Nantucket,Massachusetts,5,3,1,NA
+25021,334959.0038,Norfolk,Massachusetts,3.1,193,14,2.75
+25023,275750.1916,Plymouth,Massachusetts,3.6,139,8,2.75
+25025,310737.5479,Suffolk,Massachusetts,3.1,173,24,3.5
+25027,212152.4904,Worcester,Massachusetts,3.6,256,15,3
+26003,NA,Alger,Michigan,8,5,1,NA
+26005,127090.4215,Allegan,Michigan,3.5,54,2,4
+26007,NA,Alpena,Michigan,5.3,11,1,4
+26011,NA,Arenac,Michigan,7.4,10,1,4
+26013,NA,Baraga,Michigan,6.6,6,1,2
+26017,85633.71648,Bay,Michigan,5,39,3,3
+26019,169892.7203,Benzie,Michigan,5.7,8,1,NA
+26021,122226.5896,Berrien,Michigan,4.5,81,4,3
+26023,98849.15254,Branch,Michigan,3.9,18,1,4
+26025,88654.40613,Calhoun,Michigan,4.4,57,5,4
+26027,NA,Cass,Michigan,4.2,21,1,4
+26029,NA,Charlevoix,Michigan,5,15,1,3
+26033,NA,Chippewa,Michigan,6.9,21,1,4
+26035,NA,Clare,Michigan,6.2,15,1,3
+26037,146832.1839,Clinton,Michigan,3.3,31,1,4
+26041,79147.16981,Delta,Michigan,5.6,18,1,3.5
+26043,NA,Dickinson,Michigan,4,13,2,4
+26045,122016.4751,Eaton,Michigan,3.6,46,2,3
+26047,169933.4694,Emmet,Michigan,6.2,17,1,5
+26049,92921.875,Genesee,Michigan,5.1,149,4,1.666666667
+26051,83281.22449,Gladwin,Michigan,5.9,8,1,4
+26053,NA,Gogebic,Michigan,5.3,8,1,3
+26055,152595.7854,Grand Traverse,Michigan,3.8,33,1,4
+26057,74107.7551,Gratiot,Michigan,4.9,24,1,3
+26061,NA,Houghton,Michigan,5.3,20,2,3
+26063,NA,Huron,Michigan,4.9,26,3,4
+26065,114438.247,Ingham,Michigan,3.8,102,6,2.5
+26067,107151.7241,Ionia,Michigan,3.6,29,2,3
+26069,71411.86441,Iosco,Michigan,6.7,9,1,4
+26073,NA,Isabella,Michigan,4.1,23,1,4
+26075,101800,Jackson,Michigan,4.2,60,2,4
+26077,126205.5866,Kalamazoo,Michigan,3.6,86,2,3
+26079,NA,Kalkaska,Michigan,6.1,10,1,NA
+26081,129010.728,Kent,Michigan,3.1,234,8,3.666666667
+26087,138967.5127,Lapeer,Michigan,5.1,29,1,3
+26091,111239.4636,Lenawee,Michigan,4.2,48,2,3
+26093,196293.1034,Livingston,Michigan,3.3,46,2,4
+26097,NA,Mackinac,Michigan,10.7,9,1,3
+26099,136660.1533,Macomb,Michigan,4,243,7,2
+26103,107138.6454,Marquette,Michigan,5.1,25,2,3
+26105,NA,Mason,Michigan,5,14,1,4
+26107,103261.753,Mecosta,Michigan,5.1,17,1,3
+26111,118480.4598,Midland,Michigan,4.2,26,1,4
+26115,131202.2989,Monroe,Michigan,4.3,52,1,3
+26117,83027.09163,Montcalm,Michigan,4.4,31,4,3
+26121,88624.52107,Muskegon,Michigan,4.8,73,3,4
+26123,86486.45161,Newaygo,Michigan,4.5,24,1,4
+26125,179289.272,Oakland,Michigan,3.3,360,17,2.8
+26129,NA,Ogemaw,Michigan,7.3,7,1,4
+26131,NA,Ontonagon,Michigan,8.1,3,1,NA
+26137,110391.4286,Otsego,Michigan,5.5,9,1,4
+26139,149332.9502,Ottawa,Michigan,2.9,93,3,4.5
+26145,76426.43678,Saginaw,Michigan,5,79,8,2.75
+26147,124095.0192,Saint Clair,Michigan,4.7,59,3,2.666666667
+26149,91934.30962,Saint Joseph,Michigan,3.8,34,2,3.5
+26151,NA,Sanilac,Michigan,5.4,20,3,4
+26153,NA,Schoolcraft,Michigan,7.6,3,2,4
+26155,103962.8352,Shiawassee,Michigan,4.5,33,1,2
+26157,73838.46154,Tuscola,Michigan,5.8,29,2,4
+26159,104858.1673,Van Buren,Michigan,5.1,46,2,4
+26161,198259.387,Washtenaw,Michigan,3.2,98,7,3.333333333
+26163,80080.38462,Wayne,Michigan,5.2,590,28,1.777777778
+27001,154676.5957,Aitkin,Minnesota,5.7,10,1,4
+27003,175778.9272,Anoka,Minnesota,2.8,112,2,3.75
+27007,140153.4031,Beltrami,Minnesota,4.2,37,2,3
+27015,NA,Brown,Minnesota,3.5,13,3,4
+27017,153219.5402,Carlton,Minnesota,4.1,24,2,3.714285714
+27019,234788.8889,Carver,Minnesota,2.5,39,1,4
+27025,173526.4368,Chisago,Minnesota,3.4,21,1,4
+27029,NA,Clearwater,Minnesota,7.9,5,1,NA
+27031,NA,Cook,Minnesota,3.1,8,1,NA
+27033,NA,Cottonwood,Minnesota,4,11,2,NA
+27035,NA,Crow Wing,Minnesota,3.8,22,2,3
+27037,204452.4904,Dakota,Minnesota,2.5,135,3,4
+27041,164246.4435,Douglas,Minnesota,2.8,17,1,3
+27043,82731.46853,Faribault,Minnesota,3.5,14,1,3
+27049,143799.6169,Goodhue,Minnesota,2.8,30,4,4
+27053,196116.8582,Hennepin,Minnesota,2.5,475,12,3.75
+27059,145214.5594,Isanti,Minnesota,3.8,20,1,4
+27061,126346.7433,Itasca,Minnesota,5.5,28,3,NA
+27065,133284.9372,Kanabec,Minnesota,5.4,7,1,4
+27067,135698.8506,Kandiyohi,Minnesota,3,20,1,4
+27071,NA,Koochiching,Minnesota,6.1,8,1,NA
+27075,176398.4674,Lake,Minnesota,3.1,5,1,NA
+27083,120292.8144,Lyon,Minnesota,2.9,15,2,NA
+27095,149692.4528,Mille Lacs,Minnesota,4.8,21,1,3
+27097,135876.6284,Morrison,Minnesota,4.7,23,1,3
+27107,NA,Norman,Minnesota,4.5,7,1,NA
+27109,155167.433,Olmsted,Minnesota,2.4,66,3,3
+27111,208880.0766,Otter Tail,Minnesota,3.6,33,2,4
+27115,133879.4258,Pine,Minnesota,4.8,14,3,3
+27119,NA,Polk,Minnesota,3.7,21,2,3
+27121,NA,Pope,Minnesota,2.7,9,1,4
+27123,170966.2835,Ramsey,Minnesota,2.7,252,6,3.4
+27127,NA,Redwood,Minnesota,3.8,14,1,4
+27131,168276.0181,Rice,Minnesota,2.8,31,1,4
+27133,NA,Rock,Minnesota,2.3,8,1,4
+27135,NA,Roseau,Minnesota,3.5,11,1,NA
+27137,117277.5281,Saint Louis,Minnesota,3.7,89,8,3.5
+27143,NA,Sibley,Minnesota,3.2,12,1,NA
+27145,140058.6207,Stearns,Minnesota,3,63,5,4
+27147,132565.1341,Steele,Minnesota,3.1,20,1,3
+27151,NA,Swift,Minnesota,3.8,9,2,NA
+27153,100680.0766,Todd,Minnesota,3.9,11,2,4
+27155,NA,Traverse,Minnesota,3.2,4,1,NA
+27159,80922.59414,Wadena,Minnesota,5.5,10,1,3
+27163,215673.5632,Washington,Minnesota,2.5,94,2,4
+27165,NA,Watonwan,Minnesota,3.6,9,2,NA
+27169,123520.6897,Winona,Minnesota,2.6,19,1,3
+27171,177494.2529,Wright,Minnesota,3,62,2,4
+27173,NA,Yellow Medicine,Minnesota,3.2,8,2,NA
+28001,108582.9787,Adams,Mississippi,6.1,12,2,2
+28003,80608.42912,Alcorn,Mississippi,4.1,15,1,2
+28007,NA,Attala,Mississippi,5.8,11,1,3
+28011,92167.81609,Bolivar,Mississippi,6,36,1,2
+28019,86817.02128,Choctaw,Mississippi,4.8,5,2,NA
+28021,65791.60305,Claiborne,Mississippi,8.8,4,1,NA
+28035,95951.341,Forrest,Mississippi,4.3,21,2,2
+28041,NA,Greene,Mississippi,6.1,6,1,3
+28045,125947.8723,Hancock,Mississippi,4.8,11,1,3
+28047,NA,Harrison,Mississippi,4.5,53,6,2.333333333
+28049,NA,Hinds,Mississippi,4.5,88,9,2
+28059,112491.4894,Jackson,Mississippi,5.4,46,2,2
+28061,76404.5977,Jasper,Mississippi,5.9,7,1,NA
+28063,NA,Jefferson,Mississippi,12.9,6,1,NA
+28067,NA,Jones,Mississippi,4.8,20,2,NA
+28073,137603.8314,Lamar,Mississippi,3.6,18,2,3
+28075,NA,Lauderdale,Mississippi,5,26,7,2
+28083,54340.42553,Leflore,Mississippi,6.8,15,2,2
+28089,181784,Madison,Mississippi,3.6,31,2,3
+28091,86745.59387,Marion,Mississippi,5.1,10,1,3.333333333
+28093,70954.78927,Marshall,Mississippi,4.7,16,1,3
+28095,NA,Monroe,Mississippi,4.9,14,2,3
+28099,85960.5364,Neshoba,Mississippi,4.7,11,2,3
+28105,161918.0851,Oktibbeha,Mississippi,4.6,11,1,3
+28109,111953.2567,Pearl River,Mississippi,4.7,21,3,NA
+28113,118052.4904,Pike,Mississippi,5.6,16,2,3
+28121,NA,Rankin,Mississippi,3.3,35,7,2.5
+28127,NA,Simpson,Mississippi,4.4,9,2,3
+28129,70598.85057,Smith,Mississippi,4.4,6,1,NA
+28131,128304.5977,Stone,Mississippi,5.5,4,1,NA
+28137,113359.387,Tate,Mississippi,4.7,10,1,3
+28139,93727.65957,Tippah,Mississippi,4.3,10,1,NA
+28149,100213.0268,Warren,Mississippi,5.3,16,2,2
+28151,NA,Washington,Mississippi,7,25,3,2
+28153,80029.31937,Wayne,Mississippi,5.3,8,1,3
+28161,85954.25532,Yalobusha,Mississippi,4.9,4,1,4
+28163,67726.43678,Yazoo,Mississippi,5.4,10,1,2
+29001,NA,Adair,Missouri,3.7,9,1,4
+29009,NA,Barry,Missouri,3.2,19,2,NA
+29011,NA,Barton,Missouri,3.3,10,1,4
+29013,NA,Bates,Missouri,3.8,14,1,3
+29019,129419.9234,Boone,Missouri,2.4,52,6,3
+29023,NA,Butler,Missouri,4.8,19,5,2.5
+29029,165319.1489,Camden,Missouri,4.4,16,2,3
+29031,137319.7802,Cape Girardeau,Missouri,2.8,27,3,2.75
+29033,NA,Carroll,Missouri,3.3,13,1,3
+29037,151532.567,Cass,Missouri,3.1,45,2,3
+29039,NA,Cedar,Missouri,3.6,6,2,NA
+29047,136902.449,Clay,Missouri,3,74,6,3.5
+29049,NA,Clinton,Missouri,3.2,12,1,2
+29051,130204.5977,Cole,Missouri,2.6,27,3,3.5
+29053,NA,Cooper,Missouri,3.3,16,1,3
+29065,NA,Dent,Missouri,3.6,9,1,NA
+29069,NA,Dunklin,Missouri,5.8,21,1,2
+29071,97859.38697,Franklin,Missouri,3.2,43,1,4
+29073,NA,Gasconade,Missouri,3.1,7,1,NA
+29077,108611.4943,Greene,Missouri,2.6,92,9,3
+29079,NA,Grundy,Missouri,3.7,7,1,4
+29081,NA,Harrison,Missouri,3.2,12,1,NA
+29083,NA,Henry,Missouri,3.8,14,2,4
+29091,125652.8736,Howell,Missouri,3.9,15,2,3
+29093,NA,Iron,Missouri,5.7,9,1,NA
+29095,104930.0971,Jackson,Missouri,3.8,232,19,3.333333333
+29097,80581.6092,Jasper,Missouri,2.8,51,2,3.5
+29099,129983.5249,Jefferson,Missouri,3.2,66,1,3
+29101,143054.717,Johnson,Missouri,3.8,26,1,3
+29105,110366.2835,Laclede,Missouri,3.9,13,1,3
+29107,NA,Lafayette,Missouri,3.3,19,1,3
+29109,NA,Lawrence,Missouri,3.3,23,2,NA
+29113,142478.4431,Lincoln,Missouri,3.4,20,1,3
+29117,86675.78947,Livingston,Missouri,2.7,11,2,4
+29121,114055.0847,Macon,Missouri,3.1,14,1,NA
+29123,NA,Madison,Missouri,3.8,6,1,NA
+29127,NA,Marion,Missouri,3.3,14,1,3
+29145,98870.21277,Newton,Missouri,3.1,22,5,3
+29157,97388.65979,Perry,Missouri,2.5,6,1,4
+29159,NA,Pettis,Missouri,4.3,20,1,2
+29161,118421.5385,Phelps,Missouri,3.3,15,1,3
+29163,NA,Pike,Missouri,3.8,12,1,3
+29167,126341.7476,Polk,Missouri,3.8,18,1,3
+29171,NA,Putnam,Missouri,3.6,3,1,NA
+29175,77355.08982,Randolph,Missouri,4.1,15,1,2
+29177,NA,Ray,Missouri,3.7,13,1,NA
+29185,111113.1579,Saint Clair,Missouri,4.6,7,2,NA
+29186,NA,Sainte Genevieve,Missouri,3,4,1,3
+29189,145947.1264,Saint Louis,Missouri,3.1,269,22,2.75
+29195,NA,Saline,Missouri,3.3,18,2,3
+29201,91678.7234,Scott,Missouri,3.6,23,1,3
+29207,87250,Stoddard,Missouri,4.7,21,1,3
+29211,NA,Sullivan,Missouri,3.4,8,1,NA
+29213,NA,Taney,Missouri,5.5,21,1,4
+29215,NA,Texas,Missouri,4.3,16,1,3
+29217,NA,Vernon,Missouri,3.3,14,2,3
+29221,NA,Washington,Missouri,4.7,12,1,NA
+30001,NA,Beaverhead,Montana,3.2,12,1,4
+30007,NA,Broadwater,Montana,4,3,1,NA
+30009,191680.8511,Carbon,Montana,3.6,19,1,NA
+30015,191809.5745,Chouteau,Montana,3.1,15,2,NA
+30017,149018.0851,Custer,Montana,3.2,16,1,3
+30021,149850,Dawson,Montana,2.8,10,1,NA
+30023,NA,Deer Lodge,Montana,3.6,4,2,3
+30027,164838.2979,Fergus,Montana,3.9,24,1,4
+30029,NA,Flathead,Montana,4.9,46,3,3.333333333
+30035,173045.7447,Glacier,Montana,7.9,19,2,NA
+30039,NA,Granite,Montana,5.6,7,1,NA
+30041,162570.2128,Hill,Montana,3.5,19,1,2
+30047,NA,Lake,Montana,4.2,22,2,3
+30053,120832.9787,Lincoln,Montana,7.7,14,1,3
+30057,215070.3704,Madison,Montana,3.7,13,2,NA
+30061,NA,Mineral,Montana,7.6,9,1,NA
+30063,194167.5,Missoula,Montana,3.4,41,2,4
+30065,NA,Musselshell,Montana,4.3,6,1,NA
+30067,182944.0613,Park,Montana,3.9,16,2,3
+30073,186808.5106,Pondera,Montana,4.1,17,1,NA
+30077,178460.5364,Powell,Montana,4.3,9,1,NA
+30085,NA,Roosevelt,Montana,4.5,22,3,NA
+30089,102067.6056,Sanders,Montana,6.3,17,1,NA
+30093,108601.0638,Silver Bow,Montana,4.1,12,2,3
+30099,NA,Teton,Montana,3.4,16,1,NA
+30101,NA,Toole,Montana,2.9,11,1,NA
+30105,163322.3404,Valley,Montana,3.2,17,1,3
+31011,93678.32168,Boone,Nebraska,2.3,10,1,4
+31019,NA,Buffalo,Nebraska,2.4,27,3,3
+31021,NA,Burt,Nebraska,3.4,7,1,NA
+31031,NA,Cherry,Nebraska,2.2,13,1,3
+31033,NA,Cheyenne,Nebraska,2.8,12,2,3
+31047,NA,Dawson,Nebraska,2.8,19,3,3
+31055,123922.2222,Douglas,Nebraska,3.1,194,18,3.666666667
+31067,83876.24521,Gage,Nebraska,3.2,13,2,4
+31081,NA,Hamilton,Nebraska,2.5,9,1,3.25
+31089,NA,Holt,Nebraska,2.6,14,2,3
+31097,72828.35249,Johnson,Nebraska,3.6,7,1,NA
+31101,NA,Keith,Nebraska,3,8,1,3
+31105,57444.82759,Kimball,Nebraska,2.7,2,1,NA
+31107,63952.80899,Knox,Nebraska,3.1,15,1,NA
+31109,124354.023,Lancaster,Nebraska,2.6,87,8,4.333333333
+31111,103822.9885,Lincoln,Nebraska,3,23,1,3
+31119,105253.6398,Madison,Nebraska,2.5,23,3,4
+31125,NA,Nance,Nebraska,2.5,4,1,NA
+31127,NA,Nemaha,Nebraska,3.5,8,1,NA
+31131,119513.4831,Otoe,Nebraska,2.9,9,3,3.5
+31141,NA,Platte,Nebraska,2.7,15,1,3.666666667
+31145,NA,Red Willow,Nebraska,2.3,8,1,3.5
+31151,NA,Saline,Nebraska,3,9,2,3
+31153,140885.8238,Sarpy,Nebraska,2.6,64,3,3
+31155,NA,Saunders,Nebraska,2.7,19,1,NA
+31157,112500,Scotts Bluff,Nebraska,3.2,27,1,3
+31159,117319.1571,Seward,Nebraska,2.6,7,1,3.25
+32001,NA,Churchill,Nevada,4,8,1,NA
+32003,180542.5287,Clark,Nevada,4.8,396,43,2.2
+32005,277684.6743,Douglas,Nevada,4.3,14,2,3
+32007,181273.9464,Elko,Nevada,3.3,37,2,3
+32013,169270.1149,Humboldt,Nevada,3.5,15,1,3
+32015,NA,Lander,Nevada,3.7,6,1,NA
+32017,NA,Lincoln,Nevada,4.5,11,1,NA
+32019,154755.5556,Lyon,Nevada,5.5,20,3,NA
+32023,NA,Nye,Nevada,5.8,29,2,4
+32027,NA,Pershing,Nevada,4.2,5,1,NA
+32031,221953.2567,Washoe,Nevada,3.7,120,14,2.75
+32033,NA,White Pine,Nevada,3.7,12,1,NA
+32510,238548.3871,Carson City,Nevada,4.7,16,3,3
+33001,171377.0115,Belknap,New Hampshire,2.6,22,1,3
+33003,210645.933,Carroll,New Hampshire,2.6,22,2,3.307692308
+33005,152462.4521,Cheshire,New Hampshire,2.6,36,1,4
+33007,105392.9515,Coos,New Hampshire,3.3,23,3,3
+33009,151873.1801,Grafton,New Hampshire,2.1,51,5,3.25
+33011,201978.5441,Hillsborough,New Hampshire,2.7,115,11,3.111111111
+33013,181951.7241,Merrimack,New Hampshire,2.3,62,4,3.333333333
+33015,234257.4713,Rockingham,New Hampshire,2.8,94,6,3
+33017,178459.387,Strafford,New Hampshire,2.3,37,2,4
+33019,152971.8367,Sullivan,New Hampshire,2.2,26,1,4
+34001,181467.433,Atlantic,New Jersey,5.9,83,9,4
+34003,373132.1839,Bergen,New Jersey,3.5,283,10,2.833333333
+34005,195624.1379,Burlington,New Jersey,3.8,145,9,3
+34007,148403.0651,Camden,New Jersey,4.6,172,11,4
+34011,121950.1916,Cumberland,New Jersey,6.5,57,4,2
+34013,286636.7816,Essex,New Jersey,5.2,257,14,2
+34015,174114.1762,Gloucester,New Jersey,4.2,86,3,3
+34017,274449.4253,Hudson,New Jersey,3.9,128,8,1.8
+34019,335381.9923,Hunterdon,New Jersey,3.3,56,1,3
+34021,204894.2529,Mercer,New Jersey,3.7,104,12,2.75
+34023,256868.5824,Middlesex,New Jersey,3.7,203,13,2.5
+34025,321504.5977,Monmouth,New Jersey,3.7,190,8,3.25
+34029,232932.1839,Ocean,New Jersey,4.4,117,9,3
+34033,136048.659,Salem,New Jersey,5.4,33,2,3
+34035,330569.3487,Somerset,New Jersey,3.5,76,5,2
+34039,277143.6782,Union,New Jersey,4.4,173,10,2.333333333
+35001,156812.2605,Bernalillo,New Mexico,4.4,202,17,3.333333333
+35005,NA,Chaves,New Mexico,4.8,33,3,2.5
+35006,131728.7356,Cibola,New Mexico,6.3,18,2,3
+35013,127921.8391,Dona Ana,New Mexico,5.7,76,6,2.714285714
+35015,137978.9272,Eddy,New Mexico,3.4,27,2,3
+35017,130716.0584,Grant,New Mexico,4.9,16,1,4
+35019,127382.9787,Guadalupe,New Mexico,5.3,8,1,NA
+35025,NA,Lea,New Mexico,4.2,38,2,2
+35027,219781.6092,Lincoln,New Mexico,4.5,15,1,3
+35028,244965.9574,Los Alamos,New Mexico,3.2,7,1,3
+35029,NA,Luna,New Mexico,11.9,11,1,2
+35031,153562.8352,McKinley,New Mexico,7,54,4,2
+35035,NA,Otero,New Mexico,4.8,24,2,2
+35039,158378.7234,Rio Arriba,New Mexico,5.1,31,1,4
+35041,NA,Roosevelt,New Mexico,4.3,13,1,3
+35043,188021.8391,Sandoval,New Mexico,4.9,47,2,3
+35045,184402.2989,San Juan,New Mexico,5.3,62,3,2
+35049,250131.4176,Santa Fe,New Mexico,4.1,54,3,2
+35051,88397.87234,Sierra,New Mexico,7,5,1,NA
+35053,155361.7021,Socorro,New Mexico,5.2,11,1,NA
+35055,NA,Taos,New Mexico,6.4,25,1,1.5
+36001,165450.1916,Albany,New York,3.8,74,7,2
+36003,52817.24138,Allegany,New York,5.9,19,2,2
+36005,NA,Bronx,New York,5.6,443,15,2.333333333
+36009,64808.42912,Cattaraugus,New York,5.6,30,2,3
+36013,NA,Chautauqua,New York,5.3,51,5,2
+36015,73655.55556,Chemung,New York,4.9,26,3,3.25
+36021,168512.2605,Columbia,New York,3.5,19,1,2
+36025,94400.38314,Delaware,New York,5.1,23,4,2
+36027,231071.6475,Dutchess,New York,3.8,77,4,2.5
+36029,109717.2414,Erie,New York,4.5,218,16,3.125
+36031,151976.4045,Essex,New York,5.1,16,3,3
+36033,70126.69323,Franklin,New York,5.3,22,2,3.5
+36035,88570.49808,Fulton,New York,5.3,21,1,3
+36043,74503.06513,Herkimer,New York,5.1,25,1,4
+36045,97902.68199,Jefferson,New York,5.8,39,3,2
+36047,404818.3908,Kings,New York,4.2,589,18,1.375
+36049,NA,Lewis,New York,5.8,14,1,3
+36051,102561.6858,Livingston,New York,4.5,22,1,3
+36053,97522.60536,Madison,New York,5,26,2,3.5
+36055,114760.5364,Monroe,New York,4.4,184,8,2.75
+36059,380867.8161,Nassau,New York,3.7,315,13,2
+36061,833242.8571,New York,New York,3.6,377,29,2.625
+36063,93033.33333,Niagara,New York,5.4,52,5,2
+36067,105786.2069,Onondaga,New York,4.2,124,7,2.5
+36069,119145.2107,Ontario,New York,4.1,30,4,3
+36071,208713.7931,Orange,New York,4.1,85,7,3
+36073,76257.47126,Orleans,New York,5.1,13,1,2
+36075,77631.80077,Oswego,New York,5.7,41,2,3
+36077,96133.33333,Otsego,New York,4.6,21,2,2
+36079,293376.2452,Putnam,New York,3.8,21,1,3
+36081,354133.7165,Queens,New York,3.5,368,12,1.2
+36083,138966.6667,Rensselaer,New York,4,45,3,3.25
+36087,348971.6475,Rockland,New York,3.9,67,4,2
+36089,62067.43295,Saint Lawrence,New York,5.9,41,5,2.666666667
+36091,191499.6169,Saratoga,New York,3.6,51,3,3
+36093,130215.3257,Schenectady,New York,4.2,42,4,2
+36095,95064.75096,Schoharie,New York,5,12,1,4
+36101,71883.14176,Steuben,New York,5.1,38,6,4
+36103,332647.8814,Suffolk,New York,4,350,14,2
+36105,121092.7203,Sullivan,New York,4.2,19,2,2
+36111,173655.9387,Ulster,New York,4.1,46,3,3
+36113,158114.9425,Warren,New York,4.8,20,1,4
+36117,95286.97318,Wayne,New York,4.3,38,1,2
+36119,470585.4406,Westchester,New York,4.1,254,18,2.166666667
+36121,79212.64368,Wyoming,New York,4.9,15,1,3
+36123,97516.09195,Yates,New York,4,6,1,NA
+37001,118867.0498,Alamance,North Carolina,3.7,39,1,3
+37013,NA,Beaufort,North Carolina,4.6,15,3,3
+37019,187747.8927,Brunswick,North Carolina,5.2,21,3,3
+37025,134581.9923,Cabarrus,North Carolina,3.5,48,2,3
+37027,71737.93103,Caldwell,North Carolina,3.8,26,1,2
+37031,NA,Carteret,North Carolina,4.3,19,1,3
+37035,94335.24904,Catawba,North Carolina,3.5,44,2,3
+37041,NA,Chowan,North Carolina,4.5,4,1,4
+37045,88184.46215,Cleveland,North Carolina,4,30,4,4
+37047,NA,Columbus,North Carolina,5.1,26,1,2
+37051,103108.8123,Cumberland,North Carolina,5.1,97,4,3
+37057,106871.9101,Davidson,North Carolina,3.7,46,2,2
+37059,137617.2414,Davie,North Carolina,3.4,12,2,NA
+37063,149488.1226,Durham,North Carolina,3.5,67,6,3.5
+37067,121777.3946,Forsyth,North Carolina,3.8,86,6,3
+37071,99761.68582,Gaston,North Carolina,3.8,58,2,4
+37083,72632.2449,Halifax,North Carolina,6.1,20,2,NA
+37087,102185.4406,Haywood,North Carolina,3.4,16,1,3
+37093,128805.8577,Hoke,North Carolina,5,14,2,NA
+37097,123310.757,Iredell,North Carolina,3.5,48,3,2.5
+37099,183391.5709,Jackson,North Carolina,4.2,10,1,2
+37105,105507.2797,Lee,North Carolina,4.3,16,1,2
+37113,115331.9797,Macon,North Carolina,4,11,2,3
+37117,NA,Martin,North Carolina,5,12,1,2
+37119,152306.8966,Mecklenburg,North Carolina,3.7,192,13,3.5
+37121,NA,Mitchell,North Carolina,4.6,6,1,4
+37127,115583.908,Nash,North Carolina,5.2,26,2,2
+37129,167503.4483,New Hanover,North Carolina,3.8,46,2,3
+37133,118694.636,Onslow,North Carolina,4.5,36,3,3
+37139,NA,Pasquotank,North Carolina,4.7,12,1,3
+37145,118443.6782,Person,North Carolina,4.1,12,1,3
+37147,112996.6292,Pitt,North Carolina,4.3,36,1,2
+37151,110469.6629,Randolph,North Carolina,3.7,39,1,4
+37155,63525.28736,Robeson,North Carolina,5.9,44,1,3
+37157,81421.45594,Rockingham,North Carolina,4.5,26,2,3
+37159,118578.5441,Rowan,North Carolina,3.9,36,2,3
+37163,NA,Sampson,North Carolina,4,23,1,3
+37167,109835.249,Stanly,North Carolina,3.6,22,1,3
+37169,111648.2759,Stokes,North Carolina,3.6,20,1,NA
+37171,117460.1533,Surry,North Carolina,3.6,27,2,3
+37173,NA,Swain,North Carolina,4.4,8,2,NA
+37179,164442.5287,Union,North Carolina,3.4,53,1,2
+37181,85705.74713,Vance,North Carolina,5.7,19,1,2
+37183,189145.2107,Wake,North Carolina,3.3,197,8,3.5
+37187,NA,Washington,North Carolina,6,6,1,NA
+37191,77558.62069,Wayne,North Carolina,4.4,33,1,2.666666667
+37193,NA,Wilkes,North Carolina,3.7,23,1,2
+37195,114075.8621,Wilson,North Carolina,6.2,28,1,4
+38001,83419.14894,Adams,North Dakota,2,2,1,4
+38003,NA,Barnes,North Dakota,2.8,10,1,NA
+38015,197252.5316,Burleigh,North Dakota,2.6,37,2,4
+38017,184786.5169,Cass,North Dakota,2.3,53,8,3.25
+38021,77152.12766,Dickey,North Dakota,1.9,5,1,3
+38029,133450.5747,Emmons,North Dakota,4.7,8,1,NA
+38035,NA,Grand Forks,North Dakota,2.3,32,5,3
+38053,NA,McKenzie,North Dakota,1.8,9,1,NA
+38055,116193.4866,McLean,North Dakota,3.3,15,2,NA
+38057,NA,Mercer,North Dakota,4,7,1,NA
+38061,NA,Mountrail,North Dakota,1.7,8,1,NA
+38069,131075.5319,Pierce,North Dakota,3.2,5,1,3
+38093,161729.2035,Stutsman,North Dakota,2.5,18,2,3
+38097,NA,Traill,North Dakota,2.6,11,2,NA
+38101,192455.7522,Ward,North Dakota,3,32,3,1
+38105,NA,Williams,North Dakota,2.1,21,2,3
+39001,66800,Adams,Ohio,7,9,1,3
+39003,81815.32567,Allen,Ohio,4.4,35,5,3.5
+39007,80785.44061,Ashtabula,Ohio,5.3,32,5,4
+39013,68649.42529,Belmont,Ohio,5.5,23,4,3.5
+39017,135281.6092,Butler,Ohio,4.1,84,8,3.666666667
+39021,101206.5134,Champaign,Ohio,3.8,18,1,3
+39023,90643.67816,Clark,Ohio,4.5,51,5,2.777777778
+39025,138992.3372,Clermont,Ohio,4,49,1,4
+39027,NA,Clinton,Ohio,5.2,17,1,3
+39029,75465.51724,Columbiana,Ohio,5.2,40,2,3
+39033,71395.4023,Crawford,Ohio,5.2,18,2,3
+39035,112496.9349,Cuyahoga,Ohio,5.2,381,29,3.857142857
+39037,107095.4023,Darke,Ohio,3.9,20,1,3
+39039,89161.68582,Defiance,Ohio,4.4,14,3,3.8
+39041,224737.5479,Delaware,Ohio,3.3,55,3,2.666666667
+39043,114434.0996,Erie,Ohio,5.6,26,2,4
+39045,143122.9885,Fairfield,Ohio,4,47,2,2
+39047,90083.90805,Fayette,Ohio,4.1,7,1,3
+39049,124913.7931,Franklin,Ohio,3.7,381,24,2.625
+39051,112266.6667,Fulton,Ohio,4.4,21,1,3
+39053,NA,Gallia,Ohio,6.1,14,1,2
+39055,198925.6705,Geauga,Ohio,4.3,25,2,4
+39057,142946.1078,Greene,Ohio,4,37,3,3
+39059,77336.01533,Guernsey,Ohio,5.5,15,2,3
+39061,118553.6398,Hamilton,Ohio,4.1,209,24,3.076923077
+39063,112087.3563,Hancock,Ohio,3.4,35,1,4
+39065,87647.89272,Hardin,Ohio,4.3,16,1,4
+39067,NA,Harrison,Ohio,5.1,5,1,NA
+39069,97681.22605,Henry,Ohio,4.9,14,1,4
+39071,82214.94253,Highland,Ohio,5.5,18,2,2
+39073,101357.9592,Hocking,Ohio,4.9,8,1,3
+39075,NA,Holmes,Ohio,3.2,17,1,4
+39077,NA,Huron,Ohio,5.9,23,2,4
+39079,NA,Jackson,Ohio,6.5,12,1,3
+39083,105622.2222,Knox,Ohio,4.3,20,1,3
+39087,75474.3295,Lawrence,Ohio,5.5,24,1,NA
+39089,184389.3617,Licking,Ohio,3.9,56,4,3
+39091,98908.42912,Logan,Ohio,3.7,14,1,3
+39093,121642.9119,Lorain,Ohio,5.4,94,8,4.25
+39095,89199.61686,Lucas,Ohio,5.2,147,14,3.375
+39097,120330.6513,Madison,Ohio,3.7,17,1,3
+39099,74848.659,Mahoning,Ohio,5.9,74,10,3
+39101,74185.84071,Marion,Ohio,4.5,27,1,3.333333333
+39103,159304.2146,Medina,Ohio,4.3,43,3,4
+39107,120409.1954,Mercer,Ohio,2.7,22,1,4
+39109,116060.1533,Miami,Ohio,3.8,40,1,3
+39113,92417.24138,Montgomery,Ohio,4.4,164,17,3.090909091
+39117,102062.8352,Morrow,Ohio,4.4,15,1,4
+39119,88960.5364,Muskingum,Ohio,5.3,31,3,2.75
+39123,124045.5939,Ottawa,Ohio,6.3,16,1,4
+39125,NA,Paulding,Ohio,4.1,10,1,3
+39129,127814.5594,Pickaway,Ohio,4.2,21,1,3
+39139,87852.87356,Richland,Ohio,4.8,48,4,3
+39141,90354.40613,Ross,Ohio,4.5,27,2,3
+39143,96534.8659,Sandusky,Ohio,4.5,25,3,3.307692308
+39145,65487.35632,Scioto,Ohio,6.7,33,2,4
+39147,87279.77528,Seneca,Ohio,4.4,24,4,3.5
+39149,109625.2874,Shelby,Ohio,3.7,21,1,3
+39151,NA,Stark,Ohio,4.9,110,8,2.857142857
+39153,114491.1877,Summit,Ohio,4.6,161,12,3
+39155,78316.85824,Trumbull,Ohio,6.2,72,5,4
+39157,90973.56322,Tuscarawas,Ohio,4.5,43,3,3
+39161,84009.16335,Van Wert,Ohio,3.5,13,2,3
+39165,169186.59,Warren,Ohio,3.8,45,4,4
+39167,91381.99234,Washington,Ohio,5.5,24,2,2.5
+39169,118701.9157,Wayne,Ohio,3.6,43,2,3
+39173,120594.2529,Wood,Ohio,4,43,1,3
+39175,NA,Wyandot,Ohio,3.2,9,1,3
+40001,NA,Adair,Oklahoma,4.4,18,1,3.25
+40005,NA,Atoka,Oklahoma,4.3,11,1,NA
+40009,75086.3354,Beckham,Oklahoma,2.8,15,2,3
+40013,74957.47126,Bryan,Oklahoma,3.3,23,1,3
+40015,NA,Caddo,Oklahoma,3.7,32,2,3
+40019,66309.57854,Carter,Oklahoma,3.7,28,2,3
+40021,74363.98467,Cherokee,Oklahoma,4.5,21,2,2
+40023,NA,Choctaw,Oklahoma,5.3,14,2,3
+40027,110371.2644,Cleveland,Oklahoma,3,70,6,3.5
+40031,71844.44444,Comanche,Oklahoma,4.1,54,5,3
+40037,86095.50562,Creek,Oklahoma,4,38,3,3
+40039,76136.39847,Custer,Oklahoma,2.6,15,2,3
+40041,120475.1351,Delaware,Oklahoma,4,19,1,3
+40047,96219.10112,Garfield,Oklahoma,3.2,34,3,4
+40049,NA,Garvin,Oklahoma,3.5,22,2,NA
+40051,83970.11494,Grady,Oklahoma,3.2,31,1,2.666666667
+40057,NA,Harmon,Oklahoma,3.1,3,1,NA
+40061,NA,Haskell,Oklahoma,5.3,10,1,3
+40063,NA,Hughes,Oklahoma,4.6,12,1,3
+40071,NA,Kay,Oklahoma,5,24,2,3.5
+40079,72103.37079,LeFlore,Oklahoma,4.9,38,1,3
+40081,63876.24521,Lincoln,Oklahoma,3.7,23,2,NA
+40087,112391.8919,McClain,Oklahoma,2.9,22,1,4
+40089,77385.10638,McCurtain,Oklahoma,5.6,29,1,3
+40095,59460.15326,Marshall,Oklahoma,4.1,6,1,3
+40097,83665.51724,Mayes,Oklahoma,3.6,23,1,4
+40101,NA,Muskogee,Oklahoma,4.3,38,4,2
+40103,NA,Noble,Oklahoma,2.8,10,1,3
+40109,94882.75862,Oklahoma,Oklahoma,3.4,230,30,3.2
+40111,50665.90038,Okmulgee,Oklahoma,5,24,4,2.5
+40113,103538.2022,Osage,Oklahoma,4.4,34,2,NA
+40115,55484.29119,Ottawa,Oklahoma,3.7,22,2,3
+40117,NA,Pawnee,Oklahoma,4.3,8,1,NA
+40119,112192.7203,Payne,Oklahoma,3.1,28,2,3
+40123,66290.42146,Pontotoc,Oklahoma,3.3,23,3,3
+40131,111033.7079,Rogers,Oklahoma,3.4,34,2,3
+40133,52048.31461,Seminole,Oklahoma,5.1,25,1,3
+40143,99540.22989,Tulsa,Oklahoma,3.5,173,23,3.2
+40145,105496.9349,Wagoner,Oklahoma,3.5,21,1,3
+40149,NA,Washita,Oklahoma,3.2,9,1,NA
+40153,96506.74157,Woodward,Oklahoma,2.9,12,2,3
+41001,NA,Baker,Oregon,5.3,12,1,4
+41003,222176.6284,Benton,Oregon,3.1,27,1,3
+41005,256066.2835,Clackamas,Oregon,3.6,115,4,3.25
+41007,NA,Clatsop,Oregon,4,14,2,2.666666667
+41011,134332.1839,Coos,Oregon,5.3,27,3,2
+41013,156269.3878,Crook,Oregon,5.8,9,2,4
+41015,NA,Curry,Oregon,6,7,2,2.5
+41019,128790.0383,Douglas,Oregon,5.2,48,3,2.25
+41023,NA,Grant,Oregon,7,7,1,NA
+41027,282851.5837,Hood River,Oregon,3.3,8,1,4
+41029,190127.5862,Jackson,Oregon,4.7,62,3,3.333333333
+41031,139824.8927,Jefferson,Oregon,5.3,12,1,3
+41033,170903.4483,Josephine,Oregon,5.4,24,1,3
+41035,123474.3295,Klamath,Oregon,6.2,30,1,3
+41037,NA,Lake,Oregon,5.6,8,1,3
+41039,182897.318,Lane,Oregon,4.3,111,6,2.5
+41041,177428.7356,Lincoln,Oregon,4.7,16,2,3
+41043,145302.682,Linn,Oregon,4.6,46,2,2.5
+41047,161927.9693,Marion,Oregon,4.2,111,4,3
+41049,NA,Morrow,Oregon,4.2,9,1,NA
+41051,228725.6705,Multnomah,Oregon,3.6,168,12,2.857142857
+41059,121862.069,Umatilla,Oregon,4.8,37,4,3.25
+41061,129034.6614,Union,Oregon,5.2,14,1,3
+41063,NA,Wallowa,Oregon,6,7,1,NA
+41065,NA,Wasco,Oregon,4.2,11,1,3
+41067,241031.8008,Washington,Oregon,3.4,129,5,3.333333333
+41071,180600.3831,Yamhill,Oregon,3.7,34,2,3.5
+42001,164662.069,Adams,Pennsylvania,3.2,27,1,4
+42003,100747.8927,Allegheny,Pennsylvania,4.1,297,32,2.818181818
+42005,80113.46939,Armstrong,Pennsylvania,5,21,1,4
+42007,102416.8582,Beaver,Pennsylvania,4.6,54,2,2
+42011,141934.0996,Berks,Pennsylvania,4.2,99,6,3
+42013,83733.71648,Blair,Pennsylvania,4.2,32,5,3
+42015,NA,Bradford,Pennsylvania,4.3,18,4,2.75
+42017,250563.2184,Bucks,Pennsylvania,3.7,133,10,3.375
+42019,161771.3656,Butler,Pennsylvania,3.9,44,3,4
+42021,67163.21839,Cambria,Pennsylvania,5.2,41,4,4
+42025,120375.8621,Carbon,Pennsylvania,5.1,21,2,3
+42027,165133.3333,Centre,Pennsylvania,3.3,34,3,4
+42029,266215.7088,Chester,Pennsylvania,3.2,109,10,3.25
+42031,NA,Clarion,Pennsylvania,4.7,17,2,2
+42033,70495.2,Clearfield,Pennsylvania,5.1,27,2,3
+42035,99340.22989,Clinton,Pennsylvania,5.4,11,2,3
+42037,100151.7241,Columbia,Pennsylvania,4.8,20,2,3
+42039,NA,Crawford,Pennsylvania,4.7,27,2,2
+42041,153224.1379,Cumberland,Pennsylvania,3.3,57,5,3.5
+42043,130188.1226,Dauphin,Pennsylvania,4,71,8,3
+42045,171975.4789,Delaware,Pennsylvania,4,108,8,2.333333333
+42047,81669.34866,Elk,Pennsylvania,3.9,10,1,3
+42049,98375.09579,Erie,Pennsylvania,4.8,74,9,3.4
+42051,NA,Fayette,Pennsylvania,5.9,47,2,3
+42055,123599.6169,Franklin,Pennsylvania,3.7,42,3,3.5
+42057,NA,Fulton,Pennsylvania,4.4,8,1,3
+42061,95708.15451,Huntingdon,Pennsylvania,5.3,19,1,4
+42063,87287.73946,Indiana,Pennsylvania,5,23,1,3
+42065,83404.49438,Jefferson,Pennsylvania,4.7,16,2,3.5
+42069,106269.7318,Lackawanna,Pennsylvania,4.5,50,6,1.5
+42071,157132.567,Lancaster,Pennsylvania,3.4,115,5,3.5
+42073,84312.38938,Lawrence,Pennsylvania,5.2,29,2,3
+42077,156542.9119,Lehigh,Pennsylvania,4.6,83,10,3
+42079,87844.01544,Luzerne,Pennsylvania,5.4,67,8,2.5
+42081,109469.7318,Lycoming,Pennsylvania,4.9,33,4,4
+42083,NA,McKean,Pennsylvania,4.9,14,2,3.5
+42085,97851.67785,Mercer,Pennsylvania,4.8,41,5,3
+42091,234897.7011,Montgomery,Pennsylvania,3.4,164,16,2.2
+42093,NA,Montour,Pennsylvania,3.5,6,4,2
+42095,166893.8697,Northampton,Pennsylvania,4.4,61,3,2
+42097,87617.34104,Northumberland,Pennsylvania,5.2,25,2,3
+42101,93100.76628,Philadelphia,Pennsylvania,5.6,308,35,2.928571429
+42105,NA,Potter,Pennsylvania,5.4,10,1,3
+42107,62066.28352,Schuylkill,Pennsylvania,5.3,38,3,4
+42111,81068.96552,Somerset,Pennsylvania,5.2,29,3,3
+42115,NA,Susquehanna,Pennsylvania,4,15,3,3
+42119,NA,Union,Pennsylvania,3.7,10,1,3
+42123,NA,Warren,Pennsylvania,4.5,13,2,3
+42125,105213.0268,Washington,Pennsylvania,4.4,56,4,2.666666667
+42127,132474.1036,Wayne,Pennsylvania,4.7,11,2,2.666666667
+42129,98659.00383,Westmoreland,Pennsylvania,4.4,93,6,3.333333333
+42131,NA,Wyoming,Pennsylvania,4.4,8,1,4
+42133,141408.8123,York,Pennsylvania,3.8,109,7,3.333333333
+44003,179532.1839,Kent,Rhode Island,3.7,47,1,3
+44005,292978.5441,Newport,Rhode Island,3.6,21,2,4
+44007,182825.2874,Providence,Rhode Island,4.4,189,15,3
+44009,273752.8736,Washington,Rhode Island,3.6,38,2,3
+45001,NA,Abbeville,South Carolina,4.2,9,1,4
+45003,89558.42697,Aiken,South Carolina,3.5,39,1,2
+45019,203437.5479,Charleston,South Carolina,2.9,85,11,3.666666667
+45021,67610.72797,Cherokee,South Carolina,4,19,1,2
+45023,NA,Chester,South Carolina,4.9,12,1,3
+45025,NA,Chesterfield,South Carolina,3.5,16,1,NA
+45027,83640.44944,Clarendon,South Carolina,5,14,2,NA
+45029,103426.6968,Colleton,South Carolina,4.2,9,1,3
+45031,62083.5249,Darlington,South Carolina,4.3,24,2,2
+45037,93842.95302,Edgefield,South Carolina,3.6,10,1,NA
+45039,NA,Fairfield,South Carolina,6.4,9,1,NA
+45041,97296.55172,Florence,South Carolina,3.9,45,7,2.5
+45043,197113.1474,Georgetown,South Carolina,4.7,19,2,4
+45045,131446.3602,Greenville,South Carolina,3.1,103,12,4.4
+45047,NA,Greenwood,South Carolina,3.9,22,2,3
+45049,NA,Hampton,South Carolina,3.7,10,1,3
+45051,142401.5326,Horry,South Carolina,4.4,56,5,3.5
+45053,NA,Jasper,South Carolina,3.2,7,1,3
+45055,85409.96169,Kershaw,South Carolina,3.7,18,1,4
+45057,111943.8247,Lancaster,South Carolina,3.9,22,1,2
+45063,115242.5287,Lexington,South Carolina,3,71,3,3
+45067,NA,Marion,South Carolina,6,11,1,2
+45071,NA,Newberry,South Carolina,3.3,14,1,4
+45077,111832.567,Pickens,South Carolina,3.5,27,2,3
+45079,117781.9923,Richland,South Carolina,3.6,107,16,2
+45083,102881.2261,Spartanburg,South Carolina,3.3,84,6,3.5
+45087,NA,Union,South Carolina,4.4,9,1,NA
+45089,NA,Williamsburg,South Carolina,5.7,14,1,3
+45091,135761.6858,York,South Carolina,3.4,63,2,1
+46005,NA,Beadle,South Dakota,2.7,14,1,NA
+46011,NA,Brookings,South Dakota,2.9,18,1,4
+46013,NA,Brown,South Dakota,2.9,23,3,4
+46065,NA,Hughes,South Dakota,2.7,9,1,4
+46079,NA,Lake,South Dakota,3.5,18,2,NA
+46081,201466.2835,Lawrence,South Dakota,3,14,3,4
+46083,NA,Lincoln,South Dakota,2.4,20,5,5
+46093,NA,Meade,South Dakota,3.4,17,2,NA
+46099,129912.6923,Minnehaha,South Dakota,2.7,78,8,NA
+46103,166814.1762,Pennington,South Dakota,3.1,40,6,3
+46127,NA,Union,South Dakota,3.3,13,1,NA
+46135,151830.6513,Yankton,South Dakota,2.7,11,3,4
+47001,88957.08812,Anderson,Tennessee,3.8,28,1,3
+47005,64387.34694,Benton,Tennessee,5,8,1,3
+47009,112859.387,Blount,Tennessee,3.3,29,2,2
+47013,NA,Campbell,Tennessee,4.8,15,2,3
+47015,98086.59004,Cannon,Tennessee,3.2,6,1,3
+47017,54380.07663,Carroll,Tennessee,5,15,2,3
+47019,84046.36015,Carter,Tennessee,4.2,20,1,4
+47021,113689.6552,Cheatham,Tennessee,2.8,13,1,NA
+47025,NA,Claiborne,Tennessee,4.4,13,1,NA
+47027,NA,Clay,Tennessee,4.6,4,1,NA
+47031,97994.63602,Coffee,Tennessee,3.5,19,3,3
+47035,83496.62921,Cumberland,Tennessee,4.3,12,1,3
+47037,143962.8352,Davidson,Tennessee,2.7,167,15,3.166666667
+47039,NA,Decatur,Tennessee,4.9,4,1,3
+47041,91829.2887,Dekalb,Tennessee,4.4,6,1,4
+47043,98753.63985,Dickson,Tennessee,3.1,16,1,3
+47049,77815.73034,Fentress,Tennessee,4.3,7,1,3
+47053,57462.83525,Gibson,Tennessee,4.5,21,3,3.333333333
+47055,78873.94636,Giles,Tennessee,3.6,8,1,4
+47063,87439.4636,Hamblen,Tennessee,3.8,18,2,1
+47065,121591.954,Hamilton,Tennessee,3.4,78,13,2.5
+47067,NA,Hancock,Tennessee,5.1,3,1,NA
+47069,50055.64854,Hardeman,Tennessee,5,9,1,NA
+47071,55147.12644,Hardin,Tennessee,4.4,7,1,3
+47077,73869.7318,Henderson,Tennessee,4.8,11,1,3
+47079,74032.18391,Henry,Tennessee,4.3,9,1,3
+47081,83675.09579,Hickman,Tennessee,3.3,8,1,NA
+47083,58487.73946,Houston,Tennessee,5.6,5,1,3
+47085,78778.48606,Humphreys,Tennessee,4.2,7,1,2
+47093,125127.5862,Knox,Tennessee,3,93,13,3.5
+47097,58677.01149,Lauderdale,Tennessee,6.1,8,1,3
+47103,76494.25287,Lincoln,Tennessee,3.2,11,1,2
+47111,77154.28571,Macon,Tennessee,3.3,8,1,2
+47117,85595.01916,Marshall,Tennessee,3.3,9,1,4
+47119,108345.2107,Maury,Tennessee,3.3,21,1,4
+47123,97861.30268,Monroe,Tennessee,3.7,17,1,3
+47133,59003.58566,Overton,Tennessee,3.9,9,1,2
+47135,NA,Perry,Tennessee,4.3,4,1,3
+47139,NA,Polk,Tennessee,4.2,6,1,NA
+47141,110082.3755,Putnam,Tennessee,3.5,21,1,3
+47143,94449.80843,Rhea,Tennessee,5.6,8,1,3
+47145,104040.2299,Roane,Tennessee,4.2,17,2,3
+47147,118989.272,Robertson,Tennessee,3.2,20,1,3
+47149,133786.9732,Rutherford,Tennessee,2.7,61,4,3
+47155,143632.9502,Sevier,Tennessee,3.5,28,1,3
+47157,100731.8008,Shelby,Tennessee,4.2,322,23,2
+47159,93411.15538,Smith,Tennessee,3.1,9,1,3
+47163,100062.069,Sullivan,Tennessee,3.7,43,5,3
+47165,139506.1303,Sumner,Tennessee,2.8,47,3,2.5
+47167,111278.9272,Tipton,Tennessee,4.2,14,1,3
+47169,NA,Trousdale,Tennessee,3.3,3,1,NA
+47171,75968.5259,Unicoi,Tennessee,5,8,1,3
+47177,63263.60153,Warren,Tennessee,4,11,1,3
+47179,104990.8046,Washington,Tennessee,3.6,29,8,3
+47181,NA,Wayne,Tennessee,4.8,8,1,3
+47187,281809.5785,Williamson,Tennessee,2.5,48,2,4
+48001,NA,Anderson,Texas,3.1,30,2,3
+48005,NA,Angelina,Texas,4.5,43,4,3
+48017,74818.08511,Bailey,Texas,4.4,5,1,NA
+48021,NA,Bastrop,Texas,3.3,28,14,3
+48025,89221.45594,Bee,Texas,5.2,13,1,3
+48027,104500.7663,Bell,Texas,4.1,121,10,3.5
+48029,NA,Bexar,Texas,3.4,547,47,3.111111111
+48037,NA,Bowie,Texas,5,54,6,2
+48039,NA,Brazoria,Texas,4.5,101,5,NA
+48041,133866.6667,Brazos,Texas,2.9,47,6,3
+48043,154880.531,Brewster,Texas,3.4,7,1,3
+48049,NA,Brown,Texas,3.7,24,1,2
+48053,NA,Burnet,Texas,2.9,13,2,3
+48055,NA,Caldwell,Texas,3.6,15,2,3
+48057,122618.3099,Calhoun,Texas,4.5,8,1,2.666666667
+48061,67944.82759,Cameron,Texas,6.2,182,11,3.5
+48063,NA,Camp,Texas,4.9,5,1,4
+48069,94779.69349,Castro,Texas,3,6,1,NA
+48071,NA,Chambers,Texas,5.4,19,2,NA
+48073,NA,Cherokee,Texas,4.2,25,3,3
+48075,82539.84674,Childress,Texas,2.6,3,1,4
+48077,NA,Clay,Texas,3.3,7,1,NA
+48083,NA,Coleman,Texas,3.9,6,2,NA
+48085,200489.2857,Collin,Texas,3.3,277,28,3.833333333
+48089,NA,Colorado,Texas,3.2,13,3,3.666666667
+48091,182104.2146,Comal,Texas,3.3,48,5,4
+48093,68931.46067,Comanche,Texas,3.7,9,1,NA
+48097,NA,Cooke,Texas,3.2,21,2,4
+48107,61255.9387,Crosby,Texas,4.4,11,1,NA
+48113,117046.6135,Dallas,Texas,3.7,728,58,3.222222222
+48115,81173.56322,Dawson,Texas,4.5,9,1,NA
+48117,87090.42553,Deaf Smith,Texas,2.9,11,2,3
+48121,173666.1538,Denton,Texas,3.1,234,19,3.75
+48123,NA,De Witt,Texas,3.3,28,1,4
+48133,NA,Eastland,Texas,3.6,16,1,4
+48135,132574.4681,Ector,Texas,2.9,47,5,2.5
+48139,127208.8123,Ellis,Texas,3.3,63,3,3
+48141,96236.78161,El Paso,Texas,4.3,279,17,2.333333333
+48145,69352.87356,Falls,Texas,3.9,17,1,4
+48157,NA,Fort Bend,Texas,4,165,12,3.5
+48161,95837.28814,Freestone,Texas,5.8,17,1,3
+48163,87228.73563,Frio,Texas,2.9,9,2,NA
+48165,120193.8053,Gaines,Texas,2.6,8,1,3.25
+48167,NA,Galveston,Texas,4.6,103,4,NA
+48177,NA,Gonzales,Texas,3.1,13,1,3.25
+48179,NA,Gray,Texas,4.2,10,1,4
+48181,NA,Grayson,Texas,3.2,61,8,2.5
+48183,101336.0153,Gregg,Texas,4.2,48,6,4
+48187,NA,Guadalupe,Texas,3.2,40,1,3
+48189,NA,Hale,Texas,4.8,27,2,3
+48193,84800,Hamilton,Texas,3.4,6,1,4
+48201,NA,Harris,Texas,4.4,1125,93,3.357142857
+48207,63550,Haskell,Texas,3.8,6,1,NA
+48209,154521.0728,Hays,Texas,3,53,4,3.5
+48213,NA,Henderson,Texas,3.8,33,1,3
+48215,NA,Hidalgo,Texas,6.6,352,17,4
+48217,70761.35458,Hill,Texas,3.6,39,2,3
+48219,NA,Hockley,Texas,3.2,19,1,3
+48221,149609.9617,Hood,Texas,3.7,18,1,3
+48227,95454.23729,Howard,Texas,3.4,14,3,2
+48233,NA,Hutchinson,Texas,5.2,13,2,3
+48237,NA,Jack,Texas,2.8,6,2,NA
+48241,NA,Jasper,Texas,6.5,17,1,3
+48245,NA,Jefferson,Texas,6.5,88,14,3
+48249,NA,Jim Wells,Texas,5.7,21,1,3
+48251,113905.364,Johnson,Texas,3.5,70,1,4
+48253,NA,Jones,Texas,4.8,14,3,3
+48255,69362.06897,Karnes,Texas,3,17,1,3
+48257,143526.9663,Kaufman,Texas,3.5,51,3,3
+48265,181668.1992,Kerr,Texas,3.3,23,3,3
+48273,94589.27203,Kleberg,Texas,5.2,17,1,3
+48279,74970.21277,Lamb,Texas,4.5,14,1,NA
+48281,133911.1111,Lampasas,Texas,3.6,7,1,4
+48285,NA,Lavaca,Texas,3.2,10,2,4
+48293,NA,Limestone,Texas,4.8,13,2,3
+48303,NA,Lubbock,Texas,3.1,103,10,2.833333333
+48305,97927.65957,Lynn,Texas,3.3,7,1,NA
+48307,NA,McCulloch,Texas,3.5,6,1,NA
+48309,NA,McLennan,Texas,3.6,128,5,2
+48321,141083.908,Matagorda,Texas,6.1,19,2,3
+48325,NA,Medina,Texas,3.5,20,1,4
+48329,127389.272,Midland,Texas,2.2,45,5,3
+48331,79053.09735,Milam,Texas,5.5,17,2,NA
+48335,82736.39847,Mitchell,Texas,4.6,12,1,NA
+48337,NA,Montague,Texas,3.2,14,2,3
+48339,NA,Montgomery,Texas,3.8,126,17,2.5
+48341,88847.87234,Moore,Texas,2.8,11,1,3.25
+48347,NA,Nacogdoches,Texas,4,34,3,3
+48349,NA,Navarro,Texas,3.8,26,1,2
+48353,72200,Nolan,Texas,3.4,10,1,4
+48355,NA,Nueces,Texas,4.7,127,14,3.5
+48363,NA,Palo Pinto,Texas,3.3,14,1,2
+48367,147256.705,Parker,Texas,3.1,41,2,4
+48371,92823.40426,Pecos,Texas,3.6,10,2,3
+48375,NA,Potter,Texas,2.9,50,9,3
+48397,178959.761,Rockwall,Texas,3.2,24,3,3
+48399,85404.08163,Runnels,Texas,3.3,15,2,NA
+48403,NA,Sabine,Texas,7.7,7,1,NA
+48405,NA,San Augustine,Texas,6.5,4,1,NA
+48409,NA,San Patricio,Texas,6.4,33,1,3
+48415,NA,Scurry,Texas,3.7,10,1,NA
+48423,NA,Smith,Texas,3.6,69,10,4
+48425,NA,Somervell,Texas,4.2,5,1,4
+48427,73904.98084,Starr,Texas,9.9,29,1,3
+48429,NA,Stephens,Texas,3.8,5,1,3
+48437,65331.91489,Swisher,Texas,4.3,8,1,NA
+48439,126063.0952,Tarrant,Texas,3.5,564,54,3.2
+48441,NA,Taylor,Texas,3.2,60,6,3.5
+48445,69888.12261,Terry,Texas,4.2,8,1,3
+48449,NA,Titus,Texas,5,15,1,3
+48451,115430.5263,Tom Green,Texas,3.2,95,4,3
+48453,197451.7928,Travis,Texas,2.8,283,28,3.4
+48455,86505.31915,Trinity,Texas,5.2,10,1,3
+48457,NA,Tyler,Texas,6.8,14,1,3
+48463,106983.1858,Uvalde,Texas,4.3,15,1,NA
+48465,111683.5249,Val Verde,Texas,4.3,16,1,3
+48469,NA,Victoria,Texas,4,34,6,3.666666667
+48471,NA,Walker,Texas,4.3,18,1,2
+48475,91457.85441,Ward,Texas,3.1,7,1,NA
+48479,91116.09195,Webb,Texas,3.8,81,6,2.25
+48481,110722.2222,Wharton,Texas,3.8,18,2,3
+48483,NA,Wheeler,Texas,3.4,6,2,NA
+48485,NA,Wichita,Texas,3.5,52,7,3.666666667
+48487,NA,Wilbarger,Texas,4.3,8,2,NA
+48491,166872.3735,Williamson,Texas,3,162,12,3
+48493,148797.7011,Wilson,Texas,3.1,31,1,3
+48495,66300.76628,Winkler,Texas,3.3,5,1,NA
+48497,NA,Wise,Texas,3.5,29,3,3
+48501,84019.14894,Yoakum,Texas,2.8,7,1,NA
+48503,NA,Young,Texas,3.4,10,2,3
+49001,NA,Beaver,Utah,3.6,7,2,NA
+49003,158634.4828,Box Elder,Utah,3,25,2,3
+49005,NA,Cache,Utah,2.7,43,2,4
+49007,NA,Carbon,Utah,4.7,11,1,4
+49011,191613.7931,Davis,Utah,2.9,103,5,3
+49013,204358.5106,Duchesne,Utah,4.6,15,2,3
+49017,NA,Garfield,Utah,7.9,9,1,NA
+49021,173127.2031,Iron,Utah,3.6,19,1,3
+49025,NA,Kane,Utah,3.2,10,1,NA
+49035,198992.7203,Salt Lake,Utah,3,300,24,3.428571429
+49037,250637.234,San Juan,Utah,6.5,15,2,NA
+49039,NA,Sanpete,Utah,3.8,16,2,NA
+49041,138198.0843,Sevier,Utah,3.6,15,1,4
+49045,157608.046,Tooele,Utah,3.5,29,1,3
+49049,191292.7203,Utah,Utah,2.8,179,10,3.666666667
+49053,190117.6245,Washington,Utah,3.4,53,2,4
+49057,151419.5402,Weber,Utah,3.5,82,2,3
+50003,NA,Bennington,Vermont,3.2,16,1,4
+50005,NA,Caledonia,Vermont,3.3,13,1,3
+50015,212551.1364,Lamoille,Vermont,3.6,15,1,3
+50017,NA,Orange,Vermont,2.7,21,1,3
+50021,170506.9767,Rutland,Vermont,3.2,32,1,4
+50023,204012.7907,Washington,Vermont,2.7,27,3,4
+50025,193347.4026,Windham,Vermont,2.9,29,3,4
+50027,205416.8831,Windsor,Vermont,2.4,35,3,2
+51003,246962.8352,Albemarle,Virginia,2.6,28,4,3
+51005,NA,Alleghany,Virginia,4,7,1,3
+51013,443319.1571,Arlington,Virginia,2,39,1,4
+51027,NA,Buchanan,Virginia,5.9,11,1,3
+51057,NA,Essex,Virginia,4,4,1,4
+51059,390961.6858,Fairfax,Virginia,2.5,221,8,3
+51061,267279.3103,Fauquier,Virginia,2.6,22,1,2
+51067,163481.2245,Franklin,Virginia,3.1,16,1,3
+51071,NA,Giles,Virginia,3.4,6,2,4
+51073,171025.6705,Gloucester,Virginia,2.7,10,1,3
+51083,91179.64072,Halifax,Virginia,4.3,12,1,3
+51085,200410.3448,Hanover,Virginia,2.6,26,2,4
+51087,170357.4713,Henrico,Virginia,3,84,5,4
+51107,372560.1533,Loudoun,Virginia,2.5,92,4,3
+51121,162485.4406,Montgomery,Virginia,3,23,2,3
+51131,NA,Northampton,Virginia,5.8,6,1,4
+51153,277159.7701,Prince William,Virginia,2.7,96,3,2
+51155,NA,Pulaski,Virginia,3.5,10,1,3
+51165,156010.728,Rockingham,Virginia,2.7,22,1,3
+51167,NA,Russell,Virginia,4.5,15,1,3
+51173,80872.30769,Smyth,Virginia,4.3,16,3,3
+51177,185316.7331,Spotsylvania,Virginia,3,35,1,3
+51185,80876.62835,Tazewell,Virginia,4.6,16,2,3.5
+51191,115866.6667,Washington,Virginia,3.4,18,2,3
+51197,NA,Wythe,Virginia,3.9,14,1,3
+51199,236055.5556,York,Virginia,2.8,19,2,4
+51510,NA,Alexandria City,Virginia,2.3,22,1,3
+51540,197406.8966,Charlottesville City,Virginia,2.5,13,1,2
+51590,58616.4751,Danville City,Virginia,5.4,15,2,1
+51620,NA,Franklin City,Virginia,4.6,3,1,3
+51640,NA,Galax City,Virginia,3.7,4,1,2
+51650,132309.5785,Hampton City,Virginia,4.1,37,3,3
+51670,92654.02299,Hopewell City,Virginia,4.7,8,2,2
+51678,NA,Lexington City,Virginia,4.4,4,1,3
+51700,144166.2835,Newport News City,Virginia,3.7,50,5,3
+51710,142252.1073,Norfolk City,Virginia,3.7,58,7,3.333333333
+51720,NA,Norton City,Virginia,4.2,2,2,4
+51730,NA,Petersburg City,Virginia,6.1,11,3,2
+51740,122350.1916,Portsmouth City,Virginia,4.1,26,2,3
+51760,121528.7356,Richmond City,Virginia,3.6,56,6,3
+51775,134959.761,Salem City,Virginia,3,8,2,3
+51800,182159.7701,Suffolk City,Virginia,3.3,23,3,4
+51810,202385.0575,Virginia Beach City,Virginia,2.9,92,4,3.5
+53001,97726.81992,Adams,Washington,5.7,15,2,NA
+53003,NA,Asotin,Washington,4.2,11,1,3
+53005,157152.1073,Benton,Washington,5.2,60,4,3
+53007,193077.3946,Chelan,Washington,4.7,39,4,4
+53009,187715.3257,Clallam,Washington,6.4,32,2,2
+53011,210679.3103,Clark,Washington,4.9,133,4,3
+53013,NA,Columbia,Washington,5.5,4,1,NA
+53019,NA,Ferry,Washington,11.7,12,1,NA
+53021,130287.7395,Franklin,Washington,6.1,31,1,3
+53025,121511.236,Grant,Washington,6.4,56,4,NA
+53027,111972.8033,Grays Harbor,Washington,6.7,42,4,2
+53029,242067.433,Island,Washington,5.3,26,2,3
+53031,237403.4483,Jefferson,Washington,5.9,13,1,3
+53033,333070.1149,King,Washington,3.4,514,32,3
+53037,168506.8966,Kittitas,Washington,5.2,20,1,3
+53039,NA,Klickitat,Washington,5.7,22,2,4
+53041,143007.6923,Lewis,Washington,6.3,46,2,3
+53043,NA,Lincoln,Washington,4.9,16,2,4
+53047,117247.6987,Okanogan,Washington,6.6,33,3,2.666666667
+53049,NA,Pacific,Washington,6.9,20,2,NA
+53053,211758.2375,Pierce,Washington,5.2,276,12,3
+53055,351970.1195,San Juan,Washington,3.9,14,1,NA
+53057,240032.5843,Skagit,Washington,5.3,50,3,3.5
+53061,265800,Snohomish,Washington,3.8,224,8,3
+53063,145546.3602,Spokane,Washington,5.3,172,10,3
+53065,142507.2797,Stevens,Washington,7.2,45,2,4
+53067,204631.8008,Thurston,Washington,4.8,80,2,3
+53075,NA,Whitman,Washington,4.4,26,2,4
+53077,128626.8199,Yakima,Washington,6.4,110,4,2.25
+54003,154429.1971,Berkeley,West Virginia,4.1,35,2,3
+54005,53401.76991,Boone,West Virginia,6,17,1,3
+54007,NA,Braxton,West Virginia,6.6,8,1,NA
+54009,NA,Brooke,West Virginia,6.2,10,2,3
+54011,94795.50562,Cabell,West Virginia,4.7,30,6,2.5
+54019,NA,Fayette,West Virginia,6.5,19,2,3
+54023,NA,Grant,West Virginia,5.6,6,1,3
+54025,NA,Greenbrier,West Virginia,5.1,14,1,3
+54027,NA,Hampshire,West Virginia,4.2,15,1,NA
+54033,NA,Harrison,West Virginia,4.6,28,3,3
+54035,NA,Jackson,West Virginia,5.4,13,1,3
+54037,179101.5267,Jefferson,West Virginia,3.4,16,1,3
+54039,69583.5249,Kanawha,West Virginia,5.1,72,8,3.222222222
+54041,NA,Lewis,West Virginia,5.9,6,2,3
+54045,NA,Logan,West Virginia,7.1,17,1,3
+54051,NA,Marshall,West Virginia,6,13,1,3
+54053,NA,Mason,West Virginia,6.9,11,1,3
+54055,NA,Mercer,West Virginia,6.2,26,3,2.5
+54057,NA,Mineral,West Virginia,5.6,14,1,NA
+54061,128431.4176,Monongalia,West Virginia,4,19,3,2.5
+54067,NA,Nicholas,West Virginia,6.5,16,1,2
+54069,NA,Ohio,West Virginia,4.8,14,4,2
+54075,NA,Pocahontas,West Virginia,6.2,5,1,NA
+54077,NA,Preston,West Virginia,5.2,12,2,3
+54081,80868.83117,Raleigh,West Virginia,5.3,31,3,2
+54083,NA,Randolph,West Virginia,5.4,18,1,3
+54087,NA,Roane,West Virginia,7.7,6,1,3
+54089,NA,Summers,West Virginia,5.5,5,1,NA
+54091,NA,Taylor,West Virginia,4.7,5,1,NA
+54097,NA,Upshur,West Virginia,5.5,10,1,2.857142857
+54107,78305.74713,Wood,West Virginia,5.4,30,2,2
+55005,131209.1954,Barron,Wisconsin,3.3,39,3,NA
+55023,NA,Crawford,Wisconsin,3.6,15,2,4
+55025,192159.2308,Dane,Wisconsin,2.2,161,9,3
+55029,240842.1456,Door,Wisconsin,3.5,17,1,4
+55035,124245.977,Eau Claire,Wisconsin,2.6,36,3,NA
+55039,113078.9272,Fond du Lac,Wisconsin,2.6,42,4,4
+55043,118958.6207,Grant,Wisconsin,2.8,29,4,3
+55045,119678.5441,Green,Wisconsin,2.4,22,1,4
+55067,NA,Langlade,Wisconsin,3.9,13,1,4
+55069,NA,Lincoln,Wisconsin,3,12,2,3
+55073,106170.1149,Marathon,Wisconsin,2.6,50,3,3
+55079,103633.3333,Milwaukee,Wisconsin,3.6,295,22,3.666666667
+55081,NA,Monroe,Wisconsin,2.7,27,3,NA
+55083,141853.2567,Oconto,Wisconsin,3.2,24,2,3
+55087,122869.3487,Outagamie,Wisconsin,2.7,75,3,3
+55089,210629.1188,Ozaukee,Wisconsin,2.5,27,3,3.666666667
+55095,NA,Polk,Wisconsin,3.5,26,4,4
+55097,155574.2574,Portage,Wisconsin,2.9,30,1,4
+55105,109777.0115,Rock,Wisconsin,3.2,71,4,NA
+55109,167841.7625,Saint Croix,Wisconsin,2.9,29,5,4
+55111,148697.318,Sauk,Wisconsin,2.5,33,4,5
+55113,214034.4828,Sawyer,Wisconsin,4.2,13,1,4
+55117,118749.4253,Sheboygan,Wisconsin,2.4,50,2,3
+55119,NA,Taylor,Wisconsin,3,10,2,4
+55127,147551.341,Walworth,Wisconsin,2.9,42,2,3
+55133,225754.2735,Waukesha,Wisconsin,2.6,112,9,4
+55135,NA,Waupaca,Wisconsin,2.9,27,1,5
+55141,98376.62835,Wood,Wisconsin,3.4,33,3,2
+56001,188869.8113,Albany,Wyoming,3.2,19,1,4
+56003,NA,Big Horn,Wyoming,4.5,16,2,NA
+56005,197409.9617,Campbell,Wyoming,4,23,1,2
+56007,146382.9787,Carbon,Wyoming,3.7,13,1,NA
+56009,199644.8276,Converse,Wyoming,3.6,15,1,3
+56013,192575.8621,Fremont,Wyoming,5,32,2,3
+56015,148944.6809,Goshen,Wyoming,3.2,12,2,3.5
+56017,190506.383,Hot Springs,Wyoming,3.6,4,2,NA
+56021,162250.6329,Laramie,Wyoming,3.7,42,2,2
+56023,NA,Lincoln,Wyoming,3.7,18,2,3
+56025,149943.4599,Natrona,Wyoming,4.5,36,6,3
+56029,222826.4151,Park,Wyoming,4.3,15,2,3.5
+56031,157854.1667,Platte,Wyoming,3.6,13,1,3
+56037,NA,Sweetwater,Wyoming,4,28,2,NA
+56041,168297.318,Uinta,Wyoming,4.2,17,2,3
+56043,176966.6667,Washakie,Wyoming,4.1,7,1,3
+56045,269942.5532,Weston,Wyoming,3.4,7,1,NA
