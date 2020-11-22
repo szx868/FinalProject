@@ -1,0 +1,50 @@
+---
+title: "Final project"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## Background
+
+
+## Libraries
+
+```{r}
+library(tidyverse)
+
+```
+
+
+## The data
+
+```{r}
+
+## Kaggle
+
+
+## US Census
+
+
+
+## FIPS data set
+
+
+
+```
+
+
+## Data Transformation
+
+
+## Exploratory Data Analysis
+
+
+## Modeling
+
+
+## Findings
+
