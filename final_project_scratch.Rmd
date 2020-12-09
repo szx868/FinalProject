@@ -1,7 +1,11 @@
 ---
-title: "DATA 607 Final Project: House price prediction"
-author: "Jered Ataky, Zhouxin Shi"
-output: html_document
+title: "DATA 607 Final Project: House prices prediction"
+author: "Jered Ataky & Zhouzin shi"
+date: "2020-11-29"
+output: 
+  openintro::lab_report: default
+  html_document:
+    number_sections: yes
 ---
 
 ```{r setup, include=FALSE}
@@ -11,7 +15,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ```{r message=FALSE}
 # Load libraries
-
 library(tidyverse)
 library(plyr)
 library(kableExtra)
@@ -20,16 +23,23 @@ library(corrplot)
 library(PerformanceAnalytics)
 library(stats)
 library(xgboost)
-
 ```
 
 ## Problem Statement and background
+
+<style>
+div.aquamarine { background-color:#7fffd4; border-radius: 10px; padding: 5px;}
+</style>
+<div class = "aquamarine">
 
 One of the big decisions to make in life is purchasing a home. There are many factors that need to be taken into consideration while making such a decision. In this project, we tend to retrieve data from different data sources. The data will have metrics such as median income, unemployment rate, public schools, hospitals, hospital ratings, crime rate, …
 Our task will be to get data from those multiple data sources using different methods (read csv, web scrapping…) learned throughout the course of this class, to store them (on a database, cloud,…), to clean and transform them, and to analyze and visualize them to get some useful information for houses price.
 We will then go further on using different models to predict the house price based on different features that we would find are necessary and weight on houses price.
 
-One of the big questions that we ask ourselves is : "Which variable is a best predictor of housing prices?"
+Research questions : "Which variable is a best predictor of housing prices?";
+"What is the relationship between housing prices and each predictor?"
+
+</div> \hfill\break
 
 ## Work process 
 
@@ -37,39 +47,30 @@ One of the big questions that we ask ourselves is : "Which variable is a best pr
 Process <- c('Data Collection',
              'Data Transformation (Cleaning & Tidying data)',
              'Data Analysis', 'Visualization',
-             'Modeling','Conclusion', 'Presentation')
-
+             'Modeling','Review & Conclusion', 'Presentation')
 Team <- c('Jered & Zhouxin', 'Jered & Zhouxin', 'Jered ', 
-          'Jered', 'Jered', 'Jered & Zhouxin',
+          'Jered', 'Jered', 'Jered',
           'Jered & Zhouxin')
 df_team <- data.frame(Process, Team)
 names(df_team) <- c('Process', 'Team Members')
 
+df_team %>%
+  kbl(caption = "Work Process & Responsabilities") %>%
+  kable_material(c("striped", "hover")) %>%
+  row_spec(0, color = "indigo")
 ```
 
-```{r}
-
-df_team
-```
 
 ## Data
 
 ```{r}
-
 # Load the data from Github and GCP storage
-
 hospitals <- read.csv("https://raw.githubusercontent.com/szx868/FinalProject/master/Hospitals.csv")
-
 hospital_ratings <- read.csv("https://raw.githubusercontent.com/szx868/FinalProject/master/Hospital_General_Information.csv")
-
 county_time_series <- read.csv("https://storage.googleapis.com/triplej_project3/County_time_series.csv")
-
 crosswalk = read.csv("https://raw.githubusercontent.com/szx868/FinalProject/master/CountyCrossWalk_Zillow.csv")
-
 unemployment = read.csv("https://raw.githubusercontent.com/szx868/FinalProject/master/Unemployment_Rate_by_County_Percent.csv")
-
 public_schools <- read.csv("https://storage.googleapis.com/triplej_project3/Public_Schools.csv")
-
 ```
 
 
@@ -79,32 +80,24 @@ public_schools <- read.csv("https://storage.googleapis.com/triplej_project3/Publ
 
 ```{r}
 # Rename columns of unemployment
-
 colnames(unemployment)[4:22] <- seq(2000,2018)
-
 ```
 
 
 ```{r}
-
 # Subset hospital_rating data set
-
 hospital_ratings <-hospital_ratings %>% select('Hospital.Name', 'Hospital.overall.rating')
 ```
 
 
 ```{r}
-
 # Merge hospitals and hospital ratings
-
 hospitals_with_ratings <- merge(hospitals, hospital_ratings, by.x="NAME",by.y = "Hospital.Name")
-
 ```
 
+
 ```{r}
-
 # Clean the missing values and subset the hospital data set
-
 hospital <- filter(hospitals_with_ratings, COUNTYFIPS != 'NOT AVAILABLE')
 hospital <- filter(hospitals_with_ratings, Hospital.overall.rating != 'Not Available')
 ```
@@ -112,58 +105,34 @@ hospital <- filter(hospitals_with_ratings, Hospital.overall.rating != 'Not Avail
 
 
 ```{r}
-
 # Rename the columns
-
 hospital <- rename(hospitals_with_ratings,c('FIPS' = 'COUNTYFIPS',  'AverageHospitalRating' = 'Hospital.overall.rating'))
-
 ```
 
 
 ```{r}
-# A look on a county code (FIPS) data
-
-## hospital in FIPS = 1039 (Convincton county, AL)
-filter(hospital, FIPS == 1039)
-
-```
-
-
-```{r}
-
 # Group unemployment per county
-
 unemployment_per_county <- unemployment %>% 
     select('Region.Code', '2018')
-
-
 unemployment_per_county <- rename(unemployment_per_county, c('FIPS' = 'Region.Code', 'UnemploymentRate' = '2018'))
-
 # Rename unemployment
 unemployments <- unemployment_per_county
 ```
 
 
 ```{r}
-
 # Group public school per county
-
 public_schools_per_county<-public_schools %>%
     group_by(COUNTYFIPS) %>%
     dplyr::summarise(count=n())
-
 ```
 
 
 ```{r}
-
 # Subset public schools per county and rename the columns
-
 public_schools_per_county <- public_schools_per_county %>% 
     select('COUNTYFIPS', 'count')
-
 public_schools_per_county <- rename(public_schools_per_county,c('FIPS' = 'COUNTYFIPS', 'NumberOfSchools' = 'count'))
-
 # Rename public_schools_per_county
 schools <- public_schools_per_county
 ```
@@ -171,21 +140,17 @@ schools <- public_schools_per_county
 
 ```{r}
 # Subset hospital data set & get hospital average rating
-
 hospital_avg_rating  <- hospital %>% 
     select('FIPS', 'AverageHospitalRating')
 ```
 
 ```{r}
-
 # Convert to numeric
 hospital_avg_rating$AverageHospitalRating <- as.numeric(hospital_avg_rating$AverageHospitalRating)
 ```
 
 ```{r}
-
 # Group hospital avg rating by county
-
 hospital_avg <- hospital_avg_rating %>%
     group_by(FIPS) %>%
     dplyr::summarize(AverageHospitalRating = mean(AverageHospitalRating, na.rm=TRUE))
@@ -194,7 +159,6 @@ hospital_avg <- hospital_avg_rating %>%
 
 ```{r}
 # Group hospital data set by county
-
 hospitals_per_county <-hospitals %>%
     group_by(COUNTYFIPS) %>%
     dplyr::summarise(count=n())
@@ -202,32 +166,20 @@ hospitals_per_county <-hospitals %>%
 
 
 ```{r}
-
 # Rename columns of hospital data set
-
-
 hospitals_per_county <- rename(hospitals_per_county,c('FIPS' = 'COUNTYFIPS', 'NumberOfHospitals' = 'count'))
 ```
 
 
 ```{r}
-
 # Merge hospitals per county and hospital_avg data set
-
 hospitals_per_county  <- merge(hospitals_per_county,hospital_avg , by.x="FIPS",by.y = "FIPS")
 head(hospitals_per_county)
 ```
 
 
 ```{r}
-county_time_series
-```
-
-
-```{r}
-
 # Explore housing price from county time series data set
-
 house_prices  <-
 county_time_series %>%
     group_by(RegionName) %>%
@@ -235,97 +187,63 @@ county_time_series %>%
 ```
 
 
-```{r}
-
-# Subset crosswalk data set to get county code (FIPS) 
-# to associate with county name and relative state
-
-crosswalk  <- crosswalk %>% select('FIPS', 'CountyName','StateName')
-
-```
-
 ### Put all data set together to form one file
 
 ```{r}
-
 # Associate house price with county code
-
 data <- rename(house_prices,c('FIPS' = 'RegionName', 'AverageHousePrice' = 'ZHVI_AllHomes'))
 ```
 
 
 ```{r}
-
 # Merge crosswalk
-
 data  <- merge(data, crosswalk, by.x="FIPS",by.y = "FIPS")
-
 ```
 
 
 ```{r}
-
 # Merge data with unemployment
-
 data  <- merge(data, unemployments, by.x="FIPS",by.y = "FIPS")
 ```
 
 
 ```{r}
-
 # Merge data with public schools
-
 data  <- merge(data, schools , by.x="FIPS",by.y = "FIPS")
-
 ```
 
 
 ```{r}
-
 # Merge data with hospitals_per_county
-
 data  <- merge(data, hospitals_per_county , by.x="FIPS",by.y = "FIPS")
 ```
 
 
 ```{r}
 head(data)
-
 ```
 
 ```{r}
-
 # Save data as csv
-
 write.csv(data,"data_raw_final.csv", row.names = FALSE)
-
 ```
 
 ### Cleaning the data
 
 ```{r}
-
 # Get raw data from Github
-
-data_raw <- read.csv("https://raw.githubusercontent.com/szx868/FinalProject/master/data_raw_final.csv?_sm_au_=iVVP4Z614qD4W8SPj3tFjKtC88qJW")
-
+data_raw <- read.csv("https://raw.githubusercontent.com/szx868/FinalProject/master/data_raw_final.csv")
 head(data_raw)
-
 ```
 
 ```{r}
 # Drop rows with missing Average house price
-
 data_clean <- data_raw %>%
     drop_na(AverageHousePrice)
-
 # Move the target in the end
-
 data_final <- data_clean %>%
     select(-AverageHousePrice, AverageHousePrice)
-
 head(data_final)
-
 ```
 
 
@@ -336,41 +254,32 @@ head(data_final)
 We are going to calculate the average county home price per state.
 
 ```{r}
-
 data_1 <- data_final %>%
     group_by(StateName) %>%
     transmute(StateName, avg_house_price = mean(AverageHousePrice))
-
 data_1 <- data_1 %>%
     distinct(StateName, avg_house_price)
-
 data_1
-
 ```
 
 
-Now we are going to order the state from the least affordable to the most affordable
+**Now we are going to order the state from the least affordable to the most affordable**
 
 ```{r}
 data_2 <- data_1 %>%
     arrange(desc(avg_house_price))
-
 data_2 %>%
     kbl(caption = "Home price per state") %>%
     kable_material(c("striped", "hover")) %>%
     row_spec(0, color = "indigo")
-
-
 ```
 
 ### Visualization
 
-Visualize the least affordable states based on average county home price per state
+**Visualize the least affordable states based on average county home price per state**
 
 ```{r}
-
 # Top 10
-
 top_n(ungroup(data_2), 10) %>%
     ggplot(aes(reorder(StateName, avg_house_price), avg_house_price)) +
     geom_col(aes(fill = avg_house_price)) +
@@ -381,12 +290,10 @@ top_n(ungroup(data_2), 10) %>%
 ```
 
 
-Visualize the most affordable states based on average county home price per state
+**Visualize the most affordable states based on average county home price per state**
 
 ```{r}
-
 # Top 10
-
 top_n(ungroup(data_2), -10) %>%
     ggplot(aes(reorder(StateName, avg_house_price), avg_house_price)) +
     geom_bar(stat="identity", color="blue", fill="purple") +
@@ -396,15 +303,12 @@ top_n(ungroup(data_2), -10) %>%
     labs(title = '10 least expensive state to buy a house', x = "State")
 ```
 
-Visualize the average house price by state
+**Visualize the average house price by state**
 
 ```{r}
 # Add state abbreviation 
-
 data_3 <- data_1 %>%
     mutate(code = state.abb[match(StateName,  state.name)])
-
-
 # Plot the map
 w <- list(color = toRGB("white"), width = 2)
 g <- list(
@@ -429,6 +333,11 @@ p
 
 ## Modeling
 
+<style>
+div.aquamarine { background-color:#7fffd4; border-radius: 10px; padding: 5px;}
+</style>
+<div class = "aquamarine">
+
 For this predictive analysis, we are going to use Linear Regression.
 
 Since wee have many explanatory variables, this case will be a multiple linear regression model.
@@ -443,12 +352,12 @@ The model selection will be based on adjusted R square. Thus, we are going to ap
 
 The general idea behind backward-selection is to start with the full model and eliminate one variable at a time until the ideal model is reached: Start with the full model, refit all possible models omitting one variable at a time, and choose the model with the highest adjusted R squared, repeat until maximum possible adjusted R squared is reached.
 
+</div> \hfill\break
 
-Subset the data set with numeric variables to get it ready for modeling
+**Subset the data set with numeric variables to get it ready for modeling**
+
 ```{r}
-
 # Subset the data set with only numerical variables
-
 data_4 <- data_final %>%
     group_by(StateName) %>%
     transmute(StateName,
@@ -457,126 +366,107 @@ data_4 <- data_final %>%
               NumberOfHospitals = sum(NumberOfHospitals),
               AverageHospitalRating = round(mean(AverageHospitalRating), 0),
               avg_house_price = mean(AverageHousePrice))
-
 data_4 <- data_4 %>%
     distinct(StateName, UnemploymentRate, NumberOfSchools, NumberOfHospitals, AverageHospitalRating, avg_house_price)
-
 data_4 <- subset(data_4, select = -c(StateName))
 head(data_4)
-
 ```
 
 
-Correlation matrix
-```{r}
+**Correlation matrix**
 
+```{r}
 res <- cor(data_4)
 round(res, 2)
-
 ```
 
 
-Performance analytics
+**Performance analytics**
 
 
 ```{r}
-
 data_4 %>%
     chart.Correlation(histogram=TRUE, pch=19)
-
-
 ```
 
-Summary table of correlation between predictors and house price
+**Summary table of correlation between predictors and house price**
 
 ```{r}
 Features <- c('NumberOfSchools', 'NumberOfHospitals', 'AverageHospitalRating', 'UnemploymentRate')
 Correlation <- c(0.12, -0.02, -0.22, 0.07)
-
 df <- data.frame(Features, Correlation)
 df
-
 ```
 
 
-Multiple linear model:
+**Multiple linear model:**
 
 We are going to evaluate the avg_house_price with each of the predictors
 
 Since we are using backward-selection, let first start with full model:
 
 ```{r}
-
 res_mul <- lm(avg_house_price ~  NumberOfSchools + NumberOfHospitals + AverageHospitalRating + UnemploymentRate, data = data_4)
 summary(res_mul)
-
 ```
 
 
 Now, let analyze each individual predictor with house price:
 
-avg_house_price~UnemploymentRate
-```{r}
+**avg_house_price~UnemploymentRate**
 
+```{r}
 res_1 <- lm(avg_house_price ~ UnemploymentRate, data = data_4)
 summary(res_1)
-
 ```
 
 
-avg_house_price~NumberOfSchools
-```{r}
+**avg_house_price~NumberOfSchools**
 
+```{r}
 res_2 <- lm(avg_house_price ~ NumberOfSchools, data = data_4)
 summary(res_2)
-
 ```
 
 
-avg_house_price~NumberOfHospitals
-```{r}
+**avg_house_price~NumberOfHospitals**
 
+```{r}
 res_3 <- lm(avg_house_price ~ NumberOfHospitals, data = data_4)
 summary(res_3)
-
 ```
 
 
-avg_house_price~AverageHospitalRating
-```{r}
+**avg_house_price~AverageHospitalRating**
 
+```{r}
 res_4 <- lm(avg_house_price ~ AverageHospitalRating, data = data_4)
 summary(res_4)
-
 ```
 
-Summary table
+**Summary table**
 
 ```{r}
 Features <- c('NumberOfSchools', 'NumberOfHospitals', 'AverageHospitalRating', 'UnemploymentRate')
 Correlation <- c(0.12, -0.02, -0.22, 0.07)
 P_values <- c(0.00241, 0.00347, 0.09069,  0.68095)
 Adj_r_square <- c(-0.006934, -0.02049,  0.02919, -0.01543)
-
 df_final <- data.frame(Features, Correlation, P_values, Adj_r_square)
 df_final
-
-
 ```
 
 ## Conclusion
 
-As to answer to our main question to test around relationship between housing prices and each predictors, We realize that the house price has a positive relationship with the number of schools and 
-the unemployment rate. Those are also the two big factors (from the features we explored) that contribute the most to the price of home in US.  The two other factors have a negative relationship with house prices. Though the predictors we used, we should have taken into consideration the crime rate which we believe should be a great predictor of home price. This will be part of further work we will have to do to make this model more efficient. We need also to mention that the project presented some challenges such as we needed to find appropriate data set for various factors, understand different terms such FIPS which we never heard before, merge different data set to make one useful data set for analysis and prediction.
+<style>
+div.aquamarine { background-color:#7fffd4; border-radius: 10px; padding: 5px;}
+</style>
+<div class = "aquamarine">
 
+As to answer to our main question to test around relationship between housing prices and each predictors, We realize that the house price has a positive relationship with the number of schools and 
+the unemployment rate. Those are also the two big factors (from the features we explored) that contribute the most to the price of home in US (Although the correlation is not strong). The two other factors have a negative relationship with house prices. Though the predictors we used, we should have taken into consideration the crime rate which we believe should be a great predictor of home price. This will be part of further work we will have to do to make this model more efficient. We need also to mention that the project presented some challenges such as we needed to find appropriate data set for various factors, understand different terms such FIPS which we never heard before, merge different data set to make one useful data set for analysis and prediction.
+
+</div> \hfill\break
 
 ## References
 
 CUNY DATA606: https://fall2020.data606.net/chapters/chapter9/
-
- 
-
-
-
-
-
