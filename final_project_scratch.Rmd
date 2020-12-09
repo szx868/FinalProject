@@ -1,0 +1,424 @@
+---
+title: "Final Project"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r message=FALSE}
+# Load libraries
+
+library(tidyverse)
+library(plyr)
+library(kableExtra)
+library(plotly)
+
+```
+
+## Data
+
+```{r}
+
+# Load the data from Github and GCP storage
+
+hospitals <- read.csv("https://raw.githubusercontent.com/szx868/FinalProject/master/Hospitals.csv")
+
+hospital_ratings <- read.csv("https://raw.githubusercontent.com/szx868/FinalProject/master/Hospital_General_Information.csv")
+
+county_time_series <- read.csv("https://storage.googleapis.com/triplej_project3/County_time_series.csv")
+
+crosswalk = read.csv("https://raw.githubusercontent.com/szx868/FinalProject/master/CountyCrossWalk_Zillow.csv")
+
+unemployment = read.csv("https://raw.githubusercontent.com/szx868/FinalProject/master/Unemployment_Rate_by_County_Percent.csv")
+
+public_schools <- read.csv("https://storage.googleapis.com/triplej_project3/Public_Schools.csv")
+
+```
+
+
+## Data Transformation
+
+## Tidying the data
+
+```{r}
+# Rename columns of unemployment
+
+colnames(unemployment)[4:22] <- seq(2000,2018)
+
+```
+
+
+```{r}
+
+# Subset hospital_rating data set
+
+hospital_ratings <-hospital_ratings %>% select('Hospital.Name', 'Hospital.overall.rating')
+```
+
+
+```{r}
+
+# Merge hospitals and hospital ratings
+
+hospitals_with_ratings <- merge(hospitals, hospital_ratings, by.x="NAME",by.y = "Hospital.Name")
+
+```
+
+```{r}
+
+# Clean the missing values and subset the hospital data set
+
+hospital <- filter(hospitals_with_ratings, COUNTYFIPS != 'NOT AVAILABLE')
+hospital <- filter(hospitals_with_ratings, Hospital.overall.rating != 'Not Available')
+```
+
+
+
+```{r}
+
+# Rename the columns
+
+hospital <- rename(hospital,c('COUNTYFIPS' = 'FIPS', 'Hospital.overall.rating' = 'AverageHospitalRating'))
+
+```
+
+
+```{r}
+# A look on a county code (FIPS) data
+
+## hospital in FIPS = 1039 (Convincton county, AL)
+filter(hospital, FIPS == 1039)
+
+```
+
+
+```{r}
+
+# Group unemployment per county
+
+unemployment_per_county <- unemployment %>% 
+    select('Region.Code', '2018')
+
+unemployment_per_county <- rename(unemployment_per_county,c('Region.Code' = 'FIPS', '2018' = 'UnemploymentRate'))
+
+# Rename unemployment
+unemployments <- unemployment_per_county
+```
+
+
+```{r}
+
+# Group public school per county
+
+public_schools_per_county<-public_schools %>%
+    group_by(COUNTYFIPS) %>%
+    dplyr::summarise(count=n())
+
+```
+
+
+```{r}
+
+# Subset public schools per county and rename the columns
+
+public_schools_per_county <- public_schools_per_county %>% 
+    select('COUNTYFIPS', 'count')
+public_schools_per_county <- rename(public_schools_per_county,c('COUNTYFIPS' = 'FIPS', 'count' = 'NumberOfSchools'))
+
+# Rename public_schools_per_county
+schools <- public_schools_per_county
+```
+
+
+```{r}
+# Subset hospital data set & get hospital average rating
+
+hospital_avg_rating  <- hospital %>% 
+    select('FIPS', 'AverageHospitalRating')
+```
+
+```{r}
+
+# Convert to numeric
+hospital_avg_rating$AverageHospitalRating <- as.numeric(hospital_avg_rating$AverageHospitalRating)
+```
+
+```{r}
+
+# Group hospital avg rating by county
+
+hospital_avg <- hospital_avg_rating %>%
+    group_by(FIPS) %>%
+    dplyr::summarize(AverageHospitalRating = mean(AverageHospitalRating, na.rm=TRUE))
+```
+
+
+```{r}
+# Group hospital data set by county
+
+hospitals_per_county <-hospitals %>%
+    group_by(COUNTYFIPS) %>%
+    dplyr::summarise(count=n())
+```
+
+
+```{r}
+
+# Rename columns of hospital data set
+
+hospitals_per_county <- rename(hospitals_per_county,c('COUNTYFIPS' = 'FIPS', 'count' = 'NumberOfHospitals'))
+```
+
+
+```{r}
+
+# Merge hospitals per county and hospital_avg data set
+
+hospitals_per_county  <- merge(hospitals_per_county,hospital_avg , by.x="FIPS",by.y = "FIPS")
+head(hospitals_per_county)
+```
+
+
+```{r}
+county_time_series
+```
+
+
+```{r}
+
+# Explore housing price from county time series data set
+
+house_prices  <-
+county_time_series %>%
+    group_by(RegionName) %>%
+    dplyr::summarize(ZHVI_AllHomes = mean(ZHVI_AllHomes, na.rm=TRUE))
+```
+
+
+```{r}
+
+# Subset crosswalk data set to get county code (FIPS) 
+# to associate with county name and relative state
+
+crosswalk  <- crosswalk %>% select('FIPS', 'CountyName','StateName')
+
+```
+
+### Put all data set together to form one file
+
+```{r}
+
+# Associate house price with county code
+
+data <- rename(house_prices,c('RegionName' = 'FIPS', 'ZHVI_AllHomes' = 'AverageHousePrice'))
+```
+
+
+```{r}
+
+# Merge crosswalk
+
+data  <- merge(data, crosswalk, by.x="FIPS",by.y = "FIPS")
+
+```
+
+
+```{r}
+
+# Merge data with unemployment
+
+data  <- merge(data, unemployments, by.x="FIPS",by.y = "FIPS")
+```
+
+
+```{r}
+
+# Merge data with public schools
+
+data  <- merge(data, schools , by.x="FIPS",by.y = "FIPS")
+
+```
+
+
+```{r}
+
+# Merge data with hospitals_per_county
+
+data  <- merge(data, hospitals_per_county , by.x="FIPS",by.y = "FIPS")
+```
+
+
+```{r}
+head(data)
+
+```
+
+```{r}
+
+# Save data as csv
+
+write.csv(data,"data_raw_final.csv", row.names = FALSE)
+
+```
+
+### Cleaning the data
+
+```{r}
+
+# Get raw data from Github
+
+data_raw <- read.csv("https://raw.githubusercontent.com/szx868/FinalProject/master/data_raw_final.csv?_sm_au_=iVVP4Z614qD4W8SPj3tFjKtC88qJW")
+
+head(data_raw)
+
+```
+
+```{r}
+# Drop rows with missing Average house price
+
+data_clean <- data_raw %>%
+    drop_na(AverageHousePrice)
+
+# Move the target in the end
+
+data_final <- data_clean %>%
+    select(-AverageHousePrice, AverageHousePrice)
+
+head(data_final)
+
+```
+
+## Exploratory Data Analysis
+
+### Which state can you effort living ?
+
+We are going to calculate the average county home price per state.
+
+```{r}
+
+data_1 <- data_final %>%
+    group_by(StateName) %>%
+    transmute(StateName, avg_house_price = mean(AverageHousePrice))
+
+data_1 <- data_1 %>%
+    distinct(StateName, avg_house_price)
+
+data_1
+
+```
+
+
+Now we are going to order the state from the least affordable to the most affordable
+
+```{r}
+data_2 <- data_1 %>%
+    arrange(desc(avg_house_price))
+
+data_2 %>%
+    kbl(caption = "Home price per state") %>%
+    kable_material(c("striped", "hover")) %>%
+    row_spec(0, color = "indigo")
+
+
+```
+
+### Visualization
+
+Visualize the least affordable states based on average county home price per state
+
+```{r}
+
+# Top 10
+
+top_n(ungroup(data_2), 10) %>%
+    ggplot(aes(reorder(StateName, avg_house_price), avg_house_price)) +
+    geom_col(aes(fill = avg_house_price)) +
+    
+    coord_flip() +
+    
+    labs(title = '10 most expensive state to buy a house', x = "State")
+```
+
+
+Visualize the most affordable states based on average county home price per state
+
+```{r}
+
+# Top 10
+
+top_n(ungroup(data_2), -10) %>%
+    ggplot(aes(reorder(StateName, avg_house_price), avg_house_price)) +
+    geom_bar(stat="identity", color="blue", fill="purple") +
+    theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=0.5)) +
+    
+    
+    labs(title = '10 least expensive state to buy a house', x = "State")
+```
+
+Visualize the average house price by state
+
+```{r}
+# Add state abbreviation 
+
+data_3 <- data_1 %>%
+    mutate(code = state.abb[match(StateName,  state.name)])
+
+
+# Plot the map
+w <- list(color = toRGB("white"), width = 2)
+g <- list(
+  scope = 'usa',
+  projection = list(type = 'albers usa'),
+  showlakes = TRUE,
+  lakecolor = toRGB('white')
+)
+p <- plot_geo(data_3, locationmode = 'USA-states') %>%
+  add_trace(
+    z = ~avg_house_price, locations = ~code,
+    color = ~avg_house_price, colors = 'Purples'
+  ) %>%
+  colorbar(title = "Avg house price") %>%
+  layout(
+    title = 'Avg house price by State',
+    geo = g
+  )
+p
+```
+
+
+## Modeling
+
+For this predictive analysis, we are going to use Linear Regression.
+
+Since wee have many explanatory variables, this case will be a multiple linear regression model.
+
+The explanatory variables or predictors are: unemployment rate, number of schools, number of hospitals, average hospital ratings.
+Our response variable is the average house price.
+
+Our research question is "which variable is a best predictor of average house price?"
+
+We are going then to test around the relationship between housing prices and all those different predictors.
+The model selection will be based on adjusted R square. Thus, we are going to apply "backward-selection".
+
+The general idea behind backward-selection is to start with the full model and eliminate one variable at a time until the ideal model is reached: Start with the full model, refit all possible models omitting one variable at a time, and choose the model with the highest adjusted R squared, repeat until maximum possible adjusted R squared is reached.
+
+
+
+## Findings
+
+
+
+
+## References
+
+CUNY DATA606: https://fall2020.data606.net/chapters/chapter9/
+
+ 
+
+
+
+
+
