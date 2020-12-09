@@ -115,7 +115,7 @@ hospital <- filter(hospitals_with_ratings, Hospital.overall.rating != 'Not Avail
 
 # Rename the columns
 
-hospital <- rename(hospital,c('COUNTYFIPS' = 'FIPS', 'Hospital.overall.rating' = 'AverageHospitalRating'))
+hospital <- rename(hospitals_with_ratings,c('FIPS' = 'COUNTYFIPS',  'AverageHospitalRating' = 'Hospital.overall.rating'))
 
 ```
 
@@ -136,7 +136,8 @@ filter(hospital, FIPS == 1039)
 unemployment_per_county <- unemployment %>% 
     select('Region.Code', '2018')
 
-unemployment_per_county <- rename(unemployment_per_county,c('Region.Code' = 'FIPS', '2018' = 'UnemploymentRate'))
+
+unemployment_per_county <- rename(unemployment_per_county, c('FIPS' = 'Region.Code', 'UnemploymentRate' = '2018'))
 
 # Rename unemployment
 unemployments <- unemployment_per_county
@@ -160,7 +161,8 @@ public_schools_per_county<-public_schools %>%
 
 public_schools_per_county <- public_schools_per_county %>% 
     select('COUNTYFIPS', 'count')
-public_schools_per_county <- rename(public_schools_per_county,c('COUNTYFIPS' = 'FIPS', 'count' = 'NumberOfSchools'))
+
+public_schools_per_county <- rename(public_schools_per_county,c('FIPS' = 'COUNTYFIPS', 'NumberOfSchools' = 'count'))
 
 # Rename public_schools_per_county
 schools <- public_schools_per_county
@@ -203,7 +205,8 @@ hospitals_per_county <-hospitals %>%
 
 # Rename columns of hospital data set
 
-hospitals_per_county <- rename(hospitals_per_county,c('COUNTYFIPS' = 'FIPS', 'count' = 'NumberOfHospitals'))
+
+hospitals_per_county <- rename(hospitals_per_county,c('FIPS' = 'COUNTYFIPS', 'NumberOfHospitals' = 'count'))
 ```
 
 
@@ -247,7 +250,7 @@ crosswalk  <- crosswalk %>% select('FIPS', 'CountyName','StateName')
 
 # Associate house price with county code
 
-data <- rename(house_prices,c('RegionName' = 'FIPS', 'ZHVI_AllHomes' = 'AverageHousePrice'))
+data <- rename(house_prices,c('FIPS' = 'RegionName', 'AverageHousePrice' = 'ZHVI_AllHomes'))
 ```
 
 
