@@ -1,5 +1,6 @@
 ---
-title: "Final Project"
+title: "DATA 607 Final Project: House price prediction"
+author: "Jered Ataky, Zhouxin Shi"
 output: html_document
 ---
 
@@ -15,7 +16,40 @@ library(tidyverse)
 library(plyr)
 library(kableExtra)
 library(plotly)
+library(corrplot)
+library(PerformanceAnalytics)
+library(stats)
+library(xgboost)
 
+```
+
+## Problem Statement and background
+
+One of the big decisions to make in life is purchasing a home. There are many factors that need to be taken into consideration while making such a decision. In this project, we tend to retrieve data from different data sources. The data will have metrics such as median income, unemployment rate, public schools, hospitals, hospital ratings, crime rate, …
+Our task will be to get data from those multiple data sources using different methods (read csv, web scrapping…) learned throughout the course of this class, to store them (on a database, cloud,…), to clean and transform them, and to analyze and visualize them to get some useful information for houses price.
+We will then go further on using different models to predict the house price based on different features that we would find are necessary and weight on houses price.
+
+One of the big questions that we ask ourselves is : "Which variable is a best predictor of housing prices?"
+
+## Work process 
+
+```{r hide}
+Process <- c('Data Collection',
+             'Data Transformation (Cleaning & Tidying data)',
+             'Data Analysis', 'Visualization',
+             'Modeling','Conclusion', 'Presentation')
+
+Team <- c('Jered & Zhouxin', 'Jered & Zhouxin', 'Jered ', 
+          'Jered', 'Jered', 'Jered & Zhouxin',
+          'Jered & Zhouxin')
+df_team <- data.frame(Process, Team)
+names(df_team) <- c('Process', 'Team Members')
+
+```
+
+```{r}
+
+df_team
 ```
 
 ## Data
@@ -291,6 +325,7 @@ head(data_final)
 
 ```
 
+
 ## Exploratory Data Analysis
 
 ### Which state can you effort living ?
@@ -400,16 +435,136 @@ Our response variable is the average house price.
 
 Our research question is "which variable is a best predictor of average house price?"
 
-We are going then to test around the relationship between housing prices and all those different predictors.
+We are going then to test around the relationship between housing prices and each one of the predictors.
 The model selection will be based on adjusted R square. Thus, we are going to apply "backward-selection".
 
 The general idea behind backward-selection is to start with the full model and eliminate one variable at a time until the ideal model is reached: Start with the full model, refit all possible models omitting one variable at a time, and choose the model with the highest adjusted R squared, repeat until maximum possible adjusted R squared is reached.
 
 
+Subset the data set with numeric variables to get it ready for modeling
+```{r}
 
-## Findings
+# Subset the data set with only numerical variables
+
+data_4 <- data_final %>%
+    group_by(StateName) %>%
+    transmute(StateName,
+              UnemploymentRate = round(mean(UnemploymentRate), 0),
+              NumberOfSchools = sum(NumberOfSchools),
+              NumberOfHospitals = sum(NumberOfHospitals),
+              AverageHospitalRating = round(mean(AverageHospitalRating), 0),
+              avg_house_price = mean(AverageHousePrice))
+
+data_4 <- data_4 %>%
+    distinct(StateName, UnemploymentRate, NumberOfSchools, NumberOfHospitals, AverageHospitalRating, avg_house_price)
+
+data_4 <- subset(data_4, select = -c(StateName))
+head(data_4)
+
+```
 
 
+Correlation matrix
+```{r}
+
+res <- cor(data_4)
+round(res, 2)
+
+```
+
+
+Performance analytics
+
+
+```{r}
+
+data_4 %>%
+    chart.Correlation(histogram=TRUE, pch=19)
+
+
+```
+
+Summary table of correlation between predictors and house price
+
+```{r}
+Features <- c('NumberOfSchools', 'NumberOfHospitals', 'AverageHospitalRating', 'UnemploymentRate')
+Correlation <- c(0.12, -0.02, -0.22, 0.07)
+
+df <- data.frame(Features, Correlation)
+df
+
+```
+
+
+Multiple linear model:
+
+We are going to evaluate the avg_house_price with each of the predictors
+
+Since we are using backward-selection, let first start with full model:
+
+```{r}
+
+res_mul <- lm(avg_house_price ~  NumberOfSchools + NumberOfHospitals + AverageHospitalRating + UnemploymentRate, data = data_4)
+summary(res_mul)
+
+```
+
+
+Now, let analyze each individual predictor with house price:
+
+avg_house_price~UnemploymentRate
+```{r}
+
+res_1 <- lm(avg_house_price ~ UnemploymentRate, data = data_4)
+summary(res_1)
+
+```
+
+
+avg_house_price~NumberOfSchools
+```{r}
+
+res_2 <- lm(avg_house_price ~ NumberOfSchools, data = data_4)
+summary(res_2)
+
+```
+
+
+avg_house_price~NumberOfHospitals
+```{r}
+
+res_3 <- lm(avg_house_price ~ NumberOfHospitals, data = data_4)
+summary(res_3)
+
+```
+
+
+avg_house_price~AverageHospitalRating
+```{r}
+
+res_4 <- lm(avg_house_price ~ AverageHospitalRating, data = data_4)
+summary(res_4)
+
+```
+
+Summary table
+
+```{r}
+Features <- c('NumberOfSchools', 'NumberOfHospitals', 'AverageHospitalRating', 'UnemploymentRate')
+Correlation <- c(0.12, -0.02, -0.22, 0.07)
+P_values <- c(0.00241, 0.00347, 0.09069,  0.68095)
+Adj_r_square <- c(-0.006934, -0.02049,  0.02919, -0.01543)
+
+df_final <- data.frame(Features, Correlation, P_values, Adj_r_square)
+df_final
+
+
+```
+
+## Conclusion
+
+As to answer to our main question to test around relationship between housing prices and each predictors, We realize that the house price has a positive relationship with the number of schools and 
+the unemployment rate. Those are also the two big factors (from the features we explored) that contribute the most to the price of home in US.  The two other factors have a negative relationship with house prices. Though the predictors we used, we should have taken into consideration the crime rate which we believe should be a great predictor of home price. This will be part of further work we will have to do to make this model more efficient. We need also to mention that the project presented some challenges such as we needed to find appropriate data set for various factors, understand different terms such FIPS which we never heard before, merge different data set to make one useful data set for analysis and prediction.
 
 
 ## References
