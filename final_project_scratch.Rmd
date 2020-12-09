@@ -49,7 +49,7 @@ Process <- c('Data Collection',
              'Data Analysis', 'Visualization',
              'Modeling','Review & Conclusion', 'Presentation')
 Team <- c('Jered & Zhouxin', 'Jered & Zhouxin', 'Jered ', 
-          'Jered', 'Jered', 'Jered',
+          'Jered', 'Jered', 'Jered & Zhouxin',
           'Jered & Zhouxin')
 df_team <- data.frame(Process, Team)
 names(df_team) <- c('Process', 'Team Members')
