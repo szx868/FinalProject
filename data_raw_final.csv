@@ -1,0 +1,1804 @@
+"FIPS","AverageHousePrice","�..CountyName","StateName","StateFIPS","CountyFIPS","MetroName_Zillow","CBSAName","CountyRegionID_Zillow","MetroRegionID_Zillow","CBSACode","UnemploymentRate","NumberOfSchools","NumberOfHospitals","AverageHospitalRating"
+1001,114483.665338645,"Autauga","Alabama",1,1,"Montgomery, AL","Montgomery, AL",1524,"394875","33860",3.6,15,1,4
+1003,164861.685823755,"Baldwin","Alabama",1,3,"Daphne, AL","Daphne-Fairhope-Foley, AL",1525,"394519","19300",3.6,47,4,3
+1005,NA,"Barbour","Alabama",1,5,"NULL","NULL",1531,"NULL","NULL",5.3,11,1,3
+1007,NA,"Bibb","Alabama",1,7,"Birmingham, AL","Birmingham-Hoover, AL",100,"394388","13820",4,10,1,NA
+1013,NA,"Butler","Alabama",1,13,"NULL","NULL",898,"NULL","NULL",4.8,8,2,3
+1015,NA,"Calhoun","Alabama",1,15,"Anniston, AL","Anniston-Oxford-Jacksonville, AL",1569,"394333","11500",4.7,40,4,2.66666666666667
+1019,NA,"Cherokee","Alabama",1,19,"NULL","NULL",2187,"NULL","NULL",3.7,8,1,4
+1025,NA,"Clarke","Alabama",1,25,"NULL","NULL",939,"NULL","NULL",7.6,11,2,3
+1027,NA,"Clay","Alabama",1,27,"NULL","NULL",116,"NULL","NULL",4,8,1,3
+1031,NA,"Coffee","Alabama",1,31,"Enterprise, AL","Enterprise, AL",945,"394571","21460",4,19,1,3
+1033,92332.0512820513,"Colbert","Alabama",1,33,"Florence, AL","Florence-Muscle Shoals, AL",1636,"394598","22520",4.7,27,2,2.5
+1039,NA,"Covington","Alabama",1,39,"NULL","NULL",2672,"NULL","NULL",4.7,15,3,2.5
+1041,NA,"Crenshaw","Alabama",1,41,"NULL","NULL",2237,"NULL","NULL",4.1,4,2,3
+1043,NA,"Cullman","Alabama",1,43,"Cullman, AL","Cullman, AL",1647,"394511","18980",3.3,36,2,3
+1045,NA,"Dale","Alabama",1,45,"Ozark, AL","Ozark, AL",145,"753911","37120",4.2,18,1,4
+1049,98315.4929577465,"De Kalb","Alabama",1,49,"NULL","NULL",1656,"NULL","NULL",3.8,20,1,3
+1051,125561.373390558,"Elmore","Alabama",1,51,"Montgomery, AL","Montgomery, AL",1003,"394875","33860",3.4,20,2,3.4
+1053,NA,"Escambia","Alabama",1,53,"NULL","NULL",2258,"NULL","NULL",4.6,18,2,4
+1055,77994.2528735632,"Etowah","Alabama",1,55,"Gadsden, AL","Gadsden, AL",1007,"394620","23460",4.1,45,4,2.75
+1059,NA,"Franklin","Alabama",1,59,"NULL","NULL",2270,"NULL","NULL",3.8,13,2,3
+1061,NA,"Geneva","Alabama",1,61,"Dothan, AL","Dothan, AL",1034,"394537","20020",3.9,12,1,3
+1065,NA,"Hale","Alabama",1,65,"Tuscaloosa, AL","Tuscaloosa, AL",170,"395171","46220",5.1,8,1,NA
+1069,114940.996168582,"Houston","Alabama",1,69,"Dothan, AL","Dothan, AL",1781,"394537","20020",4.1,31,5,3.5
+1071,104431.914893617,"Jackson","Alabama",1,71,"Scottsboro, AL","Scottsboro, AL",1791,"395073","42460",4.1,25,1,3
+1073,99759.7701149425,"Jefferson","Alabama",1,73,"Birmingham, AL","Birmingham-Hoover, AL",2732,"394388","13820",3.7,226,14,2.75
+1077,96148.5714285714,"Lauderdale","Alabama",1,77,"Florence, AL","Florence-Muscle Shoals, AL",2952,"394598","22520",4.2,22,1,2
+1079,NA,"Lawrence","Alabama",1,79,"Decatur, AL","Decatur, AL",2378,"394523","19460",4.2,16,1,4
+1081,148163.218390805,"Lee","Alabama",1,81,"Auburn, AL","Auburn-Opelika, AL",78,"394351","12220",3.6,37,1,4
+1083,NA,"Limestone","Alabama",1,83,"Huntsville, AL","Huntsville, AL",2780,"394698","26620",3.5,21,2,2
+1089,NA,"Madison","Alabama",1,89,"Huntsville, AL","Huntsville, AL",1894,"394698","26620",3.5,91,7,3
+1091,NA,"Marengo","Alabama",1,91,"NULL","NULL",1917,"NULL","NULL",5.1,14,1,3
+1093,NA,"Marion","Alabama",1,93,"NULL","NULL",1159,"NULL","NULL",4.1,14,2,3
+1095,NA,"Marshall","Alabama",1,95,"Albertville, AL","Albertville, AL",2405,"394311","10700",3.4,35,2,3
+1097,93971.6475095785,"Mobile","Alabama",1,97,"Mobile, AL","Mobile, AL",1208,"394870","33660",4.7,121,7,2
+1099,72273.9463601533,"Monroe","Alabama",1,99,"NULL","NULL",1212,"NULL","NULL",6.3,10,1,3
+1101,NA,"Montgomery","Alabama",1,101,"Montgomery, AL","Montgomery, AL",2967,"394875","33860",4,76,8,4
+1107,NA,"Pickens","Alabama",1,107,"Tuscaloosa, AL","Tuscaloosa, AL",1970,"395171","46220",4.6,10,1,3
+1109,NA,"Pike","Alabama",1,109,"Troy, AL","Troy, AL",271,"395165","45980",4.5,11,1,3
+1111,NA,"Randolph","Alabama",1,111,"NULL","NULL",2489,"NULL","NULL",4,11,1,4
+1113,103098.46743295,"Russell","Alabama",1,113,"Columbus, GA","Columbus, GA-AL",2005,"394488","17980",4.1,19,2,4
+1117,164133.333333333,"Shelby","Alabama",1,117,"Birmingham, AL","Birmingham-Hoover, AL",1381,"394388","13820",2.9,53,3,3
+1121,NA,"Talladega","Alabama",1,121,"Talladega, AL","Talladega-Sylacauga, AL",2853,"395145","45180",4.3,36,2,3
+1123,110576.923076923,"Tallapoosa","Alabama",1,123,"NULL","NULL",3038,"NULL","NULL",4.2,13,2,3
+1127,NA,"Walker","Alabama",1,127,"Birmingham, AL","Birmingham-Hoover, AL",1464,"394388","13820",4.3,29,1,3
+1129,NA,"Washington","Alabama",1,129,"NULL","NULL",3047,"NULL","NULL",6,8,1,NA
+1133,NA,"Winston","Alabama",1,133,"NULL","NULL",2101,"NULL","NULL",4.2,14,1,5
+2020,250916.309012876,"Anchorage","Alaska",2,20,"Anchorage, AK","Anchorage, AK",2616,"394327","11260",5.6,100,9,3
+2090,197946.78111588,"Fairbanks North Star","Alaska",2,90,"Fairbanks, AK","Fairbanks, AK",3290,"394580","21820",6,37,3,3
+2110,274259.836065574,"Juneau","Alaska",2,110,"Juneau, AK","Juneau, AK",1127,"394730","27940",4.6,14,1,3
+2122,210048.421052632,"Kenai Peninsula","Alaska",2,122,"NULL","NULL",3257,"NULL","NULL",7.8,44,3,3
+2130,223292.337164751,"Ketchikan Gateway","Alaska",2,130,"Ketchikan, AK","Ketchikan, AK",3274,"394743","28540",6.2,11,1,3
+2170,NA,"Matanuska Susitna","Alaska",2,170,"Anchorage, AK","Anchorage, AK",3277,"394327","11260",7.9,44,1,3
+2220,NA,"Sitka","Alaska",2,220,"NULL","NULL",720,"NULL","NULL",4.3,7,2,NA
+2261,NA,"Valdez Cordova","Alaska",2,261,"NULL","NULL",3251,"NULL","NULL",8,17,3,NA
+4001,136755.944055944,"Apache","Arizona",4,1,"NULL","NULL",834,"NULL","NULL",10.1,65,4,3
+4003,124720.30651341,"Cochise","Arizona",4,3,"Sierra Vista, AZ","Sierra Vista-Douglas, AZ",1634,"395098","43420",5.6,84,8,1
+4005,241994.636015326,"Coconino","Arizona",4,5,"Flagstaff, AZ","Flagstaff, AZ",2207,"394595","22380",5.4,75,4,4
+4007,146740.996168582,"Gila","Arizona",4,7,"Payson, AZ","Payson, AZ",164,"394967","37740",5.7,38,4,3
+4009,114949.425287356,"Graham","Arizona",4,9,"Safford, AZ","Safford, AZ",1047,"395046","40940",5.1,37,1,3
+4013,178057.088122605,"Maricopa","Arizona",4,13,"Phoenix, AZ","Phoenix-Mesa-Scottsdale, AZ",2402,"394976","38060",4.1,1246,73,3.04761904761905
+4015,144750.957854406,"Mohave","Arizona",4,15,"Lake Havasu City, AZ","Lake Havasu City-Kingman, AZ",1210,"394765","29420",5.7,70,5,2.25
+4017,146158.620689655,"Navajo","Arizona",4,17,"Show Low, AZ","Show Low, AZ",1253,"395095","43320",7.4,91,6,NA
+4019,155807.279693487,"Pima","Arizona",4,19,"Tucson, AZ","Tucson, AZ",281,"395167","46060",4.4,386,21,2
+4021,142070.517928287,"Pinal","Arizona",4,21,"Phoenix, AZ","Phoenix-Mesa-Scottsdale, AZ",685,"394976","38060",4.9,143,6,3
+4025,199438.697318008,"Yavapai","Arizona",4,25,"Prescott, AZ","Prescott, AZ",2112,"395002","39140",4.4,107,5,3
+4027,117031.417624521,"Yuma","Arizona",4,27,"Yuma, AZ","Yuma, AZ",347,"395247","49740",16.9,72,2,2
+5001,NA,"Arkansas","Arkansas",5,1,"NULL","NULL",2128,"NULL","NULL",3.5,9,2,4
+5003,NA,"Ashley","Arkansas",5,3,"NULL","NULL",839,"NULL","NULL",5.5,8,1,3
+5005,102860.91954023,"Baxter","Arkansas",5,5,"Mountain Home, AR","Mountain Home, AR",856,"394891","34260",4.1,10,1,3
+5007,121924.904214559,"Benton","Arkansas",5,7,"Fayetteville, AR","Fayetteville-Springdale-Rogers, AR-MO",864,"394590","22220",2.8,68,6,3.5
+5009,89286.9731800766,"Boone","Arkansas",5,9,"Harrison, AR","Harrison, AR",390,"394667","25460",3.6,20,1,3
+5011,NA,"Bradley","Arkansas",5,11,"NULL","NULL",1553,"NULL","NULL",4.4,7,1,4
+5015,NA,"Carroll","Arkansas",5,15,"NULL","NULL",1589,"NULL","NULL",3.2,10,2,3
+5021,NA,"Clay","Arkansas",5,21,"NULL","NULL",117,"NULL","NULL",4.5,7,1,NA
+5027,NA,"Columbia","Arkansas",5,27,"Magnolia, AR","Magnolia, AR",2211,"394818","31620",4.8,9,1,2
+5031,94221.8390804598,"Craighead","Arkansas",5,31,"Jonesboro, AR","Jonesboro, AR",2674,"394728","27860",3,36,6,3
+5037,NA,"Cross","Arkansas",5,37,"NULL","NULL",464,"NULL","NULL",4.1,6,1,4
+5043,NA,"Drew","Arkansas",5,43,"NULL","NULL",150,"NULL","NULL",4.9,8,1,3
+5045,108660.91954023,"Faulkner","Arkansas",5,45,"Little Rock, AR","Little Rock-North Little Rock-Conway, AR",2260,"394798","30780",3.2,39,2,3
+5047,NA,"Franklin","Arkansas",5,47,"NULL","NULL",2271,"NULL","NULL",3.6,10,2,NA
+5049,NA,"Fulton","Arkansas",5,49,"NULL","NULL",1019,"NULL","NULL",4,6,1,2
+5051,115008.045977011,"Garland","Arkansas",5,51,"Hot Springs, AR","Hot Springs, AR",1718,"394689","26300",4.1,30,6,2
+5055,81437.9310344828,"Greene","Arkansas",5,55,"Paragould, AR","Paragould, AR",1052,"394961","37500",3.5,15,1,2
+5061,NA,"Howard","Arkansas",5,61,"NULL","NULL",1098,"NULL","NULL",3.4,10,2,3
+5063,71191.5708812261,"Independence","Arkansas",5,63,"Batesville, AR","Batesville, AR",3167,"394366","12900",4.1,15,1,2
+5069,68753.8461538462,"Jefferson","Arkansas",5,69,"Pine Bluff, AR","Pine Bluff, AR",2733,"394980","38220",5.3,29,2,2
+5071,NA,"Johnson","Arkansas",5,71,"NULL","NULL",1817,"NULL","NULL",4.5,12,1,3
+5075,NA,"Lawrence","Arkansas",5,75,"NULL","NULL",2379,"NULL","NULL",4,12,1,3
+5081,NA,"Little River","Arkansas",5,81,"Texarkana, TX","Texarkana, TX-AR",3171,"395152","45500",5.2,7,1,NA
+5083,NA,"Logan","Arkansas",5,83,"NULL","NULL",604,"NULL","NULL",4,11,2,NA
+5093,NA,"Mississippi","Arkansas",5,93,"Blytheville, AR","Blytheville, AR",3104,"394397","14180",5.6,25,2,2
+5109,NA,"Pike","Arkansas",5,109,"NULL","NULL",272,"NULL","NULL",4.1,7,1,3
+5113,86918.1818181818,"Polk","Arkansas",5,113,"NULL","NULL",284,"NULL","NULL",4.2,9,1,3
+5119,104294.636015326,"Pulaski","Arkansas",5,119,"Little Rock, AR","Little Rock-North Little Rock-Conway, AR",1981,"394798","30780",3.4,131,21,2.66666666666667
+5123,NA,"Saint Francis","Arkansas",5,123,"Forrest City, AR","Forrest City, AR",3224,"394601","22620",5.2,12,1,2
+5125,116624.904214559,"Saline","Arkansas",5,125,"Little Rock, AR","Little Rock-North Little Rock-Conway, AR",1362,"394798","30780",3.1,28,2,3
+5127,NA,"Scott","Arkansas",5,127,"NULL","NULL",705,"NULL","NULL",3.6,6,1,NA
+5131,93884.6743295019,"Sebastian","Arkansas",5,131,"Fort Smith, AR","Fort Smith, AR-OK",2844,"394609","22900",3.6,40,7,2.5
+5137,NA,"Stone","Arkansas",5,137,"NULL","NULL",732,"NULL","NULL",4.6,7,1,3
+5141,66378.9272030651,"Van Buren","Arkansas",5,141,"NULL","NULL",2858,"NULL","NULL",5.2,8,1,3
+5143,128081.22605364,"Washington","Arkansas",5,143,"Fayetteville, AR","Fayetteville-Springdale-Rogers, AR-MO",3048,"394590","22220",2.6,64,10,3
+5149,NA,"Yell","Arkansas",5,149,"Russellville, AR","Russellville, AR",339,"395042","40780",4.2,11,2,3
+6001,471302.681992337,"Alameda","California",6,1,"San Francisco, CA","San Francisco-Oakland-Hayward, CA",1510,"395057","41860",3,400,27,2.5
+6005,224845.210727969,"Amador","California",6,5,"NULL","NULL",829,"NULL","NULL",3.9,17,1,2
+6007,197437.931034483,"Butte","California",6,7,"Chico, CA","Chico, CA",418,"394464","17020",4.9,101,7,2.33333333333333
+6013,398249.042145594,"Contra Costa","California",6,13,"San Francisco, CA","San Francisco-Oakland-Hayward, CA",3159,"395057","41860",3.1,270,12,2
+6015,164258.577405858,"Del Norte","California",6,15,"Crescent City, CA","Crescent City, CA",2678,"394508","18860",5.6,21,1,2
+6017,311345.593869732,"El Dorado","California",6,17,"Sacramento, CA","Sacramento--Roseville--Arden-Arcade, CA",2691,"395045","40900",3.6,69,3,3
+6019,169162.45210728,"Fresno","California",6,19,"Fresno, CA","Fresno, CA",1018,"394619","23420",7.4,350,15,2
+6021,179603.726708075,"Glenn","California",6,21,"NULL","NULL",524,"NULL","NULL",6.5,26,1,NA
+6023,217380.076628352,"Humboldt","California",6,23,"Eureka, CA","Eureka-Arcata-Fortuna, CA",2351,"394577","21700",3.6,93,6,3
+6025,149809.961685824,"Imperial","California",6,25,"El Centro, CA","El Centro, CA",2354,"394559","20940",17.5,72,2,2
+6027,246674.476987448,"Inyo","California",6,27,"NULL","NULL",188,"NULL","NULL",3.9,30,2,NA
+6029,148808.812260536,"Kern","California",6,29,"Bakersfield, CA","Bakersfield, CA",204,"394357","12540",8,271,15,1.8
+6031,143448.275862069,"Kings","California",6,31,"Hanford, CA","Hanford-Corcoran, CA",580,"394662","25260",7.8,67,4,2.5
+6033,177877.394636015,"Lake","California",6,33,"Clearlake, CA","Clearlake, CA",217,"394472","17340",5.1,43,2,3
+6035,145078.544061303,"Lassen","California",6,35,"Susanville, CA","Susanville, CA",1143,"395141","45000",4.8,31,1,4
+6037,374740.61302682,"Los Angeles","California",6,37,"Los Angeles-Long Beach-Anaheim, CA","Los Angeles-Long Beach-Anaheim, CA",3101,"753899","31080",4.7,2277,131,2.775
+6039,176903.831417625,"Madera","California",6,39,"Madera, CA","Madera, CA",1156,"394814","31460",7,81,2,2
+6041,707818.390804598,"Marin","California",6,41,"San Francisco, CA","San Francisco-Oakland-Hayward, CA",625,"395057","41860",2.3,79,4,3.5
+6043,225658.149779736,"Mariposa","California",6,43,"NULL","NULL",2403,"NULL","NULL",5.4,16,1,NA
+6045,285385.057471264,"Mendocino","California",6,45,"Ukiah, CA","Ukiah, CA",2796,"395175","46380",3.9,74,3,3.5
+6047,NA,"Merced","California",6,47,"Merced, CA","Merced, CA",1196,"394851","32900",8.1,113,3,3
+6049,NA,"Modoc","California",6,49,"NULL","NULL",647,"NULL","NULL",7.3,15,2,NA
+6051,342059.832635983,"Mono","California",6,51,"NULL","NULL",253,"NULL","NULL",3.6,18,1,NA
+6053,391807.279693487,"Monterey","California",6,53,"Salinas, CA","Salinas, CA",2444,"395050","41500",6.4,147,4,3.33333333333333
+6057,326322.605363985,"Nevada","California",6,57,"Truckee, CA","Truckee-Grass Valley, CA",1261,"395166","46020",3.5,55,2,3
+6059,480765.900383142,"Orange","California",6,59,"Los Angeles-Long Beach-Anaheim, CA","Los Angeles-Long Beach-Anaheim, CA",1286,"753899","31080",2.9,615,41,2.75
+6061,330571.264367816,"Placer","California",6,61,"Sacramento, CA","Sacramento--Roseville--Arden-Arcade, CA",1325,"395045","40900",3.2,120,4,4
+6063,259608.90052356,"Plumas","California",6,63,"NULL","NULL",1329,"NULL","NULL",7.6,15,3,3
+6065,252723.754789272,"Riverside","California",6,65,"Riverside, CA","Riverside-San Bernardino-Ontario, CA",2832,"395025","40140",4.3,506,24,2.27272727272727
+6067,234401.915708812,"Sacramento","California",6,67,"Sacramento, CA","Sacramento--Roseville--Arden-Arcade, CA",3017,"395045","40900",3.8,380,19,3
+6069,335359.38697318,"San Benito","California",6,69,"San Jose, CA","San Jose-Sunnyvale-Santa Clara, CA",3020,"395059","41940",5.1,23,2,2
+6071,214208.045977011,"San Bernardino","California",6,71,"Riverside, CA","Riverside-San Bernardino-Ontario, CA",3250,"395025","40140",4,556,32,2.58333333333333
+6073,378364.750957854,"San Diego","California",6,73,"San Diego, CA","San Diego-Carlsbad, CA",2841,"395056","41740",3.3,763,37,3.33333333333333
+6075,691017.24137931,"San Francisco","California",6,75,"San Francisco, CA","San Francisco-Oakland-Hayward, CA",3227,"395057","41860",2.4,134,18,3
+6077,226098.46743295,"San Joaquin","California",6,77,"Stockton, CA","Stockton-Lodi, CA",3134,"395134","44700",5.9,239,10,2.4
+6079,409974.712643678,"San Luis Obispo","California",6,79,"San Luis Obispo, CA","San Luis Obispo-Paso Robles-Arroyo Grande, CA",3261,"395061","42020",2.9,84,6,3.33333333333333
+6081,667807.279693487,"San Mateo","California",6,81,"San Francisco, CA","San Francisco-Oakland-Hayward, CA",2842,"395057","41860",2.2,179,11,3.25
+6083,442957.088122605,"Santa Barbara","California",6,83,"Santa Maria-Santa Barbara, CA","Santa Maria-Santa Barbara, CA",3229,"753917","42200",3.9,124,9,3.75
+6085,617061.302681992,"Santa Clara","California",6,85,"San Jose, CA","San Jose-Sunnyvale-Santa Clara, CA",3136,"395059","41940",2.6,422,17,2.66666666666667
+6087,520674.712643678,"Santa Cruz","California",6,87,"Santa Cruz, CA","Santa Cruz-Watsonville, CA",3025,"395065","42100",4.8,81,5,3
+6089,182344.444444444,"Shasta","California",6,89,"Redding, CA","Redding, CA",1380,"395018","39820",4.9,102,7,4
+6093,156492.134831461,"Siskiyou","California",6,93,"NULL","NULL",2548,"NULL","NULL",6.5,58,2,3
+6095,281056.704980843,"Solano","California",6,95,"Vallejo, CA","Vallejo-Fairfield, CA",1395,"395183","46700",3.9,107,7,3
+6097,403252.490421456,"Sonoma","California",6,97,"Santa Rosa, CA","Santa Rosa, CA",1396,"395068","42220",2.7,191,12,3.25
+6099,196717.24137931,"Stanislaus","California",6,99,"Modesto, CA","Modesto, CA",3033,"394871","33700",6.4,190,12,2
+6105,NA,"Trinity","California",6,105,"NULL","NULL",2056,"NULL","NULL",5.3,23,1,NA
+6107,143585.823754789,"Tulare","California",6,107,"Visalia, CA","Visalia-Porterville, CA",1442,"395195","47300",9.5,197,7,2.5
+6111,409491.954022989,"Ventura","California",6,111,"Ventura, CA","Oxnard-Thousand Oaks-Ventura, CA",2061,"394952","37100",3.8,233,13,3
+6113,290204.980842912,"Yolo","California",6,113,"Sacramento, CA","Sacramento--Roseville--Arden-Arcade, CA",340,"395045","40900",4.2,65,2,3.5
+6115,161053.256704981,"Yuba","California",6,115,"Yuba City, CA","Yuba City, CA",346,"395246","49700",6.4,40,2,1
+8001,183392.337164751,"Adams","Colorado",8,1,"Denver, CO","Denver-Aurora-Lakewood, CO",353,"394530","19740",3.3,150,7,3
+8005,211384.291187739,"Arapahoe","Colorado",8,5,"Denver, CO","Denver-Aurora-Lakewood, CO",2127,"394530","19740",3.1,159,9,3.5
+8013,305860.91954023,"Boulder","Colorado",8,13,"Boulder, CO","Boulder, CO",1549,"394405","14500",2.8,86,6,3.5
+8015,249907.692307692,"Chaffee","Colorado",8,15,"NULL","NULL",1606,"NULL","NULL",2.5,10,1,NA
+8021,NA,"Conejos","Colorado",8,21,"NULL","NULL",1641,"NULL","NULL",4.2,11,1,NA
+8029,154651.020408163,"Delta","Colorado",8,29,"NULL","NULL",472,"NULL","NULL",3.8,18,1,3
+8031,219083.141762452,"Denver","Colorado",8,31,"Denver, CO","Denver-Aurora-Lakewood, CO",989,"394530","19740",3,193,17,3.4
+8035,305284.674329502,"Douglas","Colorado",8,35,"Denver, CO","Denver-Aurora-Lakewood, CO",1670,"394530","19740",2.7,90,5,3.33333333333333
+8037,497801.992031873,"Eagle","Colorado",8,37,"Edwards, CO","Edwards, CO",491,"394556","20780",2.6,21,1,4
+8041,186024.904214559,"El Paso","Colorado",8,41,"Colorado Springs, CO","Colorado Springs, CO",1689,"394484","17820",3.7,219,12,4
+8043,NA,"Fremont","Colorado",8,43,"Canon City, CO","Ca±on City, CO",1713,"394437","15860",5,15,1,4
+8045,262722.222222222,"Garfield","Colorado",8,45,"Glenwood Springs, CO","Glenwood Springs, CO",2300,"753881","24060",3.1,26,2,3.5
+8049,221821.052631579,"Grand","Colorado",8,49,"NULL","NULL",528,"NULL","NULL",2.5,8,2,NA
+8051,NA,"Gunnison","Colorado",8,51,"NULL","NULL",2313,"NULL","NULL",2.4,7,1,NA
+8055,NA,"Huerfano","Colorado",8,55,"NULL","NULL",2350,"NULL","NULL",6.2,5,1,3
+8059,240281.992337165,"Jefferson","Colorado",8,59,"Denver, CO","Denver-Aurora-Lakewood, CO",2734,"394530","19740",2.9,168,3,3
+8063,NA,"Kit Carson","Colorado",8,63,"NULL","NULL",2948,"NULL","NULL",2.1,13,1,NA
+8067,247870.881226054,"La Plata","Colorado",8,67,"Durango, CO","Durango, CO",2369,"394547","20420",2.9,22,2,4.33333333333333
+8069,219355.172413793,"Larimer","Colorado",8,69,"Fort Collins, CO","Fort Collins, CO",1849,"394602","22660",2.7,95,8,3.66666666666667
+8071,NA,"Las Animas","Colorado",8,71,"NULL","NULL",2950,"NULL","NULL",4.5,16,1,NA
+8075,92563.2183908046,"Logan","Colorado",8,75,"Sterling, CO","Sterling, CO",605,"395130","44540",2.8,13,1,3
+8077,159969.731800766,"Mesa","Colorado",8,77,"Grand Junction, CO","Grand Junction, CO",251,"394639","24300",3.9,54,4,3.5
+8081,157780.239520958,"Moffat","Colorado",8,81,"Craig, CO","Craig, CO",1209,"753874","18780",3.5,8,1,3
+8083,179474.860335196,"Montezuma","Colorado",8,83,"NULL","NULL",2807,"NULL","NULL",4.6,19,1,3
+8085,170081.22605364,"Montrose","Colorado",8,85,"Montrose, CO","Montrose, CO",2445,"394876","33940",3.5,18,1,4
+8087,NA,"Morgan","Colorado",8,87,"Fort Morgan, CO","Fort Morgan, CO",1230,"394606","22820",2.8,18,2,3
+8089,69928.3524904215,"Otero","Colorado",8,89,"NULL","NULL",663,"NULL","NULL",4.8,16,1,3
+8097,1046833.89830508,"Pitkin","Colorado",8,97,"Glenwood Springs, CO","Glenwood Springs, CO",1324,"753881","24060",3.7,6,1,4
+8099,NA,"Prowers","Colorado",8,99,"NULL","NULL",1980,"NULL","NULL",3.1,13,1,3
+8101,109615.325670498,"Pueblo","Colorado",8,101,"Pueblo, CO","Pueblo, CO",1337,"395007","39380",4.7,60,4,4
+8103,NA,"Rio Blanco","Colorado",8,103,"NULL","NULL",3007,"NULL","NULL",4.2,5,2,NA
+8105,116531.351351351,"Rio Grande","Colorado",8,105,"NULL","NULL",3008,"NULL","NULL",4.6,13,1,3
+8107,350133.466135458,"Routt","Colorado",8,107,"Steamboat Springs, CO","Steamboat Springs, CO",699,"753921","44460",2.6,13,1,4
+8117,NA,"Summit","Colorado",8,117,"Breckenridge, CO","Breckenridge, CO",1403,"753871","14720",2.1,9,1,4
+8119,181468.199233716,"Teller","Colorado",8,119,"Colorado Springs, CO","Colorado Springs, CO",1427,"394484","17820",3.5,7,1,NA
+8123,173456.704980843,"Weld","Colorado",8,123,"Greeley, CO","Greeley, CO",329,"394645","24540",2.9,100,1,4
+8125,NA,"Yuma","Colorado",8,125,"NULL","NULL",348,"NULL","NULL",2,11,2,3
+9001,366894.636015326,"Fairfield","Connecticut",9,1,"Stamford, CT","Bridgeport-Stamford-Norwalk, CT",2694,"394415","14860",4.1,278,7,2.4
+9003,192883.908045977,"Hartford","Connecticut",9,3,"Hartford, CT","Hartford-West Hartford-East Hartford, CT",2337,"394669","25540",4.4,374,12,2.6
+9005,216243.67816092,"Litchfield","Connecticut",9,5,"Torrington, CT","Torrington, CT",2955,"395162","45860",3.9,84,3,2.5
+9007,232803.0651341,"Middlesex","Connecticut",9,7,"Hartford, CT","Hartford-West Hartford-East Hartford, CT",2800,"394669","25540",3.6,72,1,3
+9009,200913.026819923,"New Haven","Connecticut",9,9,"New Haven, CT","New Haven-Milford, CT",2815,"394908","35300",4.5,281,10,2.66666666666667
+9011,200529.118773946,"New London","Connecticut",9,11,"New London, CT","Norwich-New London, CT",2987,"394924","35980",4,114,2,3.5
+9013,203650.191570881,"Tolland","Connecticut",9,13,"Hartford, CT","Hartford-West Hartford-East Hartford, CT",2054,"394669","25540",3.7,56,3,3.33333333333333
+9015,165901.53256705,"Windham","Connecticut",9,15,"Worcester, MA","Worcester, MA-CT",2097,"395238","49340",4.6,50,2,3
+10005,NA,"Sussex","Delaware",10,5,"Salisbury, MD","Salisbury, MD-DE",1412,"395051","41540",4,48,3,3.5
+11001,351876.68161435,"District of Columbia","District of Columbia",11,1,"Washington, DC","Washington-Arlington-Alexandria, DC-VA-MD-WV",3289,"395209","47900",5.6,260,15,1.8
+12001,134264.750957854,"Alachua","Florida",12,1,"Gainesville, FL","Gainesville, FL",1509,"394622","23540",3.2,76,6,3
+12003,NA,"Baker","Florida",12,3,"Jacksonville, FL","Jacksonville, FL",378,"394714","27260",3.3,9,2,NA
+12005,153280.076628352,"Bay","Florida",12,5,"Panama City, FL","Panama City, FL",67,"394960","37460",3.9,51,5,3
+12007,95781.6326530612,"Bradford","Florida",12,7,"NULL","NULL",2148,"NULL","NULL",3.3,13,1,3
+12009,133307.662835249,"Brevard","Florida",12,9,"Melbourne, FL","Palm Bay-Melbourne-Titusville, FL",1556,"394957","37340",3.5,131,11,3.28571428571429
+12011,161854.022988506,"Broward","Florida",12,11,"Miami-Fort Lauderdale, FL","Miami-Fort Lauderdale-West Palm Beach, FL",1561,"394856","33100",3.3,386,28,2.66666666666667
+12013,NA,"Calhoun","Florida",12,13,"NULL","NULL",1571,"NULL","NULL",4.2,10,1,NA
+12015,145900,"Charlotte","Florida",12,15,"Punta Gorda, FL","Punta Gorda, FL",2650,"395009","39460",3.9,26,4,2.33333333333333
+12017,112860.384615385,"Citrus","Florida",12,17,"Homosassa Springs, FL","Homosassa Springs, FL",938,"394685","26140",5.1,25,2,2
+12019,145958.620689655,"Clay","Florida",12,19,"Jacksonville, FL","Jacksonville, FL",118,"394714","27260",3.2,48,3,3
+12021,249211.111111111,"Collier","Florida",12,21,"Naples, FL","Naples-Immokalee-Marco Island, FL",1638,"394901","34940",3.5,72,6,3
+12023,101839.846743295,"Columbia","Florida",12,23,"Lake City, FL","Lake City, FL",2212,"394764","29380",3.7,23,3,3
+12027,88066.5338645418,"De Soto","Florida",12,27,"Arcadia, FL","Arcadia, FL",1659,"394335","11580",3.7,12,1,3
+12031,123712.260536398,"Duval","Florida",12,31,"Jacksonville, FL","Jacksonville, FL",489,"394714","27260",3.5,217,15,3
+12033,110838.697318008,"Escambia","Florida",12,33,"Pensacola, FL","Pensacola-Ferry Pass-Brent, FL",2259,"394971","37860",3.6,76,9,3.2
+12035,160614.342629482,"Flagler","Florida",12,35,"Daytona Beach, FL","Deltona-Daytona Beach-Ormond Beach, FL",1707,"394528","19660",4,17,1,3
+12037,NA,"Franklin","Florida",12,37,"NULL","NULL",2272,"NULL","NULL",3.5,5,1,NA
+12045,130070.114942529,"Gulf","Florida",12,45,"Panama City, FL","Panama City, FL",169,"394960","37460",4.3,6,1,4
+12049,69521.2244897959,"Hardee","Florida",12,49,"Wauchula, FL","Wauchula, FL",1076,"395214","48100",4.9,11,1,3
+12051,86789.2720306513,"Hendry","Florida",12,51,"Clewiston, FL","Clewiston, FL",1093,"394476","17500",6,17,1,3
+12053,116285.440613027,"Hernando","Florida",12,53,"Tampa, FL","Tampa-St. Petersburg-Clearwater, FL",2341,"395148","45300",4.4,36,5,2.5
+12055,90511.877394636,"Highlands","Florida",12,55,"Sebring, FL","Sebring, FL",2724,"395080","42700",4.9,23,3,2.33333333333333
+12057,138548.659003831,"Hillsborough","Florida",12,57,"Tampa, FL","Tampa-St. Petersburg-Clearwater, FL",3165,"395148","45300",3.3,328,21,2.72727272727273
+12059,NA,"Holmes","Florida",12,59,"NULL","NULL",1094,"NULL","NULL",4.1,11,1,NA
+12061,147288.122605364,"Indian River","Florida",12,61,"Vero Beach, FL","Sebastian-Vero Beach, FL",3168,"395079","42680",4.3,29,4,2.5
+12063,72360.9561752988,"Jackson","Florida",12,63,"NULL","NULL",1794,"NULL","NULL",4,22,2,3
+12069,146669.731800766,"Lake","Florida",12,69,"Orlando, FL","Orlando-Kissimmee-Sanford, FL",219,"394943","36740",3.4,62,6,2.33333333333333
+12071,162860.536398467,"Lee","Florida",12,71,"Fort Myers, FL","Cape Coral-Fort Myers, FL",80,"394440","15980",3.4,130,7,2
+12073,142191.954022989,"Leon","Florida",12,73,"Tallahassee, FL","Tallahassee, FL",232,"395146","45220",3.3,66,5,2.5
+12075,105896.551724138,"Levy","Florida",12,75,"NULL","NULL",234,"NULL","NULL",3.8,18,1,NA
+12079,NA,"Madison","Florida",12,79,"NULL","NULL",1896,"NULL","NULL",3.9,14,1,NA
+12081,178016.858237548,"Manatee","Florida",12,81,"North Port-Sarasota-Bradenton, FL","North Port-Sarasota-Bradenton, FL",1916,"753906","35840",3.3,81,5,2.33333333333333
+12083,107496.551724138,"Marion","Florida",12,83,"Ocala, FL","Ocala, FL",1161,"394927","36100",4.2,68,7,2
+12086,189668.965517241,"Miami-Dade","Florida",12,86,"Miami-Fort Lauderdale, FL","Miami-Fort Lauderdale-West Palm Beach, FL",2964,"394856","33100",3.8,557,38,2.69565217391304
+12087,406365.134099617,"Monroe","Florida",12,87,"Key West, FL","Key West, FL",1214,"394744","28580",2.9,26,4,2.66666666666667
+12089,190173.946360153,"Nassau","Florida",12,89,"Jacksonville, FL","Jacksonville, FL",1251,"394714","27260",3.2,21,1,3
+12091,158882.75862069,"Okaloosa","Florida",12,91,"Crestview-Fort Walton Beach-Destin, FL","Crestview-Fort Walton Beach-Destin, FL",2460,"753875","18880",2.8,53,6,3.33333333333333
+12093,97740.2298850575,"Okeechobee","Florida",12,93,"Okeechobee, FL","Okeechobee, FL",2990,"394934","36380",3.6,17,1,3
+12095,155778.544061303,"Orange","Florida",12,95,"Orlando, FL","Orlando-Kissimmee-Sanford, FL",1287,"394943","36740",3.1,266,18,3
+12097,144669.348659004,"Osceola","Florida",12,97,"Orlando, FL","Orlando-Kissimmee-Sanford, FL",1957,"394943","36740",3.6,74,6,2
+12099,181075.095785441,"Palm Beach","Florida",12,99,"Miami-Fort Lauderdale, FL","Miami-Fort Lauderdale-West Palm Beach, FL",2993,"394856","33100",3.5,287,20,2.53333333333333
+12101,125698.084291188,"Pasco","Florida",12,101,"Tampa, FL","Tampa-St. Petersburg-Clearwater, FL",669,"395148","45300",3.8,115,10,2.83333333333333
+12103,135356.32183908,"Pinellas","Florida",12,103,"Tampa, FL","Tampa-St. Petersburg-Clearwater, FL",2480,"395148","45300",3.2,182,18,2.8
+12105,119350.957854406,"Polk","Florida",12,105,"Lakeland, FL","Lakeland-Winter Haven, FL",285,"394766","29460",4,170,6,2.2
+12107,89447.5095785441,"Putnam","Florida",12,107,"Palatka, FL","Palatka, FL",1338,"394955","37260",4.8,25,1,2
+12109,223113.026819923,"Saint Johns","Florida",12,109,"Jacksonville, FL","Jacksonville, FL",3128,"394714","27260",2.8,58,1,3
+12111,135500.383141762,"Saint Lucie","Florida",12,111,"Port St. Lucie, FL","Port St. Lucie, FL",3131,"394995","38940",4.4,53,6,2
+12113,148526.053639847,"Santa Rosa","Florida",12,113,"Pensacola, FL","Pensacola-Ferry Pass-Brent, FL",3026,"394971","37860",3.3,40,5,3.33333333333333
+12115,179158.620689655,"Sarasota","Florida",12,115,"North Port-Sarasota-Bradenton, FL","North Port-Sarasota-Bradenton, FL",2528,"753906","35840",3.3,65,7,4
+12117,166037.54789272,"Seminole","Florida",12,117,"Orlando, FL","Orlando-Kissimmee-Sanford, FL",2538,"394943","36740",3.1,76,5,2
+12119,176228.352490421,"Sumter","Florida",12,119,"The Villages, FL","The Villages, FL",1409,"395153","45540",5.1,14,2,3
+12121,NA,"Suwannee","Florida",12,121,"NULL","NULL",2570,"NULL","NULL",3.8,14,1,3
+12123,NA,"Taylor","Florida",12,123,"NULL","NULL",1419,"NULL","NULL",3.9,10,2,NA
+12127,132897.318007663,"Volusia","Florida",12,127,"Daytona Beach, FL","Deltona-Daytona Beach-Ormond Beach, FL",2063,"394528","19660",3.7,94,9,2.8
+12131,267611.111111111,"Walton","Florida",12,131,"Crestview-Fort Walton Beach-Destin, FL","Crestview-Fort Walton Beach-Destin, FL",1468,"753875","18880",3,23,2,4
+12133,65805.306122449,"Washington","Florida",12,133,"NULL","NULL",3050,"NULL","NULL",3.8,10,1,NA
+13009,110008.812260536,"Baldwin","Georgia",13,9,"Milledgeville, GA","Milledgeville, GA",1526,"394861","33300",5,6,2,3
+13015,109462.921348315,"Bartow","Georgia",13,15,"Atlanta, GA","Atlanta-Sandy Springs-Roswell, GA",855,"394347","12060",3.7,24,1,4
+13017,NA,"Ben Hill","Georgia",13,17,"Fitzgerald, GA","Fitzgerald, GA",2140,"394594","22340",6,4,1,3
+13019,NA,"Berrien","Georgia",13,19,"NULL","NULL",1543,"NULL","NULL",4.1,5,1,NA
+13021,95090.0383141762,"Bibb","Georgia",13,21,"Macon, GA","Macon, GA",101,"394813","31420",4.4,49,8,3.5
+13023,NA,"Bleckley","Georgia",13,23,"NULL","NULL",2146,"NULL","NULL",5.8,5,1,3
+13027,NA,"Brooks","Georgia",13,27,"Valdosta, GA","Valdosta, GA",893,"395182","46660",3.8,4,1,NA
+13031,120081.992337165,"Bulloch","Georgia",13,31,"Statesboro, GA","Statesboro, GA",1566,"395126","44340",4.1,16,2,2
+13033,NA,"Burke","Georgia",13,33,"Augusta, GA","Augusta-Richmond County, GA-SC",415,"394352","12260",5.8,6,1,NA
+13035,81076.245210728,"Butts","Georgia",13,35,"Atlanta, GA","Atlanta-Sandy Springs-Roswell, GA",421,"394347","12060",4,5,1,NA
+13043,NA,"Candler","Georgia",13,43,"NULL","NULL",1586,"NULL","NULL",3.5,4,1,NA
+13045,99524.1379310345,"Carroll","Georgia",13,45,"Atlanta, GA","Atlanta-Sandy Springs-Roswell, GA",1590,"394347","12060",3.9,29,3,3
+13047,116284.269662921,"Catoosa","Georgia",13,47,"Chattanooga, TN","Chattanooga, TN-GA",1605,"394460","16860",3.3,16,1,NA
+13051,130506.513409962,"Chatham","Georgia",13,51,"Savannah, GA","Savannah, GA",1608,"395070","42340",3.7,56,9,2.33333333333333
+13063,NA,"Clayton","Georgia",13,63,"Atlanta, GA","Atlanta-Sandy Springs-Roswell, GA",1622,"394347","12060",4.8,66,4,2
+13067,172179.69348659,"Cobb","Georgia",13,67,"Atlanta, GA","Atlanta-Sandy Springs-Roswell, GA",135,"394347","12060",3.3,126,6,2.5
+13069,NA,"Coffee","Georgia",13,69,"Douglas, GA","Douglas, GA",946,"394538","20060",4.4,13,1,3
+13071,78275.4789272031,"Colquitt","Georgia",13,71,"Moultrie, GA","Moultrie, GA",2210,"394883","34220",3.6,14,2,3
+13077,138425.287356322,"Coweta","Georgia",13,77,"Atlanta, GA","Atlanta-Sandy Springs-Roswell, GA",960,"394347","12060",3.3,31,3,3
+13081,NA,"Crisp","Georgia",13,81,"Cordele, GA","Cordele, GA",461,"394498","18380",4.8,8,1,3
+13087,81236.398467433,"Decatur","Georgia",13,87,"Bainbridge, GA","Bainbridge, GA",1662,"394356","12460",4.6,9,1,3
+13089,137963.984674329,"Dekalb","Georgia",13,89,"Atlanta, GA","Atlanta-Sandy Springs-Roswell, GA",984,"394347","12060",3.9,158,15,3
+13091,NA,"Dodge","Georgia",13,91,"NULL","NULL",482,"NULL","NULL",5.2,6,1,3
+13095,82326.4367816092,"Dougherty","Georgia",13,95,"Albany, GA","Albany, GA",2686,"394306","10500",5,25,2,1
+13097,120532.183908046,"Douglas","Georgia",13,97,"Atlanta, GA","Atlanta-Sandy Springs-Roswell, GA",1671,"394347","12060",4,35,2,3
+13105,85087.4476987448,"Elbert","Georgia",13,105,"NULL","NULL",1002,"NULL","NULL",4.8,6,1,4
+13107,NA,"Emanuel","Georgia",13,107,"NULL","NULL",1693,"NULL","NULL",5.7,8,1,3
+13109,NA,"Evans","Georgia",13,109,"NULL","NULL",508,"NULL","NULL",3.6,4,1,4
+13111,187977.639751553,"Fannin","Georgia",13,111,"NULL","NULL",1010,"NULL","NULL",3.9,5,1,3
+13113,210944.061302682,"Fayette","Georgia",13,113,"Atlanta, GA","Atlanta-Sandy Springs-Roswell, GA",1697,"394347","12060",3.4,24,1,2
+13115,103913.793103448,"Floyd","Georgia",13,115,"Rome, GA","Rome, GA",512,"395038","40660",4.2,30,5,3.33333333333333
+13117,230164.367816092,"Forsyth","Georgia",13,117,"Atlanta, GA","Atlanta-Sandy Springs-Roswell, GA",1711,"394347","12060",3.1,36,1,3
+13121,183952.107279693,"Fulton","Georgia",13,121,"Atlanta, GA","Atlanta-Sandy Springs-Roswell, GA",1020,"394347","12060",3.9,206,19,2.6
+13127,179768.322981366,"Glynn","Georgia",13,127,"Brunswick, GA","Brunswick, GA",525,"394423","15260",3.6,18,2,3
+13129,106393.486590038,"Gordon","Georgia",13,129,"Calhoun, GA","Calhoun, GA",1044,"394432","15660",3.8,15,1,5
+13131,NA,"Grady","Georgia",13,131,"NULL","NULL",526,"NULL","NULL",3.8,7,1,4
+13133,NA,"Greene","Georgia",13,133,"NULL","NULL",1053,"NULL","NULL",4.2,5,2,3
+13135,160402.298850575,"Gwinnett","Georgia",13,135,"Atlanta, GA","Atlanta-Sandy Springs-Roswell, GA",2314,"394347","12060",3.4,140,6,3
+13137,112640.462427746,"Habersham","Georgia",13,137,"Cornelia, GA","Cornelia, GA",2713,"394500","18460",3.6,13,1,3
+13139,137629.885057471,"Hall","Georgia",13,139,"Gainesville, GA","Gainesville, GA",172,"394623","23580",3.1,42,2,3
+13143,81109.3023255814,"Haralson","Georgia",13,143,"Atlanta, GA","Atlanta-Sandy Springs-Roswell, GA",2326,"394347","12060",3.8,10,1,3
+13151,133515.325670498,"Henry","Georgia",13,151,"Atlanta, GA","Atlanta-Sandy Springs-Roswell, GA",553,"394347","12060",4.1,51,2,2
+13153,102190.038314176,"Houston","Georgia",13,153,"Warner Robins, GA","Warner Robins, GA",1782,"395202","47580",4,41,2,3.5
+13155,NA,"Irwin","Georgia",13,155,"NULL","NULL",570,"NULL","NULL",5.7,3,1,3
+13157,NA,"Jackson","Georgia",13,157,"Jefferson, GA","Jefferson, GA",1795,"753893","27600",2.9,20,1,2
+13159,NA,"Jasper","Georgia",13,159,"Atlanta, GA","Atlanta-Sandy Springs-Roswell, GA",1114,"394347","12060",3.4,4,1,NA
+13161,NA,"Jeff Davis","Georgia",13,161,"NULL","NULL",2943,"NULL","NULL",4.8,4,1,3
+13163,NA,"Jefferson","Georgia",13,163,"NULL","NULL",2736,"NULL","NULL",5.3,6,1,3.5
+13175,79775.8620689655,"Laurens","Georgia",13,175,"Dublin, GA","Dublin, GA",1851,"394540","20140",4.8,15,2,4
+13179,102873.180076628,"Liberty","Georgia",13,179,"Hinesville, GA","Hinesville, GA",1859,"394682","25980",4.3,16,2,3
+13185,117031.034482759,"Lowndes","Georgia",13,185,"Valdosta, GA","Valdosta, GA",1889,"395182","46660",4,20,3,3
+13187,153776.245210728,"Lumpkin","Georgia",13,187,"NULL","NULL",1892,"NULL","NULL",3.4,5,1,3
+13189,NA,"McDuffie","Georgia",13,189,"Augusta, GA","Augusta-Richmond County, GA-SC",2423,"394352","12260",5.4,6,2,3
+13193,NA,"Macon","Georgia",13,193,"NULL","NULL",619,"NULL","NULL",6.1,3,1,NA
+13199,60321.7877094972,"Meriwether","Georgia",13,199,"Atlanta, GA","Atlanta-Sandy Springs-Roswell, GA",2963,"394347","12060",4.8,9,3,NA
+13205,NA,"Mitchell","Georgia",13,205,"NULL","NULL",2435,"NULL","NULL",5.4,8,1,NA
+13207,NA,"Monroe","Georgia",13,207,"Macon, GA","Macon, GA",1215,"394813","31420",3.6,5,1,3
+13211,203011.888111888,"Morgan","Georgia",13,211,"Atlanta, GA","Atlanta-Sandy Springs-Roswell, GA",1231,"394347","12060",3.5,4,1,NA
+13213,99532.5358851675,"Murray","Georgia",13,213,"Dalton, GA","Dalton, GA",1248,"394515","19140",5.2,11,1,3
+13215,94867.4157303371,"Muscogee","Georgia",13,215,"Columbus, GA","Columbus, GA-AL",2448,"394488","17980",5,59,7,3.33333333333333
+13217,109145.593869732,"Newton","Georgia",13,217,"Atlanta, GA","Atlanta-Sandy Springs-Roswell, GA",1263,"394347","12060",4.3,24,1,2
+13223,NA,"Paulding","Georgia",13,223,"Atlanta, GA","Atlanta-Sandy Springs-Roswell, GA",2470,"394347","12060",3.4,34,2,3
+13233,75612.6436781609,"Polk","Georgia",13,233,"Cedartown, GA","Cedartown, GA",286,"394448","16340",4.1,11,2,NA
+13235,NA,"Pulaski","Georgia",13,235,"Warner Robins, GA","Warner Robins, GA",1982,"395202","47580",4.2,3,1,3
+13237,NA,"Putnam","Georgia",13,237,"NULL","NULL",1339,"NULL","NULL",4.9,5,1,3
+13241,NA,"Rabun","Georgia",13,241,"NULL","NULL",692,"NULL","NULL",4.1,4,1,NA
+13245,NA,"Richmond","Georgia",13,245,"Augusta, GA","Augusta-Richmond County, GA-SC",2509,"394352","12260",5,63,11,2
+13255,88295.0191570881,"Spalding","Georgia",13,255,"Atlanta, GA","Atlanta-Sandy Springs-Roswell, GA",2554,"394347","12060",4.6,18,1,3
+13257,NA,"Stephens","Georgia",13,257,"Toccoa, GA","Toccoa, GA",2557,"395159","45740",4.4,6,1,3
+13261,NA,"Sumter","Georgia",13,261,"Americus, GA","Americus, GA",1410,"394324","11140",5.9,8,2,3
+13275,96090.4382470119,"Thomas","Georgia",13,275,"Thomasville, GA","Thomasville, GA",1430,"395155","45620",4.7,13,2,3
+13277,104032.183908046,"Tift","Georgia",13,277,"Tifton, GA","Tifton, GA",318,"395158","45700",4,11,1,2
+13279,NA,"Toombs","Georgia",13,279,"Vidalia, GA","Vidalia, GA",1437,"395191","47080",5.7,9,1,3
+13281,182582.517482517,"Towns","Georgia",13,281,"NULL","NULL",752,"NULL","NULL",5.6,3,1,4
+13285,NA,"Troup","Georgia",13,285,"LaGrange, GA","LaGrange, GA",756,"394762","29300",3.6,19,1,4
+13291,152521.455938697,"Union","Georgia",13,291,"NULL","NULL",763,"NULL","NULL",3.6,6,1,3
+13293,66060.9195402299,"Upson","Georgia",13,293,"Thomaston, GA","Thomaston, GA",779,"395154","45580",4.4,4,1,3
+13297,123965.900383142,"Walton","Georgia",13,297,"Atlanta, GA","Atlanta-Sandy Springs-Roswell, GA",1469,"394347","12060",3.5,19,2,2
+13299,64662.8352490421,"Ware","Georgia",13,299,"Waycross, GA","Waycross, GA",327,"395216","48180",3.9,10,2,3
+13303,NA,"Washington","Georgia",13,303,"NULL","NULL",3051,"NULL","NULL",4.9,5,1,3
+13305,89781.2260536399,"Wayne","Georgia",13,305,"Jesup, GA","Jesup, GA",786,"394725","27700",4.6,8,1,2.66666666666667
+13313,97033.3333333333,"Whitfield","Georgia",13,313,"Dalton, GA","Dalton, GA",2872,"394515","19140",4.6,32,1,4
+13317,NA,"Wilkes","Georgia",13,317,"NULL","NULL",1491,"NULL","NULL",4.6,4,1,3
+13321,NA,"Worth","Georgia",13,321,"Albany, GA","Albany, GA",812,"394306","10500",4.3,4,1,NA
+15001,252238.697318008,"Hawaii","Hawaii",15,1,"Hilo, HI","Hilo, HI",1092,"394680","25900",2.8,56,6,3
+15003,430432.567049808,"Honolulu","Hawaii",15,3,"Urban Honolulu, HI","Urban Honolulu, HI",2347,"753924","46520",2.1,183,17,3
+15007,NA,"Kauai","Hawaii",15,7,"Kapaa, HI","Kapaa, HI",578,"394736","28180",2.3,20,2,4
+15009,420318.77394636,"Maui","Hawaii",15,9,"Kahului, HI","Kahului-Wailuku-Lahaina, HI",250,"394731","27980",2.3,33,4,3
+16001,164504.597701149,"Ada","Idaho",16,1,"Boise City, ID","Boise City, ID",66,"394399","14260",2.4,131,11,3
+16005,125647.509578544,"Bannock","Idaho",16,5,"Pocatello, ID","Pocatello, ID",1530,"394988","38540",2.6,35,2,3
+16007,150226.595744681,"Bear Lake","Idaho",16,7,"NULL","NULL",2627,"NULL","NULL",2.9,6,1,NA
+16009,130283.908045977,"Benewah","Idaho",16,9,"NULL","NULL",1541,"NULL","NULL",4.5,8,1,NA
+16011,140149.808429119,"Bingham","Idaho",16,11,"Blackfoot, ID","Blackfoot, ID",1545,"394391","13940",2.7,32,3,4
+16017,266811.111111111,"Bonner","Idaho",16,17,"Sandpoint, ID","Sandpoint, ID",885,"753916","41760",4,19,1,3
+16019,113735.249042146,"Bonneville","Idaho",16,19,"Idaho Falls, ID","Idaho Falls, ID",2892,"394703","26820",2.4,52,2,3.5
+16021,153619.923371648,"Boundary","Idaho",16,21,"NULL","NULL",2147,"NULL","NULL",4.4,5,1,NA
+16027,117780.459770115,"Canyon","Idaho",16,27,"Boise City, ID","Boise City, ID",913,"394399","14260",3,78,2,4
+16041,NA,"Franklin","Idaho",16,41,"Logan, UT","Logan, UT-ID",2275,"394800","30860",2.1,10,1,NA
+16045,222121.290322581,"Gem","Idaho",16,45,"Boise City, ID","Boise City, ID",73,"394399","14260",3.3,9,1,NA
+16047,136019.157088123,"Gooding","Idaho",16,47,"NULL","NULL",1728,"NULL","NULL",2.4,11,1,4
+16055,223837.164750958,"Kootenai","Idaho",16,55,"Coeur d'Alene, ID","Coeur d'Alene, ID",2368,"394480","17660",3.4,47,4,NA
+16057,204857.471264368,"Latah","Idaho",16,57,"Moscow, ID","Moscow, ID",593,"394881","34140",2.4,19,1,4
+16059,NA,"Lemhi","Idaho",16,59,"NULL","NULL",595,"NULL","NULL",4.4,9,1,NA
+16065,165385.106382979,"Madison","Idaho",16,65,"Rexburg, ID","Rexburg, ID",1899,"395020","39940",1.7,15,1,3
+16067,NA,"Minidoka","Idaho",16,67,"Burley, ID","Burley, ID",2433,"394426","15420",2.5,12,1,NA
+16077,148432.183908046,"Power","Idaho",16,77,"NULL","NULL",689,"NULL","NULL",2.9,8,1,NA
+16079,NA,"Shoshone","Idaho",16,79,"NULL","NULL",2547,"NULL","NULL",5.7,9,1,NA
+16085,NA,"Valley","Idaho",16,85,"NULL","NULL",1454,"NULL","NULL",3.7,8,2,NA
+16087,NA,"Washington","Idaho",16,87,"NULL","NULL",3053,"NULL","NULL",4.1,9,1,NA
+17001,111435.249042146,"Adams","Illinois",17,1,"Quincy, IL","Quincy, IL-MO",356,"395010","39500",3.6,26,2,3
+17011,NA,"Bureau","Illinois",17,11,"Ottawa, IL","Ottawa-Peru, IL",896,"394946","36860",4.6,28,2,3.5
+17019,118083.665338645,"Champaign","Illinois",17,19,"Champaign-Urbana, IL","Champaign-Urbana, IL",2648,"394454","16580",4.1,62,3,3
+17021,62888.122605364,"Christian","Illinois",17,21,"Taylorville, IL","Taylorville, IL",2657,"395150","45380",5.1,20,2,4
+17025,71499.1150442478,"Clay","Illinois",17,25,"NULL","NULL",121,"NULL","NULL",4.8,11,1,3
+17027,99235.2490421456,"Clinton","Illinois",17,27,"St. Louis, MO","St. Louis, MO-IL",1625,"395121","41180",3.3,23,1,3.66666666666667
+17029,90168.1992337165,"Coles","Illinois",17,29,"Charleston, IL","Charleston-Mattoon, IL",453,"394456","16660",4.4,17,1,3
+17031,190693.869731801,"Cook","Illinois",17,31,"Chicago, IL","Chicago-Naperville-Elgin, IL-IN-WI",139,"394463","16980",4.2,1326,73,2.69565217391304
+17037,149794.252873563,"De Kalb","Illinois",17,37,"Chicago, IL","Chicago-Naperville-Elgin, IL-IN-WI",1657,"394463","16980",4.1,42,3,4
+17043,244330.268199234,"Du Page","Illinois",17,43,"Chicago, IL","Chicago-Naperville-Elgin, IL-IN-WI",1682,"394463","16980",3.3,258,8,3.5
+17045,NA,"Edgar","Illinois",17,45,"NULL","NULL",495,"NULL","NULL",4.3,18,1,4
+17049,99975.4789272031,"Effingham","Illinois",17,49,"Effingham, IL","Effingham, IL",2690,"394557","20820",3.5,18,1,4
+17051,NA,"Fayette","Illinois",17,51,"NULL","NULL",1699,"NULL","NULL",5,15,1,NA
+17053,68163.601532567,"Ford","Illinois",17,53,"Champaign-Urbana, IL","Champaign-Urbana, IL",160,"394454","16580",4.4,9,1,4
+17055,NA,"Franklin","Illinois",17,55,"NULL","NULL",2276,"NULL","NULL",5.9,23,1,3
+17057,NA,"Fulton","Illinois",17,57,"Canton, IL","Canton, IL",1021,"394438","15900",5.7,23,1,3
+17061,NA,"Greene","Illinois",17,61,"NULL","NULL",1055,"NULL","NULL",4.6,7,1,NA
+17063,172439.751552795,"Grundy","Illinois",17,63,"Chicago, IL","Chicago-Naperville-Elgin, IL-IN-WI",1068,"394463","16980",4.9,25,1,4
+17065,NA,"Hamilton","Illinois",17,65,"NULL","NULL",2317,"NULL","NULL",4,4,1,2
+17069,NA,"Hardin","Illinois",17,69,"NULL","NULL",1078,"NULL","NULL",7.3,3,1,NA
+17073,94808.3682008368,"Henry","Illinois",17,73,"Davenport, IL","Davenport-Moline-Rock Island, IA-IL",555,"394520","19340",4.7,29,2,4
+17075,88650,"Iroquois","Illinois",17,75,"NULL","NULL",2355,"NULL","NULL",4.1,25,1,2
+17077,NA,"Jackson","Illinois",17,77,"Carbondale, IL","Carbondale-Marion, IL",1797,"394442","16060",4.3,23,2,3
+17081,65005.1792828685,"Jefferson","Illinois",17,81,"Mount Vernon, IL","Mount Vernon, IL",2739,"394888","34500",5,21,3,2.5
+17083,97364.0167364017,"Jersey","Illinois",17,83,"St. Louis, MO","St. Louis, MO-IL",1124,"395121","41180",4.5,8,1,3
+17085,NA,"Jo Daviess","Illinois",17,85,"NULL","NULL",2945,"NULL","NULL",4.1,18,1,NA
+17089,196850,"Kane","Illinois",17,89,"Chicago, IL","Chicago-Naperville-Elgin, IL-IN-WI",197,"394463","16980",4.6,145,5,3.33333333333333
+17091,111985.823754789,"Kankakee","Illinois",17,91,"Kankakee, IL","Kankakee, IL",2363,"394734","28100",4.8,43,2,4
+17095,65802.2988505747,"Knox","Illinois",17,95,"Galesburg, IL","Galesburg, IL",208,"394625","23660",5,24,2,3
+17097,223118.007662835,"Lake","Illinois",17,97,"Chicago, IL","Chicago-Naperville-Elgin, IL-IN-WI",220,"394463","16980",4.2,207,8,4
+17099,111577.394636015,"La Salle","Illinois",17,99,"Ottawa, IL","Ottawa-Peru, IL",2371,"394946","36860",5.4,50,5,3
+17101,NA,"Lawrence","Illinois",17,101,"NULL","NULL",2380,"NULL","NULL",5.5,6,1,3
+17103,NA,"Lee","Illinois",17,103,"Dixon, IL","Dixon, IL",83,"394535","19940",4.1,16,1,3
+17105,86126.0536398467,"Livingston","Illinois",17,105,"Pontiac, IL","Pontiac, IL",2956,"394992","38700",4.1,24,1,4
+17107,NA,"Logan","Illinois",17,107,"Lincoln, IL","Lincoln, IL",606,"394795","30660",4.4,15,1,4
+17109,75790.9090909091,"McDonough","Illinois",17,109,"Macomb, IL","Macomb, IL",2792,"394812","31380",4.7,15,1,3
+17111,191409.195402299,"McHenry","Illinois",17,111,"Chicago, IL","Chicago-Naperville-Elgin, IL-IN-WI",1922,"394463","16980",3.7,84,3,4.33333333333333
+17113,129790.421455939,"McLean","Illinois",17,113,"Bloomington, IL","Bloomington, IL",1186,"753869","14010",3.8,57,2,3.16666666666667
+17115,74524.9042145594,"Macon","Illinois",17,115,"Decatur, IL","Decatur, IL",620,"394524","19500",5.2,45,2,2.5
+17117,65959.7701149425,"Macoupin","Illinois",17,117,"St. Louis, MO","St. Louis, MO-IL",2396,"395121","41180",4.5,30,2,3.5
+17119,95895.4022988506,"Madison","Illinois",17,119,"St. Louis, MO","St. Louis, MO-IL",1900,"395121","41180",4.2,80,7,3.16666666666667
+17121,NA,"Marion","Illinois",17,121,"Centralia, IL","Centralia, IL",1164,"394451","16460",4.6,28,2,2.5
+17125,NA,"Mason","Illinois",17,125,"NULL","NULL",626,"NULL","NULL",5.4,9,1,3
+17127,NA,"Massac","Illinois",17,127,"Paducah, KY","Paducah, KY-IL",1182,"394953","37140",6.5,9,1,4
+17135,NA,"Montgomery","Illinois",17,135,"NULL","NULL",2971,"NULL","NULL",5.5,16,2,3.28571428571429
+17137,72517.2413793103,"Morgan","Illinois",17,137,"Jacksonville, IL","Jacksonville, IL",1232,"394715","27300",4.1,24,1,3
+17141,NA,"Ogle","Illinois",17,141,"Rochelle, IL","Rochelle, IL",259,"395029","40300",4.7,26,1,4
+17143,93243.0278884462,"Peoria","Illinois",17,143,"Peoria, IL","Peoria, IL",1314,"394972","37900",5.3,77,4,3.2
+17145,NA,"Perry","Illinois",17,145,"NULL","NULL",676,"NULL","NULL",5.7,12,2,4
+17147,NA,"Piatt","Illinois",17,147,"Champaign-Urbana, IL","Champaign-Urbana, IL",684,"394454","16580",3.9,17,2,NA
+17157,NA,"Randolph","Illinois",17,157,"NULL","NULL",2492,"NULL","NULL",4.1,16,3,3.23076923076923
+17159,NA,"Richland","Illinois",17,159,"NULL","NULL",2502,"NULL","NULL",4.2,7,1,3
+17161,84929.5019157088,"Rock Island","Illinois",17,161,"Davenport, IL","Davenport-Moline-Rock Island, IA-IL",3119,"394520","19340",4.8,57,3,2
+17163,89953.6398467433,"Saint Clair","Illinois",17,163,"St. Louis, MO","St. Louis, MO-IL",3122,"395121","41180",4.7,95,4,3.17647058823529
+17165,NA,"Saline","Illinois",17,165,"NULL","NULL",1363,"NULL","NULL",6.3,15,2,3
+17167,107842.911877395,"Sangamon","Illinois",17,167,"Springfield, IL","Springfield, IL",2526,"395114","44100",4.1,74,4,2.71428571428571
+17169,NA,"Schuyler","Illinois",17,169,"NULL","NULL",2531,"NULL","NULL",4.2,4,1,NA
+17177,84875.1351351351,"Stephenson","Illinois",17,177,"Freeport, IL","Freeport, IL",3034,"394616","23300",4.4,23,1,3
+17179,105014.176245211,"Tazewell","Illinois",17,179,"Peoria, IL","Peoria, IL",2572,"394972","37900",4.6,56,2,3
+17183,NA,"Vermilion","Illinois",17,183,"Danville, IL","Danville, IL",2865,"394516","19180",5.7,40,3,3
+17187,79393.1034482759,"Warren","Illinois",17,187,"NULL","NULL",1472,"NULL","NULL",3.9,10,1,4
+17189,NA,"Washington","Illinois",17,189,"NULL","NULL",3054,"NULL","NULL",2.8,9,1,NA
+17191,NA,"Wayne","Illinois",17,191,"NULL","NULL",788,"NULL","NULL",5.3,12,1,NA
+17195,86837.4501992032,"Whiteside","Illinois",17,195,"Sterling, IL","Sterling, IL",2871,"395131","44580",4.3,30,2,4
+17197,179311.877394636,"Will","Illinois",17,197,"Chicago, IL","Chicago-Naperville-Elgin, IL-IN-WI",330,"394463","16980",4.3,198,4,3
+17199,76312.8078817734,"Williamson","Illinois",17,199,"Carbondale, IL","Carbondale-Marion, IL",3079,"394442","16060",4.9,24,3,2.5
+17201,101402.390438247,"Winnebago","Illinois",17,201,"Rockford, IL","Rockford, IL",2877,"395033","40420",5.4,92,4,3.33333333333333
+17203,121203.0651341,"Woodford","Illinois",17,203,"Peoria, IL","Peoria, IL",2602,"394972","37900",3.8,20,1,4
+18001,92424.1379310345,"Adams","Indiana",18,1,"Decatur, IN","Decatur, IN",357,"394525","19540",2.6,10,1,3
+18003,99155.938697318,"Allen","Indiana",18,3,"Fort Wayne, IN","Fort Wayne, IN",367,"394612","23060",3.2,89,12,3
+18005,124561.6,"Bartholomew","Indiana",18,5,"Columbus, IN","Columbus, IN",3084,"394489","18020",2.6,20,1,4
+18009,63857.4712643678,"Blackford","Indiana",18,9,"NULL","NULL",2631,"NULL","NULL",3.9,5,1,4
+18011,162746.743295019,"Boone","Indiana",18,11,"Indianapolis, IN","Indianapolis-Carmel-Anderson, IN",393,"394705","26900",2.7,17,1,4
+18017,NA,"Cass","Indiana",18,17,"Logansport, IN","Logansport, IN",109,"394801","30900",3.8,15,3,3.25
+18019,106897.6,"Clark","Indiana",18,19,"Louisville-Jefferson County, KY","Louisville/Jefferson County, KY-IN",441,"394807","31140",3.4,32,4,2
+18021,78673.9463601533,"Clay","Indiana",18,21,"Terre Haute, IN","Terre Haute, IN",122,"395151","45460",4,10,1,3
+18023,82808.8122605364,"Clinton","Indiana",18,23,"Frankfort, IN","Frankfort, IN",1626,"394613","23140",2.9,12,1,3
+18027,79929.5019157088,"Daviess","Indiana",18,27,"Washington, IN","Washington, IN",1651,"395207","47780",2.7,12,1,3
+18029,137109.195402299,"Dearborn","Indiana",18,29,"Cincinnati, OH","Cincinnati, OH-KY-IN",2244,"394466","17140",3.7,15,2,3
+18031,99601.5325670498,"Decatur","Indiana",18,31,"Greensburg, IN","Greensburg, IN",1664,"394649","24700",3,7,1,4
+18033,102986.973180077,"De Kalb","Indiana",18,33,"Auburn, IN","Auburn, IN",1658,"394349","12140",2.8,14,2,3
+18035,81918.3908045977,"Delaware","Indiana",18,35,"Muncie, IN","Muncie, IN",2247,"394893","34620",4,36,3,3
+18037,113920.689655172,"Dubois","Indiana",18,37,"Jasper, IN","Jasper, IN",997,"394721","27540",2.5,18,1,5
+18039,111837.164750958,"Elkhart","Indiana",18,39,"Elkhart, IN","Elkhart-Goshen, IN",1691,"394565","21140",2.6,56,3,4
+18041,66734.4827586207,"Fayette","Indiana",18,41,"Connersville, IN","Connersville, IN",1700,"394494","18220",4.7,9,1,4
+18043,128030.651340996,"Floyd","Indiana",18,43,"Louisville-Jefferson County, KY","Louisville/Jefferson County, KY-IN",514,"394807","31140",3.3,17,3,NA
+18049,84136.398467433,"Fulton","Indiana",18,49,"NULL","NULL",1022,"NULL","NULL",3.5,7,1,4
+18051,87255.938697318,"Gibson","Indiana",18,51,"NULL","NULL",1037,"NULL","NULL",2.7,13,1,3
+18053,70736.398467433,"Grant","Indiana",18,53,"Marion, IN","Marion, IN",531,"394826","31980",3.9,27,3,3.33333333333333
+18055,NA,"Greene","Indiana",18,55,"NULL","NULL",1056,"NULL","NULL",4.5,14,1,3
+18057,199242.574257426,"Hamilton","Indiana",18,57,"Indianapolis, IN","Indianapolis-Carmel-Anderson, IN",2318,"394705","26900",2.7,67,6,4.2
+18059,137171.647509579,"Hancock","Indiana",18,59,"Indianapolis, IN","Indianapolis-Carmel-Anderson, IN",1751,"394705","26900",3,22,1,3
+18061,107462.45210728,"Harrison","Indiana",18,61,"Louisville-Jefferson County, KY","Louisville/Jefferson County, KY-IN",2330,"394807","31140",3.4,15,1,3
+18063,142636.781609195,"Hendricks","Indiana",18,63,"Indianapolis, IN","Indianapolis-Carmel-Anderson, IN",2722,"394705","26900",2.9,42,2,4
+18065,73919.9233716475,"Henry","Indiana",18,65,"New Castle, IN","New Castle, IN",556,"394906","35220",3.5,19,1,4
+18067,80366.2921348315,"Howard","Indiana",18,67,"Kokomo, IN","Kokomo, IN",1100,"394755","29020",3.9,26,3,3
+18069,81328.7356321839,"Huntington","Indiana",18,69,"Huntington, IN","Huntington, IN",2939,"394696","26540",3.6,11,1,4
+18071,94575.8620689655,"Jackson","Indiana",18,71,"Seymour, IN","Seymour, IN",1798,"395087","42980",2.9,15,1,5
+18075,67288.8888888889,"Jay","Indiana",18,75,"NULL","NULL",75,"NULL","NULL",3.4,10,1,4
+18077,91659.0038314176,"Jefferson","Indiana",18,77,"Madison, IN","Madison, IN",2740,"394815","31500",3.5,10,3,4
+18079,90373.1800766284,"Jennings","Indiana",18,79,"North Vernon, IN","North Vernon, IN",2358,"394921","35860",3.7,8,1,3
+18081,125693.486590038,"Johnson","Indiana",18,81,"Indianapolis, IN","Indianapolis-Carmel-Anderson, IN",1821,"394705","26900",2.9,38,3,3.5
+18083,65278.5440613027,"Knox","Indiana",18,83,"Vincennes, IN","Vincennes, IN",209,"395192","47180",3.3,11,1,2.57142857142857
+18085,141181.132075472,"Kosciusko","Indiana",18,85,"Warsaw, IN","Warsaw, IN",2766,"395205","47700",2.7,20,2,3
+18087,122576.62835249,"Lagrange","Indiana",18,87,"NULL","NULL",2374,"NULL","NULL",2.5,13,1,4
+18089,126099.350649351,"Lake","Indiana",18,89,"Chicago, IL","Chicago-Naperville-Elgin, IL-IN-WI",221,"394463","16980",5,134,15,3.75
+18093,79064.367816092,"Lawrence","Indiana",18,93,"Bedford, IN","Bedford, IN",2381,"394375","13260",3.9,19,2,3.5
+18095,78514.1762452107,"Madison","Indiana",18,95,"Indianapolis, IN","Indianapolis-Carmel-Anderson, IN",1901,"394705","26900",3.8,30,5,4
+18097,110059.638554217,"Marion","Indiana",18,97,"Indianapolis, IN","Indianapolis-Carmel-Anderson, IN",1165,"394705","26900",3.5,242,23,2.85714285714286
+18099,105940.229885057,"Marshall","Indiana",18,99,"Plymouth, IN","Plymouth, IN",2408,"394987","38500",3.2,16,4,NA
+18103,67084.6743295019,"Miami","Indiana",18,103,"Peru, IN","Peru, IN",639,"394973","37940",4,11,1,3
+18105,131267.049808429,"Monroe","Indiana",18,105,"Bloomington, IN","Bloomington, IN",1218,"394393","14020",3.8,30,3,4
+18113,97445.9770114943,"Noble","Indiana",18,113,"Kendallville, IN","Kendallville, IN",654,"394739","28340",3,16,1,4
+18117,71612.6436781609,"Orange","Indiana",18,117,"NULL","NULL",1288,"NULL","NULL",3.9,8,1,3
+18123,77069.7318007663,"Perry","Indiana",18,123,"NULL","NULL",677,"NULL","NULL",3.7,5,1,4
+18127,153909.961685824,"Porter","Indiana",18,127,"Chicago, IL","Chicago-Naperville-Elgin, IL-IN-WI",1330,"394463","16980",3.9,53,3,4
+18131,74734.0996168582,"Pulaski","Indiana",18,131,"NULL","NULL",1984,"NULL","NULL",3.2,6,1,4
+18133,107090.038314176,"Putnam","Indiana",18,133,"Indianapolis, IN","Indianapolis-Carmel-Anderson, IN",1341,"394705","26900",3.7,17,1,4
+18135,68963.601532567,"Randolph","Indiana",18,135,"NULL","NULL",2493,"NULL","NULL",3.9,13,1,4
+18137,107320.689655172,"Ripley","Indiana",18,137,"NULL","NULL",1356,"NULL","NULL",3.7,13,1,4
+18139,82697.8947368421,"Rush","Indiana",18,139,"NULL","NULL",310,"NULL","NULL",2.9,8,1,3
+18141,NA,"Saint Joseph","Indiana",18,141,"South Bend, IN","South Bend-Mishawaka, IN-MI",2849,"395107","43780",3.6,72,7,4
+18145,104604.597701149,"Shelby","Indiana",18,145,"Indianapolis, IN","Indianapolis-Carmel-Anderson, IN",1384,"394705","26900",3.1,16,1,4
+18151,124740.996168582,"Steuben","Indiana",18,151,"Angola, IN","Angola, IN",2038,"394331","11420",2.7,9,1,3
+18153,65746.4516129032,"Sullivan","Indiana",18,153,"Terre Haute, IN","Terre Haute, IN",2564,"395151","45460",4.6,9,1,2
+18157,119962.835249042,"Tippecanoe","Indiana",18,157,"Lafayette-West Lafayette, IN","Lafayette-West Lafayette, IN",3041,"753895","29200",3.2,37,7,3
+18159,97292.7203065134,"Tipton","Indiana",18,159,"NULL","NULL",1434,"NULL","NULL",2.9,5,1,4
+18163,93578.9272030651,"Vanderburgh","Indiana",18,163,"Evansville, IN","Evansville, IN-KY",3146,"394579","21780",3.2,39,6,3
+18165,65162.0689655172,"Vermillion","Indiana",18,165,"Terre Haute, IN","Terre Haute, IN",3046,"395151","45460",5.5,7,1,4
+18167,74185.0574712644,"Vigo","Indiana",18,167,"Terre Haute, IN","Terre Haute, IN",323,"395151","45460",4.4,29,4,3.5
+18171,79751.724137931,"Warren","Indiana",18,171,"NULL","NULL",1473,"NULL","NULL",3.3,4,1,3
+18173,128038.697318008,"Warrick","Indiana",18,173,"Evansville, IN","Evansville, IN-KY",2070,"394579","21780",3,17,4,4
+18175,83927.5862068966,"Washington","Indiana",18,175,"Louisville-Jefferson County, KY","Louisville/Jefferson County, KY-IN",3055,"394807","31140",3.5,8,1,NA
+18179,100350.191570881,"Wells","Indiana",18,179,"Fort Wayne, IN","Fort Wayne, IN",803,"394612","23060",2.8,9,1,3
+18181,NA,"White","Indiana",18,181,"NULL","NULL",808,"NULL","NULL",3.1,12,1,3
+18183,108888.505747126,"Whitley","Indiana",18,183,"Fort Wayne, IN","Fort Wayne, IN",2091,"394612","23060",2.8,11,1,4
+19001,NA,"Adair","Iowa",19,1,"NULL","NULL",349,"NULL","NULL",2.4,5,1,NA
+19005,NA,"Allamakee","Iowa",19,5,"NULL","NULL",2611,"NULL","NULL",3.1,10,1,NA
+19007,NA,"Appanoose","Iowa",19,7,"NULL","NULL",2617,"NULL","NULL",3.3,12,1,4
+19009,NA,"Audubon","Iowa",19,9,"NULL","NULL",1522,"NULL","NULL",2.6,3,1,NA
+19011,95424.3027888446,"Benton","Iowa",19,11,"Cedar Rapids, IA","Cedar Rapids, IA",865,"394447","16300",2.7,14,1,NA
+19013,96616.8582375479,"Black Hawk","Iowa",19,13,"Waterloo, IA","Waterloo-Cedar Falls, IA",2890,"395210","47940",2.9,36,3,3
+19015,96521.8884120172,"Boone","Iowa",19,15,"Boone, IA","Boone, IA",391,"394401","14340",2.2,17,1,3
+19017,100807.755102041,"Bremer","Iowa",19,17,"Waterloo, IA","Waterloo-Cedar Falls, IA",891,"395210","47940",2.1,19,2,3.66666666666667
+19019,NA,"Buchanan","Iowa",19,19,"NULL","NULL",2153,"NULL","NULL",2.6,18,2,NA
+19021,78070.8812260536,"Buena Vista","Iowa",19,21,"Storm Lake, IA","Storm Lake, IA",3086,"395135","44740",2.2,15,1,3
+19025,NA,"Calhoun","Iowa",19,25,"NULL","NULL",1573,"NULL","NULL",2.6,6,1,4
+19029,NA,"Cass","Iowa",19,29,"NULL","NULL",107,"NULL","NULL",2.7,13,1,3
+19033,93957.7181208054,"Cerro Gordo","Iowa",19,33,"Mason City, IA","Mason City, IA",3089,"394838","32380",2.6,14,2,3
+19035,NA,"Cherokee","Iowa",19,35,"NULL","NULL",2189,"NULL","NULL",2.2,11,2,3
+19041,82783.6734693878,"Clay","Iowa",19,41,"Spencer, IA","Spencer, IA",120,"395111","43980",3.3,7,1,4
+19043,NA,"Clayton","Iowa",19,43,"NULL","NULL",1623,"NULL","NULL",3.2,11,2,NA
+19045,80985.0574712644,"Clinton","Iowa",19,45,"Clinton, IA","Clinton, IA",1624,"394477","17540",3.2,20,3,2
+19047,NA,"Crawford","Iowa",19,47,"NULL","NULL",2228,"NULL","NULL",3.5,13,2,3
+19049,184800,"Dallas","Iowa",19,49,"Des Moines, IA","Des Moines-West Des Moines, IA",976,"394531","19780",1.7,31,1,NA
+19053,NA,"Decatur","Iowa",19,53,"NULL","NULL",1663,"NULL","NULL",2.3,7,1,NA
+19057,77957.8544061303,"Des Moines","Iowa",19,57,"Burlington, IA","Burlington, IA-IL",2920,"394427","15460",3.3,17,1,2
+19059,NA,"Dickinson","Iowa",19,59,"Spirit Lake, IA","Spirit Lake, IA",2681,"395112","44020",3.1,10,1,4
+19061,139865.168539326,"Dubuque","Iowa",19,61,"Dubuque, IA","Dubuque, IA",1683,"394542","20220",2.5,27,3,4
+19069,NA,"Franklin","Iowa",19,69,"NULL","NULL",2274,"NULL","NULL",2.2,8,1,NA
+19071,NA,"Fremont","Iowa",19,71,"NULL","NULL",1714,"NULL","NULL",1.9,8,1,NA
+19073,NA,"Greene","Iowa",19,73,"NULL","NULL",1054,"NULL","NULL",2.3,7,1,NA
+19075,NA,"Grundy","Iowa",19,75,"Waterloo, IA","Waterloo-Cedar Falls, IA",1067,"395210","47940",2.5,11,1,NA
+19077,NA,"Guthrie","Iowa",19,77,"Des Moines, IA","Des Moines-West Des Moines, IA",1742,"394531","19780",2.6,10,1,NA
+19079,NA,"Hamilton","Iowa",19,79,"NULL","NULL",2316,"NULL","NULL",2.7,11,1,3
+19081,NA,"Hancock","Iowa",19,81,"NULL","NULL",1749,"NULL","NULL",2.3,7,1,3
+19083,NA,"Hardin","Iowa",19,83,"NULL","NULL",1077,"NULL","NULL",2.9,13,2,NA
+19091,NA,"Humboldt","Iowa",19,91,"NULL","NULL",2352,"NULL","NULL",2.5,6,1,NA
+19093,NA,"Ida","Iowa",19,93,"NULL","NULL",74,"NULL","NULL",2,5,1,3
+19095,112216.759776536,"Iowa","Iowa",19,95,"NULL","NULL",189,"NULL","NULL",2.1,9,1,NA
+19099,88692.050209205,"Jasper","Iowa",19,99,"Newton, IA","Newton, IA",1115,"394916","35500",2.6,19,1,3
+19101,NA,"Jefferson","Iowa",19,101,"Fairfield, IA","Fairfield, IA",2737,"753880","21840",2.5,8,1,4
+19103,161692.828685259,"Johnson","Iowa",19,103,"Iowa City, IA","Iowa City, IA",1819,"394707","26980",1.9,35,4,3.8
+19105,NA,"Jones","Iowa",19,105,"Cedar Rapids, IA","Cedar Rapids, IA",573,"394447","16300",3,10,2,NA
+19107,NA,"Keokuk","Iowa",19,107,"NULL","NULL",1134,"NULL","NULL",2.9,7,1,NA
+19111,NA,"Lee","Iowa",19,111,"Fort Madison, IA","Fort Madison-Keokuk, IA-IL-MO",82,"394605","22800",4.1,13,3,3
+19113,119816.475095785,"Linn","Iowa",19,113,"Cedar Rapids, IA","Cedar Rapids, IA",235,"394447","16300",2.8,75,2,2.25
+19125,95107.3469387755,"Marion","Iowa",19,125,"NULL","NULL",1163,"NULL","NULL",2.1,18,3,4
+19135,NA,"Monroe","Iowa",19,135,"NULL","NULL",1216,"NULL","NULL",3,5,1,3
+19137,NA,"Montgomery","Iowa",19,137,"NULL","NULL",2970,"NULL","NULL",2.5,10,1,4
+19139,96154.3933054393,"Muscatine","Iowa",19,139,"Muscatine, IA","Muscatine, IA",2811,"394895","34700",2.7,17,1,3
+19145,NA,"Page","Iowa",19,145,"NULL","NULL",266,"NULL","NULL",2.7,11,4,3.5
+19147,NA,"Palo Alto","Iowa",19,147,"NULL","NULL",2821,"NULL","NULL",2.2,9,1,NA
+19149,NA,"Plymouth","Iowa",19,149,"Sioux City, IA","Sioux City, IA-NE-SD",2481,"395102","43580",1.9,17,1,4
+19153,131733.333333333,"Polk","Iowa",19,153,"Des Moines, IA","Des Moines-West Des Moines, IA",287,"394531","19780",2.5,131,9,3.25
+19155,111344.897959184,"Pottawattamie","Iowa",19,155,"Omaha, NE","Omaha-Council Bluffs, NE-IA",3216,"394938","36540",2.3,37,2,4
+19159,NA,"Ringgold","Iowa",19,159,"NULL","NULL",2513,"NULL","NULL",2.8,4,2,NA
+19161,NA,"Sac","Iowa",19,161,"NULL","NULL",92,"NULL","NULL",2.4,8,1,3
+19163,119114.559386973,"Scott","Iowa",19,163,"Davenport, IL","Davenport-Moline-Rock Island, IA-IL",706,"394520","19340",3,57,4,3.5
+19167,145805.309734513,"Sioux","Iowa",19,167,"NULL","NULL",717,"NULL","NULL",1.8,15,6,4
+19169,150882.02247191,"Story","Iowa",19,169,"Ames, IA","Ames, IA",735,"394325","11180",1.6,28,4,3
+19175,NA,"Union","Iowa",19,175,"NULL","NULL",764,"NULL","NULL",3.6,6,1,4
+19179,NA,"Wapello","Iowa",19,179,"Ottumwa, IA","Ottumwa, IA",2069,"394947","36900",3.5,15,1,3
+19183,89554.7892720307,"Washington","Iowa",19,183,"Iowa City, IA","Iowa City, IA",3052,"394707","26980",2.3,14,1,NA
+19197,NA,"Wright","Iowa",19,197,"NULL","NULL",1499,"NULL","NULL",2.7,10,2,4.5
+20001,62015.7088122605,"Allen","Kansas",20,1,"NULL","NULL",368,"NULL","NULL",4,10,2,2
+20003,65355.3191489362,"Anderson","Kansas",20,3,"NULL","NULL",2120,"NULL","NULL",3.5,7,1,NA
+20005,82838.2978723404,"Atchison","Kansas",20,5,"Atchison, KS","Atchison, KS",2130,"394342","11860",4.6,6,1,3
+20007,56240.4255319149,"Barber","Kansas",20,7,"NULL","NULL",848,"NULL","NULL",2.6,4,3,NA
+20009,68260.1769911504,"Barton","Kansas",20,9,"Great Bend, KS","Great Bend, KS",853,"394643","24460",3.2,15,3,3.5
+20013,68081.2260536399,"Brown","Kansas",20,13,"NULL","NULL",404,"NULL","NULL",3.1,7,2,2
+20015,121811.494252874,"Butler","Kansas",20,15,"Wichita, KS","Wichita, KS",900,"395224","48620",3.5,43,2,3.5
+20019,46647.8723404255,"Chautauqua","Kansas",20,19,"NULL","NULL",2899,"NULL","NULL",4.1,4,1,NA
+20021,60781.6,"Cherokee","Kansas",20,21,"NULL","NULL",2190,"NULL","NULL",3.7,15,2,NA
+20023,65374.4680851064,"Cheyenne","Kansas",20,23,"NULL","NULL",2197,"NULL","NULL",2.4,4,1,NA
+20025,60312.7659574468,"Clark","Kansas",20,25,"NULL","NULL",442,"NULL","NULL",2.5,5,2,NA
+20027,84303.1914893617,"Clay","Kansas",20,27,"NULL","NULL",123,"NULL","NULL",3.2,6,1,3
+20029,57698.9361702128,"Cloud","Kansas",20,29,"NULL","NULL",450,"NULL","NULL",3.5,8,1,NA
+20031,85692.5531914894,"Coffey","Kansas",20,31,"NULL","NULL",948,"NULL","NULL",4.8,11,2,4
+20033,52527.6595744681,"Comanche","Kansas",20,33,"NULL","NULL",2220,"NULL","NULL",2.6,3,1,NA
+20035,62569.9115044248,"Cowley","Kansas",20,35,"Arkansas City-Winfield, KS","Arkansas City-Winfield, KS",961,"753864","11680",3.4,24,2,3.5
+20037,67128,"Crawford","Kansas",20,37,"Pittsburg, KS","Pittsburg, KS",2231,"394981","38260",4,17,2,3
+20039,61234.0425531915,"Decatur","Kansas",20,39,"NULL","NULL",1665,"NULL","NULL",2.9,2,1,NA
+20041,92598.9361702128,"Dickinson","Kansas",20,41,"NULL","NULL",2682,"NULL","NULL",3.5,18,2,3.25
+20045,152852.107279693,"Douglas","Kansas",20,45,"Lawrence, KS","Lawrence, KS",1673,"394778","29940",3,30,1,3
+20047,51815.9574468085,"Edwards","Kansas",20,47,"NULL","NULL",1687,"NULL","NULL",2.5,3,1,NA
+20051,134384.042553191,"Ellis","Kansas",20,51,"Hays, KS","Hays, KS",496,"394673","25700",2.4,11,1,3
+20053,65850,"Ellsworth","Kansas",20,53,"NULL","NULL",2692,"NULL","NULL",2.8,6,1,4
+20055,98067.0498084291,"Finney","Kansas",20,55,"Garden City, KS","Garden City, KS",1013,"394627","23780",2.5,21,1,3
+20057,88821.2765957447,"Ford","Kansas",20,57,"Dodge City, KS","Dodge City, KS",161,"394536","19980",2.5,16,1,3
+20059,95926.1538461538,"Franklin","Kansas",20,59,"Ottawa, KS","Ottawa, KS",2278,"753909","36840",3.5,15,1,4
+20061,131408.849557522,"Geary","Kansas",20,61,"Junction City, KS","Junction City, KS",521,"753894","27920",4.9,16,2,3
+20067,NA,"Grant","Kansas",20,67,"NULL","NULL",532,"NULL","NULL",2.8,4,1,NA
+20073,51629.7872340426,"Greenwood","Kansas",20,73,"NULL","NULL",2709,"NULL","NULL",3.6,6,1,NA
+20075,NA,"Hamilton","Kansas",20,75,"NULL","NULL",2319,"NULL","NULL",1.9,2,1,NA
+20077,57786.170212766,"Harper","Kansas",20,77,"NULL","NULL",1087,"NULL","NULL",2.9,5,2,NA
+20079,NA,"Harvey","Kansas",20,79,"Wichita, KS","Wichita, KS",1091,"395224","48620",3.2,18,2,3.5
+20081,91682.9787234043,"Haskell","Kansas",20,81,"NULL","NULL",1764,"NULL","NULL",2.1,5,1,NA
+20085,91537.2340425532,"Jackson","Kansas",20,85,"Topeka, KS","Topeka, KS",1799,"395161","45820",3,9,1,NA
+20089,56126.5957446809,"Jewell","Kansas",20,89,"NULL","NULL",1125,"NULL","NULL",2.8,2,1,NA
+20091,198116.831683168,"Johnson","Kansas",20,91,"Kansas City, MO","Kansas City, MO-KS",1822,"394735","28140",2.8,156,17,3.8
+20093,88242.5531914894,"Kearny","Kansas",20,93,"Garden City, KS","Garden City, KS",1130,"394627","23780",2.3,6,1,NA
+20095,72031.914893617,"Kingman","Kansas",20,95,"Wichita, KS","Wichita, KS",1840,"395224","48620",3.2,8,1,NA
+20097,81690.4255319149,"Kiowa","Kansas",20,97,"NULL","NULL",583,"NULL","NULL",2.4,4,1,NA
+20099,NA,"Labette","Kansas",20,99,"Parsons, KS","Parsons, KS",1845,"394965","37660",4,18,3,4
+20103,132948.659003831,"Leavenworth","Kansas",20,103,"Kansas City, MO","Kansas City, MO-KS",3100,"394735","28140",3.6,28,3,4
+20105,59295.7446808511,"Lincoln","Kansas",20,105,"NULL","NULL",1867,"NULL","NULL",2.5,3,1,NA
+20111,NA,"Lyon","Kansas",20,111,"Emporia, KS","Emporia, KS",246,"394569","21380",3.5,16,1,3
+20113,118314.893617021,"McPherson","Kansas",20,113,"McPherson, KS","McPherson, KS",2793,"394846","32700",2.6,20,3,3.6
+20115,NA,"Marion","Kansas",20,115,"NULL","NULL",1166,"NULL","NULL",3,11,2,NA
+20119,64324.4680851064,"Meade","Kansas",20,119,"NULL","NULL",634,"NULL","NULL",2.1,5,1,NA
+20121,139272.796934866,"Miami","Kansas",20,121,"Kansas City, MO","Kansas City, MO-KS",640,"394735","28140",3.5,15,2,4
+20123,72988.2978723404,"Mitchell","Kansas",20,123,"NULL","NULL",2437,"NULL","NULL",2.3,6,1,3
+20125,NA,"Montgomery","Kansas",20,125,"Coffeyville, KS","Coffeyville, KS",2973,"394481","17700",4.3,12,2,3
+20127,79446.8085106383,"Morris","Kansas",20,127,"NULL","NULL",1240,"NULL","NULL",2.7,6,1,NA
+20131,83985.1063829787,"Nemaha","Kansas",20,131,"NULL","NULL",1257,"NULL","NULL",2.3,10,2,NA
+20133,57537.2340425532,"Neosho","Kansas",20,133,"NULL","NULL",1259,"NULL","NULL",4.9,10,1,3
+20141,56809.5744680851,"Osborne","Kansas",20,141,"NULL","NULL",1956,"NULL","NULL",2.7,6,1,NA
+20143,81125.5319148936,"Ottawa","Kansas",20,143,"Salina, KS","Salina, KS",1299,"395049","41460",2.9,6,1,NA
+20151,72930.8510638298,"Pratt","Kansas",20,151,"NULL","NULL",690,"NULL","NULL",2.8,6,1,3
+20155,77160.1769911504,"Reno","Kansas",20,155,"Hutchinson, KS","Hutchinson, KS",301,"394701","26740",3.6,32,2,2
+20157,58724.4680851064,"Republic","Kansas",20,157,"NULL","NULL",2500,"NULL","NULL",2.7,5,1,3
+20161,159723.89380531,"Riley","Kansas",20,161,"Manhattan, KS","Manhattan, KS",695,"394821","31740",2.8,18,2,NA
+20163,61268.085106383,"Rooks","Kansas",20,163,"NULL","NULL",698,"NULL","NULL",3.2,8,1,NA
+20165,57225.5319148936,"Rush","Kansas",20,165,"NULL","NULL",311,"NULL","NULL",2.8,6,1,NA
+20167,59964.7509578544,"Russell","Kansas",20,167,"NULL","NULL",2006,"NULL","NULL",2.9,5,1,NA
+20169,105253.097345133,"Saline","Kansas",20,169,"Salina, KS","Salina, KS",1364,"395049","41460",3,16,2,3
+20173,103887.356321839,"Sedgwick","Kansas",20,173,"Wichita, KS","Wichita, KS",2537,"395224","48620",3.8,157,13,4.5
+20175,91803.1914893617,"Seward","Kansas",20,175,"Liberal, KS","Liberal, KS",1378,"394793","30580",3.3,14,1,3
+20177,105037.168141593,"Shawnee","Kansas",20,177,"Topeka, KS","Topeka, KS",2023,"395161","45820",3.5,56,5,3
+20181,72964.8936170213,"Sherman","Kansas",20,181,"NULL","NULL",2024,"NULL","NULL",2.9,5,1,NA
+20183,57798.9361702128,"Smith","Kansas",20,183,"NULL","NULL",722,"NULL","NULL",2.5,4,1,4
+20185,54686.170212766,"Stafford","Kansas",20,185,"NULL","NULL",2555,"NULL","NULL",2.7,6,1,NA
+20189,88017.0212765957,"Stevens","Kansas",20,189,"NULL","NULL",2040,"NULL","NULL",2.8,6,1,NA
+20191,70706.3829787234,"Sumner","Kansas",20,191,"Wichita, KS","Wichita, KS",1406,"395224","48620",3.5,20,2,2
+20193,88612.7659574468,"Thomas","Kansas",20,193,"NULL","NULL",1431,"NULL","NULL",2.6,7,1,3.66666666666667
+20205,57795.7446808511,"Wilson","Kansas",20,205,"NULL","NULL",1494,"NULL","NULL",4.4,8,2,3.5
+20209,70669.7318007663,"Wyandotte","Kansas",20,209,"Kansas City, MO","Kansas City, MO-KS",2881,"394735","28140",4.7,61,4,3.33333333333333
+21001,NA,"Adair","Kentucky",21,1,"NULL","NULL",350,"NULL","NULL",5.3,5,1,4
+21003,NA,"Allen","Kentucky",21,3,"Bowling Green, KY","Bowling Green, KY",369,"394406","14540",3.6,5,1,3
+21009,NA,"Barren","Kentucky",21,9,"Glasgow, KY","Glasgow, KY",850,"394632","23980",4.3,20,1,3
+21013,NA,"Bell","Kentucky",21,13,"Middlesborough, KY","Middlesborough, KY",97,"394858","33180",6.3,21,2,4
+21017,99357.0881226054,"Bourbon","Kentucky",21,17,"Lexington, KY","Lexington-Fayette, KY",1551,"394792","30460",3.9,10,1,3
+21021,114121.072796935,"Boyle","Kentucky",21,21,"Danville, KY","Danville, KY",400,"394517","19220",4.4,14,1,2
+21027,NA,"Breckinridge","Kentucky",21,27,"NULL","NULL",3155,"NULL","NULL",5.1,10,1,3
+21033,NA,"Caldwell","Kentucky",21,33,"NULL","NULL",2160,"NULL","NULL",4.7,5,1,3
+21041,NA,"Carroll","Kentucky",21,41,"NULL","NULL",1594,"NULL","NULL",4.3,7,1,3
+21045,NA,"Casey","Kentucky",21,45,"NULL","NULL",427,"NULL","NULL",4.5,6,1,4
+21047,92529.5019157088,"Christian","Kentucky",21,47,"Clarksville, TN","Clarksville, TN-KY",2658,"394471","17300",5.2,27,3,2
+21049,125436.781609195,"Clark","Kentucky",21,49,"Lexington, KY","Lexington-Fayette, KY",443,"394792","30460",4.1,19,1,4
+21057,NA,"Cumberland","Kentucky",21,57,"NULL","NULL",2910,"NULL","NULL",4.5,3,1,3
+21059,105561.302681992,"Daviess","Kentucky",21,59,"Owensboro, KY","Owensboro, KY",1652,"394949","36980",3.9,34,2,3
+21065,NA,"Estill","Kentucky",21,65,"NULL","NULL",1006,"NULL","NULL",5.2,6,1,4
+21067,132121.072796935,"Fayette","Kentucky",21,67,"Lexington, KY","Lexington-Fayette, KY",1701,"394792","30460",3.3,78,11,3
+21069,NA,"Fleming","Kentucky",21,69,"NULL","NULL",1708,"NULL","NULL",5.3,6,1,3
+21071,NA,"Floyd","Kentucky",21,71,"NULL","NULL",515,"NULL","NULL",6.4,18,3,2
+21073,114829.885057471,"Franklin","Kentucky",21,73,"Frankfort, KY","Frankfort, KY",2279,"394614","23180",3.8,18,1,3
+21083,NA,"Graves","Kentucky",21,83,"Mayfield, KY","Mayfield, KY",1050,"394840","32460",4.9,18,1,3
+21085,NA,"Grayson","Kentucky",21,85,"NULL","NULL",1732,"NULL","NULL",4.8,8,1,4
+21089,NA,"Greenup","Kentucky",21,89,"Huntington, WV","Huntington-Ashland, WV-KY-OH",1737,"394697","26580",6.4,16,1,3
+21093,113733.466135458,"Hardin","Kentucky",21,93,"Elizabethtown, KY","Elizabethtown-Fort Knox, KY",1079,"394563","21060",4.1,41,3,4
+21095,NA,"Harlan","Kentucky",21,95,"NULL","NULL",1083,"NULL","NULL",7.3,14,1,2
+21097,NA,"Harrison","Kentucky",21,97,"NULL","NULL",2331,"NULL","NULL",4.1,8,1,3
+21099,NA,"Hart","Kentucky",21,99,"NULL","NULL",177,"NULL","NULL",3.8,8,1,3
+21101,99196.9348659004,"Henderson","Kentucky",21,101,"Evansville, IN","Evansville, IN-KY",2718,"394579","21780",3.8,14,1,3.66666666666667
+21107,80345.9227467811,"Hopkins","Kentucky",21,107,"Madisonville, KY","Madisonville, KY",1779,"394817","31580",4.3,21,1,3
+21111,120214.176245211,"Jefferson","Kentucky",21,111,"Louisville-Jefferson County, KY","Louisville/Jefferson County, KY-IN",2742,"394807","31140",4.1,177,17,1
+21115,NA,"Johnson","Kentucky",21,115,"NULL","NULL",1823,"NULL","NULL",6.5,15,1,3
+21121,NA,"Knox","Kentucky",21,121,"London, KY","London, KY",210,"394802","30940",6.2,16,1,1
+21127,NA,"Lawrence","Kentucky",21,127,"NULL","NULL",2382,"NULL","NULL",7,6,1,3
+21137,74138.3141762452,"Lincoln","Kentucky",21,137,"Danville, KY","Danville, KY",1868,"394517","19220",5,11,1,3
+21141,NA,"Logan","Kentucky",21,141,"NULL","NULL",608,"NULL","NULL",3.8,10,1,3
+21145,103195.019157088,"McCracken","Kentucky",21,145,"Paducah, KY","Paducah, KY-IL",2789,"394953","37140",5.5,22,2,2.5
+21151,124052.863436123,"Madison","Kentucky",21,151,"Richmond, KY","Richmond-Berea, KY",1902,"395023","40080",3.9,27,2,3
+21155,NA,"Marion","Kentucky",21,155,"NULL","NULL",1167,"NULL","NULL",3.7,9,1,3
+21157,135837.931034483,"Marshall","Kentucky",21,157,"NULL","NULL",2410,"NULL","NULL",5.3,12,1,3
+21161,NA,"Mason","Kentucky",21,161,"Maysville, KY","Maysville, KY",627,"394841","32500",5.4,5,1,3
+21171,NA,"Monroe","Kentucky",21,171,"NULL","NULL",1219,"NULL","NULL",3.9,7,1,2
+21173,99755.1351351351,"Montgomery","Kentucky",21,173,"Mount Sterling, KY","Mount Sterling, KY",2974,"394887","34460",5.9,13,1,3
+21175,NA,"Morgan","Kentucky",21,175,"NULL","NULL",1234,"NULL","NULL",6.1,9,1,NA
+21179,NA,"Nelson","Kentucky",21,179,"Bardstown, KY","Bardstown, KY",1254,"753865","12680",4.3,19,1,4
+21183,NA,"Ohio","Kentucky",21,183,"NULL","NULL",261,"NULL","NULL",5.7,11,1,3
+21185,221177.011494253,"Oldham","Kentucky",21,185,"Louisville-Jefferson County, KY","Louisville/Jefferson County, KY-IN",1279,"394807","31140",3.3,23,2,3
+21193,NA,"Perry","Kentucky",21,193,"NULL","NULL",678,"NULL","NULL",6.3,17,1,2
+21195,NA,"Pike","Kentucky",21,195,"NULL","NULL",276,"NULL","NULL",6,26,2,2.5
+21199,NA,"Pulaski","Kentucky",21,199,"Somerset, KY","Somerset, KY",1985,"395105","43700",5,19,1,2
+21207,NA,"Russell","Kentucky",21,207,"NULL","NULL",2007,"NULL","NULL",5.8,6,1,2
+21209,145013.026819923,"Scott","Kentucky",21,209,"Lexington, KY","Lexington-Fayette, KY",710,"394792","30460",3.3,15,1,3
+21213,NA,"Simpson","Kentucky",21,213,"NULL","NULL",2028,"NULL","NULL",3.9,6,1,4
+21217,85377.7777777778,"Taylor","Kentucky",21,217,"Campbellsville, KY","Campbellsville, KY",1422,"394436","15820",4.3,8,1,3
+21227,121464.750957854,"Warren","Kentucky",21,227,"Bowling Green, KY","Bowling Green, KY",1474,"394406","14540",3.6,43,4,3.5
+21231,NA,"Wayne","Kentucky",21,231,"NULL","NULL",790,"NULL","NULL",6.8,9,1,NA
+21239,NA,"Woodford","Kentucky",21,239,"Lexington, KY","Lexington-Fayette, KY",2603,"394792","30460",3,7,1,NA
+22001,108304.255319149,"Acadia","Louisiana",22,1,"Lafayette, LA","Lafayette, LA",820,"394761","29180",5.4,27,6,2
+22003,NA,"Allen","Louisiana",22,3,"NULL","NULL",370,"NULL","NULL",5.5,12,2,3
+22005,155662.231759657,"Ascension","Louisiana",22,5,"Baton Rouge, LA","Baton Rouge, LA",2623,"394367","12940",4.1,28,6,NA
+22007,130263.829787234,"Assumption","Louisiana",22,7,"NULL","NULL",2884,"NULL","NULL",6.7,10,1,NA
+22009,85566.4335664336,"Avoyelles","Louisiana",22,9,"NULL","NULL",2625,"NULL","NULL",5.7,12,3,3
+22011,96640.7185628742,"Beauregard","Louisiana",22,11,"De Ridder, LA","DeRidder, LA",2886,"394522","19760",5.3,12,2,3
+22013,86890.4,"Bienville","Louisiana",22,13,"NULL","NULL",2629,"NULL","NULL",5.8,9,1,NA
+22017,95864.0776699029,"Caddo","Louisiana",22,17,"Shreveport, LA","Shreveport-Bossier City, LA",423,"395096","43340",5.4,72,14,2
+22019,112495.402298851,"Calcasieu","Louisiana",22,19,"Lake Charles, LA","Lake Charles, LA",2644,"394763","29340",3.7,62,11,3.33333333333333
+22021,74499.3006993007,"Caldwell","Louisiana",22,21,"NULL","NULL",2161,"NULL","NULL",5.7,6,2,3.25
+22023,133728.387096774,"Cameron","Louisiana",22,23,"Lake Charles, LA","Lake Charles, LA",1583,"394763","29340",3.4,4,1,NA
+22027,84163.6363636364,"Claiborne","Louisiana",22,27,"NULL","NULL",2662,"NULL","NULL",5.2,7,1,4
+22029,87690.2097902098,"Concordia","Louisiana",22,29,"Natchez, MS","Natchez, MS-LA",2670,"394903","35020",6.9,11,2,NA
+22031,104538.461538462,"De Soto","Louisiana",22,31,"Shreveport, LA","Shreveport-Bossier City, LA",1660,"395096","43340",5.7,9,1,3
+22033,123388.085106383,"East Baton Rouge","Louisiana",22,33,"Baton Rouge, LA","Baton Rouge, LA",3266,"394367","12940",4.3,128,23,2.5
+22037,129272.631578947,"East Feliciana","Louisiana",22,37,"Baton Rouge, LA","Baton Rouge, LA",3239,"394367","12940",4.6,8,4,NA
+22039,NA,"Evangeline","Louisiana",22,39,"NULL","NULL",2925,"NULL","NULL",5.6,12,2,4
+22041,70198.6013986014,"Franklin","Louisiana",22,41,"NULL","NULL",2280,"NULL","NULL",7.1,6,1,2
+22049,95126.5734265734,"Jackson","Louisiana",22,49,"NULL","NULL",1801,"NULL","NULL",4.6,5,1,NA
+22051,145884.431137725,"Jefferson","Louisiana",22,51,"New Orleans, LA","New Orleans-Metairie, LA",2743,"394910","35380",4.3,86,17,3.33333333333333
+22053,NA,"Jefferson Davis","Louisiana",22,53,"NULL","NULL",3255,"NULL","NULL",4.6,13,4,3
+22055,NA,"Lafayette","Louisiana",22,55,"Lafayette, LA","Lafayette, LA",2770,"394761","29180",4.5,45,17,2.33333333333333
+22057,149007.662835249,"Lafourche","Louisiana",22,57,"Houma, LA","Houma-Thibodaux, LA",2774,"394691","26380",4.8,32,3,4
+22059,NA,"La Salle","Louisiana",22,59,"NULL","NULL",2372,"NULL","NULL",4.5,9,2,3
+22061,130574.476987448,"Lincoln","Louisiana",22,61,"Ruston, LA","Ruston, LA",1869,"395043","40820",5.2,17,5,2
+22065,108125.974025974,"Madison","Louisiana",22,65,"NULL","NULL",1903,"NULL","NULL",8.1,6,1,NA
+22067,NA,"Morehouse","Louisiana",22,67,"Bastrop, LA","Bastrop, LA",2808,"394364","12820",8,11,3,2
+22069,121559.2,"Natchitoches","Louisiana",22,69,"Natchitoches, LA","Natchitoches, LA",3172,"394904","35060",5.9,17,2,4
+22071,149777.528089888,"Orleans","Louisiana",22,71,"New Orleans, LA","New Orleans-Metairie, LA",1953,"394910","35380",4.9,91,15,2.33333333333333
+22073,NA,"Ouachita","Louisiana",22,73,"Monroe, LA","Monroe, LA",2468,"394872","33740",5.1,59,11,2.5
+22077,NA,"Pointe Coupee","Louisiana",22,77,"Baton Rouge, LA","Baton Rouge, LA",3214,"394367","12940",5.3,6,1,3
+22079,89681.6091954023,"Rapides","Louisiana",22,79,"Alexandria, LA","Alexandria, LA",1992,"394314","10780",5.2,55,13,3.5
+22081,86334.2657342657,"Red River","Louisiana",22,81,"NULL","NULL",2830,"NULL","NULL",4.5,5,2,NA
+22083,79613.0841121495,"Richland","Louisiana",22,83,"NULL","NULL",2503,"NULL","NULL",6.2,13,2,3
+22085,NA,"Sabine","Louisiana",22,85,"NULL","NULL",1360,"NULL","NULL",5.2,11,1,3
+22097,84500.7662835249,"Saint Landry","Louisiana",22,97,"Opelousas, LA","Opelousas, LA",3187,"394941","36660",6.2,36,6,3
+22101,NA,"Saint Mary","Louisiana",22,101,"Morgan City, LA","Morgan City, LA",3019,"394878","34020",6.7,25,2,3
+22103,167087.5,"Saint Tammany","Louisiana",22,103,"New Orleans, LA","New Orleans-Metairie, LA",3225,"394910","35380",4.1,56,15,3.33333333333333
+22105,139840.996168582,"Tangipahoa","Louisiana",22,105,"Hammond, LA","Hammond, LA",3039,"394661","25220",5.3,34,10,NA
+22109,116577.777777778,"Terrebonne","Louisiana",22,109,"Houma, LA","Houma-Thibodaux, LA",3040,"394691","26380",5,34,5,3
+22111,112579.661016949,"Union","Louisiana",22,111,"Monroe, LA","Monroe, LA",768,"394872","33740",5.6,8,3,3
+22113,NA,"Vermilion","Louisiana",22,113,"Lafayette, LA","Lafayette, LA",2866,"394761","29180",5.2,22,2,3
+22115,112287.412587413,"Vernon","Louisiana",22,115,"Fort Polk South, LA","Fort Polk South, LA",1457,"394608","22860",6.4,19,4,3
+22117,84557.8947368421,"Washington","Louisiana",22,117,"Bogalusa, LA","Bogalusa, LA",3058,"394398","14220",5.7,16,4,4
+22119,103159.574468085,"Webster","Louisiana",22,119,"Shreveport, LA","Shreveport-Bossier City, LA",2079,"395096","43340",6.1,16,2,4
+22123,79925.974025974,"West Carroll","Louisiana",22,123,"NULL","NULL",3199,"NULL","NULL",9,5,1,3
+22125,206795.804195804,"West Feliciana","Louisiana",22,125,"Baton Rouge, LA","Baton Rouge, LA",3252,"394367","12940",3.9,5,1,NA
+22127,77609.9616858238,"Winn","Louisiana",22,127,"NULL","NULL",331,"NULL","NULL",6.1,8,3,3
+23001,116588.505747126,"Androscoggin","Maine",23,1,"Lewiston, ME","Lewiston-Auburn, ME",3151,"394788","30340",3.1,36,2,3
+23003,NA,"Aroostook","Maine",23,3,"NULL","NULL",2622,"NULL","NULL",4.5,50,6,3.5
+23005,199767.432950192,"Cumberland","Maine",23,5,"Portland, ME","Portland-South Portland, ME",2911,"394997","38860",2.5,98,8,3.42857142857143
+23007,NA,"Franklin","Maine",23,7,"NULL","NULL",2282,"NULL","NULL",3.8,17,1,3
+23009,NA,"Hancock","Maine",23,9,"NULL","NULL",1753,"NULL","NULL",3.5,34,4,4
+23011,115158.620689655,"Kennebec","Maine",23,11,"Augusta, ME","Augusta-Waterville, ME",2364,"394353","12300",3,53,8,4
+23013,212802.312138728,"Knox","Maine",23,13,"NULL","NULL",211,"NULL","NULL",3,24,1,3
+23017,130024.223602484,"Oxford","Maine",23,17,"NULL","NULL",1305,"NULL","NULL",3.7,32,2,3
+23019,121331.460674157,"Penobscot","Maine",23,19,"Bangor, ME","Bangor, ME",2824,"394359","12620",3.6,76,6,3
+23021,NA,"Piscataquis","Maine",23,21,"NULL","NULL",3116,"NULL","NULL",3.9,8,2,3
+23027,NA,"Waldo","Maine",23,27,"NULL","NULL",783,"NULL","NULL",3.3,26,1,3
+23029,NA,"Washington","Maine",23,29,"NULL","NULL",3060,"NULL","NULL",4.6,38,2,3.5
+23031,221408.045977011,"York","Maine",23,31,"Portland, ME","Portland-South Portland, ME",341,"394997","38860",2.8,61,5,3.5
+24001,70217.6245210728,"Allegany","Maryland",24,1,"Cumberland, MD","Cumberland, MD-WV",2118,"394513","19060",5.7,22,2,NA
+24003,263459.770114943,"Anne Arundel","Maryland",24,3,"Baltimore, MD","Baltimore-Columbia-Towson, MD",3152,"394358","12580",3.5,123,2,NA
+24005,191647.509578544,"Baltimore","Maryland",24,5,"Baltimore, MD","Baltimore-Columbia-Towson, MD",2626,"394358","12580",4.2,174,7,NA
+24013,253365.517241379,"Carroll","Maryland",24,13,"Baltimore, MD","Baltimore-Columbia-Towson, MD",1595,"394358","12580",3.4,47,2,NA
+24015,186104.597701149,"Cecil","Maryland",24,15,"Philadelphia, PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",429,"394974","37980",4.6,29,2,NA
+24017,239665.517241379,"Charles","Maryland",24,17,"Washington, DC","Washington-Arlington-Alexandria, DC-VA-MD-WV",1607,"395209","47900",4.1,38,1,NA
+24021,245143.67816092,"Frederick","Maryland",24,21,"Washington, DC","Washington-Arlington-Alexandria, DC-VA-MD-WV",2699,"395209","47900",3.6,67,1,NA
+24023,122121.83908046,"Garrett","Maryland",24,23,"NULL","NULL",1720,"NULL","NULL",5.1,12,1,NA
+24025,220396.9348659,"Harford","Maryland",24,25,"Baltimore, MD","Baltimore-Columbia-Towson, MD",1761,"394358","12580",3.8,54,2,NA
+24027,344314.559386973,"Howard","Maryland",24,27,"Baltimore, MD","Baltimore-Columbia-Towson, MD",1101,"394358","12580",3.2,76,3,NA
+24029,188327.19665272,"Kent","Maryland",24,29,"NULL","NULL",200,"NULL","NULL",4.6,7,1,NA
+24031,347851.724137931,"Montgomery","Maryland",24,31,"Washington, DC","Washington-Arlington-Alexandria, DC-VA-MD-WV",2975,"395209","47900",3.3,208,8,1.5
+24033,212883.141762452,"Prince Georges","Maryland",24,33,"Washington, DC","Washington-Arlington-Alexandria, DC-VA-MD-WV",3246,"395209","47900",4.3,211,7,NA
+24037,227955.938697318,"Saint Marys","Maryland",24,37,"California-Lexington Park, MD","California-Lexington Park, MD",3132,"753872","15680",4,27,1,NA
+24039,NA,"Somerset","Maryland",24,39,"Salisbury, MD","Salisbury, MD-DE",2550,"395051","41540",7.2,9,1,NA
+24041,250119.157088123,"Talbot","Maryland",24,41,"Easton, MD","Easton, MD",1418,"394554","20660",4,8,1,NA
+24043,157805.363984674,"Washington","Maryland",24,43,"Hagerstown, MD","Hagerstown-Martinsburg, MD-WV",3059,"394660","25180",4.5,46,3,NA
+24045,117737.164750958,"Wicomico","Maryland",24,45,"Salisbury, MD","Salisbury, MD-DE",2598,"395051","41540",5.5,25,3,NA
+24047,200147.892720307,"Worcester","Maryland",24,47,"Salisbury, MD","Salisbury, MD-DE",2880,"395051","41540",8.4,14,1,NA
+24510,91968.5823754789,"Baltimore City","Maryland",24,510,"Baltimore, MD","Baltimore-Columbia-Towson, MD",3236,"394358","12580",5.9,190,18,2.25
+25001,306211.877394636,"Barnstable","Massachusetts",25,1,"Cape Cod, MA","Barnstable Town, MA",2885,"394361","12700",4.4,55,4,3.5
+25003,172992.337164751,"Berkshire","Massachusetts",25,3,"Pittsfield, MA","Pittsfield, MA",2628,"394983","38340",4.1,47,4,4.5
+25005,233100.383141762,"Bristol","Massachusetts",25,5,"Providence, RI","Providence-Warwick, RI-MA",1558,"395005","39300",4.4,148,10,3.5
+25009,301534.482758621,"Essex","Massachusetts",25,9,"Boston, MA","Boston-Cambridge-Newton, MA-NH",503,"394404","14460",3.5,232,16,2.5
+25011,167926.819923372,"Franklin","Massachusetts",25,11,"Greenfield Town, MA","Greenfield Town, MA",2281,"753883","24640",3.1,40,1,3
+25013,158308.812260536,"Hampden","Massachusetts",25,13,"Springfield, MA","Springfield, MA",1746,"395115","44140",4.7,161,10,3
+25015,207024.521072797,"Hampshire","Massachusetts",25,15,"Springfield, MA","Springfield, MA",2714,"395115","44140",3.1,50,4,4
+25017,349330.268199234,"Middlesex","Massachusetts",25,17,"Boston, MA","Boston-Cambridge-Newton, MA-NH",2801,"394404","14460",2.8,384,24,3.16666666666667
+25019,1009348.65900383,"Nantucket","Massachusetts",25,19,"NULL","NULL",2813,"NULL","NULL",5,3,1,NA
+25021,334959.003831418,"Norfolk","Massachusetts",25,21,"Boston, MA","Boston-Cambridge-Newton, MA-NH",1948,"394404","14460",3.1,193,14,2.75
+25023,275750.191570881,"Plymouth","Massachusetts",25,23,"Boston, MA","Boston-Cambridge-Newton, MA-NH",2482,"394404","14460",3.6,139,8,2.75
+25025,310737.54789272,"Suffolk","Massachusetts",25,25,"Boston, MA","Boston-Cambridge-Newton, MA-NH",2045,"394404","14460",3.1,173,24,3.5
+25027,212152.490421456,"Worcester","Massachusetts",25,27,"Worcester, MA","Worcester, MA-CT",2879,"395238","49340",3.6,256,15,3
+26003,NA,"Alger","Michigan",26,3,"NULL","NULL",366,"NULL","NULL",8,5,1,NA
+26005,127090.421455939,"Allegan","Michigan",26,5,"Holland, MI","Holland, MI",1513,"753890","26090",3.5,54,2,4
+26007,NA,"Alpena","Michigan",26,7,"Alpena, MI","Alpena, MI",827,"394320","10980",5.3,11,1,4
+26011,NA,"Arenac","Michigan",26,11,"NULL","NULL",836,"NULL","NULL",7.4,10,1,4
+26013,NA,"Baraga","Michigan",26,13,"NULL","NULL",847,"NULL","NULL",6.6,6,1,2
+26017,85633.7164750958,"Bay","Michigan",26,17,"Bay City, MI","Bay City, MI",68,"394369","13020",5,39,3,3
+26019,169892.720306513,"Benzie","Michigan",26,19,"Traverse City, MI","Traverse City, MI",873,"395163","45900",5.7,8,1,NA
+26021,122226.589595376,"Berrien","Michigan",26,21,"Niles, MI","Niles-Benton Harbor, MI",1544,"394917","35660",4.5,81,4,3
+26023,98849.1525423729,"Branch","Michigan",26,23,"Coldwater, MI","Coldwater, MI",889,"394482","17740",3.9,18,1,4
+26025,88654.4061302682,"Calhoun","Michigan",26,25,"Battle Creek, MI","Battle Creek, MI",1575,"394368","12980",4.4,57,5,4
+26027,NA,"Cass","Michigan",26,27,"South Bend, IN","South Bend-Mishawaka, IN-MI",110,"395107","43780",4.2,21,1,4
+26029,NA,"Charlevoix","Michigan",26,29,"NULL","NULL",2898,"NULL","NULL",5,15,1,3
+26033,NA,"Chippewa","Michigan",26,33,"Sault Ste. Marie, MI","Sault Ste. Marie, MI",2199,"395069","42300",6.9,21,1,4
+26035,NA,"Clare","Michigan",26,35,"NULL","NULL",437,"NULL","NULL",6.2,15,1,3
+26037,146832.183908046,"Clinton","Michigan",26,37,"Lansing, MI","Lansing-East Lansing, MI",1628,"394770","29620",3.3,31,1,4
+26041,79147.1698113208,"Delta","Michigan",26,41,"Escanaba, MI","Escanaba, MI",473,"394573","21540",5.6,18,1,3.5
+26043,NA,"Dickinson","Michigan",26,43,"Iron Mountain, MI","Iron Mountain, MI-WI",2683,"394708","27020",4,13,2,4
+26045,122016.475095785,"Eaton","Michigan",26,45,"Lansing, MI","Lansing-East Lansing, MI",493,"394770","29620",3.6,46,2,3
+26047,169933.469387755,"Emmet","Michigan",26,47,"NULL","NULL",501,"NULL","NULL",6.2,17,1,5
+26049,92921.875,"Genesee","Michigan",26,49,"Flint, MI","Flint, MI",1721,"394596","22420",5.1,149,4,1.66666666666667
+26051,83281.2244897959,"Gladwin","Michigan",26,51,"NULL","NULL",1725,"NULL","NULL",5.9,8,1,4
+26053,NA,"Gogebic","Michigan",26,53,"NULL","NULL",1726,"NULL","NULL",5.3,8,1,3
+26055,152595.785440613,"Grand Traverse","Michigan",26,55,"Traverse City, MI","Traverse City, MI",3240,"395163","45900",3.8,33,1,4
+26057,74107.7551020408,"Gratiot","Michigan",26,57,"Alma, MI","Alma, MI",1731,"394319","10940",4.9,24,1,3
+26061,NA,"Houghton","Michigan",26,61,"Houghton, MI","Houghton, MI",2348,"394690","26340",5.3,20,2,3
+26063,NA,"Huron","Michigan",26,63,"NULL","NULL",564,"NULL","NULL",4.9,26,3,4
+26065,114438.247011952,"Ingham","Michigan",26,65,"Lansing, MI","Lansing-East Lansing, MI",1110,"394770","29620",3.8,102,6,2.5
+26067,107151.724137931,"Ionia","Michigan",26,67,"Ionia, MI","Ionia, MI",567,"753891","26960",3.6,29,2,3
+26069,71411.8644067797,"Iosco","Michigan",26,69,"NULL","NULL",568,"NULL","NULL",6.7,9,1,4
+26073,NA,"Isabella","Michigan",26,73,"Mount Pleasant, MI","Mount Pleasant, MI",2356,"394885","34380",4.1,23,1,4
+26075,101800,"Jackson","Michigan",26,75,"Jackson, MI","Jackson, MI",1802,"394710","27100",4.2,60,2,4
+26077,126205.586592179,"Kalamazoo","Michigan",26,77,"Kalamazoo, MI","Kalamazoo-Portage, MI",2761,"394732","28020",3.6,86,2,3
+26079,NA,"Kalkaska","Michigan",26,79,"Traverse City, MI","Traverse City, MI",2362,"395163","45900",6.1,10,1,NA
+26081,129010.727969349,"Kent","Michigan",26,81,"Grand Rapids, MI","Grand Rapids-Wyoming, MI",201,"394640","24340",3.1,234,8,3.66666666666667
+26087,138967.512690355,"Lapeer","Michigan",26,87,"Detroit, MI","Detroit-Warren-Dearborn, MI",1142,"394532","19820",5.1,29,1,3
+26091,111239.463601533,"Lenawee","Michigan",26,91,"Adrian, MI","Adrian, MI",1856,"394302","10300",4.2,48,2,3
+26093,196293.103448276,"Livingston","Michigan",26,93,"Detroit, MI","Detroit-Warren-Dearborn, MI",2959,"394532","19820",3.3,46,2,4
+26097,NA,"Mackinac","Michigan",26,97,"NULL","NULL",2395,"NULL","NULL",10.7,9,1,3
+26099,136660.153256705,"Macomb","Michigan",26,99,"Detroit, MI","Detroit-Warren-Dearborn, MI",1155,"394532","19820",4,243,7,2
+26103,107138.645418327,"Marquette","Michigan",26,103,"Marquette, MI","Marquette, MI",2785,"394829","32100",5.1,25,2,3
+26105,NA,"Mason","Michigan",26,105,"Ludington, MI","Ludington, MI",628,"753901","31220",5,14,1,4
+26107,103261.752988048,"Mecosta","Michigan",26,107,"Big Rapids, MI","Big Rapids, MI",1926,"394384","13660",5.1,17,1,3
+26111,118480.459770115,"Midland","Michigan",26,111,"Midland, MI","Midland, MI",1929,"394859","33220",4.2,26,1,4
+26115,131202.298850575,"Monroe","Michigan",26,115,"Monroe, MI","Monroe, MI",1220,"394873","33780",4.3,52,1,3
+26117,83027.0916334661,"Montcalm","Michigan",26,117,"Grand Rapids, MI","Grand Rapids-Wyoming, MI",2443,"394640","24340",4.4,31,4,3
+26121,88624.5210727969,"Muskegon","Michigan",26,121,"Muskegon, MI","Muskegon, MI",2449,"394896","34740",4.8,73,3,4
+26123,86486.4516129032,"Newaygo","Michigan",26,123,"NULL","NULL",1944,"NULL","NULL",4.5,24,1,4
+26125,179289.272030651,"Oakland","Michigan",26,125,"Detroit, MI","Detroit-Warren-Dearborn, MI",1950,"394532","19820",3.3,360,17,2.8
+26129,NA,"Ogemaw","Michigan",26,129,"NULL","NULL",1278,"NULL","NULL",7.3,7,1,4
+26131,NA,"Ontonagon","Michigan",26,131,"NULL","NULL",2819,"NULL","NULL",8.1,3,1,NA
+26137,110391.428571429,"Otsego","Michigan",26,137,"NULL","NULL",1297,"NULL","NULL",5.5,9,1,4
+26139,149332.950191571,"Ottawa","Michigan",26,139,"Grand Rapids, MI","Grand Rapids-Wyoming, MI",1300,"394640","24340",2.9,93,3,4.5
+26145,76426.4367816092,"Saginaw","Michigan",26,145,"Saginaw, MI","Saginaw, MI",2010,"395047","40980",5,79,8,2.75
+26147,124095.019157088,"Saint Clair","Michigan",26,147,"Detroit, MI","Detroit-Warren-Dearborn, MI",3123,"394532","19820",4.7,59,3,2.66666666666667
+26149,91934.309623431,"Saint Joseph","Michigan",26,149,"Sturgis, MI","Sturgis, MI",3186,"395136","44780",3.8,34,2,3.5
+26151,NA,"Sanilac","Michigan",26,151,"NULL","NULL",2015,"NULL","NULL",5.4,20,3,4
+26153,NA,"Schoolcraft","Michigan",26,153,"NULL","NULL",3138,"NULL","NULL",7.6,3,2,4
+26155,103962.835249042,"Shiawassee","Michigan",26,155,"Owosso, MI","Owosso, MI",3031,"394950","37020",4.5,33,1,2
+26157,73838.4615384615,"Tuscola","Michigan",26,157,"NULL","NULL",2058,"NULL","NULL",5.8,29,2,4
+26159,104858.167330677,"Van Buren","Michigan",26,159,"Kalamazoo, MI","Kalamazoo-Portage, MI",2860,"394732","28020",5.1,46,2,4
+26161,198259.38697318,"Washtenaw","Michigan",26,161,"Ann Arbor, MI","Ann Arbor, MI",2869,"394332","11460",3.2,98,7,3.33333333333333
+26163,80080.3846153846,"Wayne","Michigan",26,163,"Detroit, MI","Detroit-Warren-Dearborn, MI",791,"394532","19820",5.2,590,28,1.77777777777778
+27001,154676.595744681,"Aitkin","Minnesota",27,1,"NULL","NULL",822,"NULL","NULL",5.7,10,1,4
+27003,175778.927203065,"Anoka","Minnesota",27,3,"Minneapolis-St Paul, MN","Minneapolis-St. Paul-Bloomington, MN-WI",373,"394865","33460",2.8,112,2,3.75
+27007,140153.403141361,"Beltrami","Minnesota",27,7,"Bemidji, MN","Bemidji, MN",2139,"394379","13420",4.2,37,2,3
+27015,NA,"Brown","Minnesota",27,15,"New Ulm, MN","New Ulm, MN",405,"394912","35580",3.5,13,3,4
+27017,153219.540229885,"Carlton","Minnesota",27,17,"Duluth, MN","Duluth, MN-WI",1588,"394543","20260",4.1,24,2,3.71428571428571
+27019,234788.888888889,"Carver","Minnesota",27,19,"Minneapolis-St Paul, MN","Minneapolis-St. Paul-Bloomington, MN-WI",924,"394865","33460",2.5,39,1,4
+27025,173526.436781609,"Chisago","Minnesota",27,25,"Minneapolis-St Paul, MN","Minneapolis-St. Paul-Bloomington, MN-WI",1615,"394865","33460",3.4,21,1,4
+27029,NA,"Clearwater","Minnesota",27,29,"NULL","NULL",2904,"NULL","NULL",7.9,5,1,NA
+27031,NA,"Cook","Minnesota",27,31,"NULL","NULL",140,"NULL","NULL",3.1,8,1,NA
+27033,NA,"Cottonwood","Minnesota",27,33,"NULL","NULL",2906,"NULL","NULL",4,11,2,NA
+27035,NA,"Crow Wing","Minnesota",27,35,"Brainerd, MN","Brainerd, MN",2675,"394410","14660",3.8,22,2,3
+27037,204452.490421456,"Dakota","Minnesota",27,37,"Minneapolis-St Paul, MN","Minneapolis-St. Paul-Bloomington, MN-WI",971,"394865","33460",2.5,135,3,4
+27041,164246.443514644,"Douglas","Minnesota",27,41,"Alexandria, MN","Alexandria, MN",1674,"394315","10820",2.8,17,1,3
+27043,82731.4685314685,"Faribault","Minnesota",27,43,"NULL","NULL",2697,"NULL","NULL",3.5,14,1,3
+27049,143799.616858238,"Goodhue","Minnesota",27,49,"Red Wing, MN","Red Wing, MN",1727,"395017","39860",2.8,30,4,4
+27053,196116.858237548,"Hennepin","Minnesota",27,53,"Minneapolis-St Paul, MN","Minneapolis-St. Paul-Bloomington, MN-WI",2339,"394865","33460",2.5,475,12,3.75
+27059,145214.559386973,"Isanti","Minnesota",27,59,"Minneapolis-St Paul, MN","Minneapolis-St. Paul-Bloomington, MN-WI",1111,"394865","33460",3.8,20,1,4
+27061,126346.743295019,"Itasca","Minnesota",27,61,"NULL","NULL",1113,"NULL","NULL",5.5,28,3,NA
+27065,133284.937238494,"Kanabec","Minnesota",27,65,"NULL","NULL",1831,"NULL","NULL",5.4,7,1,4
+27067,135698.850574713,"Kandiyohi","Minnesota",27,67,"Willmar, MN","Willmar, MN",2762,"395228","48820",3,20,1,4
+27071,NA,"Koochiching","Minnesota",27,71,"NULL","NULL",3098,"NULL","NULL",6.1,8,1,NA
+27075,176398.46743295,"Lake","Minnesota",27,75,"NULL","NULL",223,"NULL","NULL",3.1,5,1,NA
+27083,120292.814371257,"Lyon","Minnesota",27,83,"Marshall, MN","Marshall, MN",248,"394830","32140",2.9,15,2,NA
+27095,149692.452830189,"Mille Lacs","Minnesota",27,95,"Minneapolis-St Paul, MN","Minneapolis-St. Paul-Bloomington, MN-WI",2965,"394865","33460",4.8,21,1,3
+27097,135876.62835249,"Morrison","Minnesota",27,97,"NULL","NULL",2446,"NULL","NULL",4.7,23,1,3
+27107,NA,"Norman","Minnesota",27,107,"NULL","NULL",1269,"NULL","NULL",4.5,7,1,NA
+27109,155167.432950192,"Olmsted","Minnesota",27,109,"Rochester, MN","Rochester, MN",1951,"395030","40340",2.4,66,3,3
+27111,208880.076628352,"Otter Tail","Minnesota",27,111,"Fergus Falls, MN","Fergus Falls, MN",2992,"394591","22260",3.6,33,2,4
+27115,133879.425837321,"Pine","Minnesota",27,115,"NULL","NULL",282,"NULL","NULL",4.8,14,3,3
+27119,NA,"Polk","Minnesota",27,119,"Grand Forks, MN","Grand Forks, ND-MN",288,"394637","24220",3.7,21,2,3
+27121,NA,"Pope","Minnesota",27,121,"NULL","NULL",298,"NULL","NULL",2.7,9,1,4
+27123,170966.283524904,"Ramsey","Minnesota",27,123,"Minneapolis-St Paul, MN","Minneapolis-St. Paul-Bloomington, MN-WI",1349,"394865","33460",2.7,252,6,3.4
+27127,NA,"Redwood","Minnesota",27,127,"NULL","NULL",1995,"NULL","NULL",3.8,14,1,4
+27131,168276.018099548,"Rice","Minnesota",27,131,"Faribault, MN","Faribault-Northfield, MN",304,"394586","22060",2.8,31,1,4
+27133,NA,"Rock","Minnesota",27,133,"NULL","NULL",306,"NULL","NULL",2.3,8,1,4
+27135,NA,"Roseau","Minnesota",27,135,"NULL","NULL",1359,"NULL","NULL",3.5,11,1,NA
+27137,117277.528089888,"Saint Louis","Minnesota",27,137,"Duluth, MN","Duluth, MN-WI",3129,"394543","20260",3.7,89,8,3.5
+27143,NA,"Sibley","Minnesota",27,143,"Minneapolis-St Paul, MN","Minneapolis-St. Paul-Bloomington, MN-WI",1390,"394865","33460",3.2,12,1,NA
+27145,140058.620689655,"Stearns","Minnesota",27,145,"St. Cloud, MN","St. Cloud, MN",2037,"395118","41060",3,63,5,4
+27147,132565.134099617,"Steele","Minnesota",27,147,"Owatonna, MN","Owatonna, MN",1399,"394948","36940",3.1,20,1,3
+27151,NA,"Swift","Minnesota",27,151,"NULL","NULL",740,"NULL","NULL",3.8,9,2,NA
+27153,100680.076628352,"Todd","Minnesota",27,153,"NULL","NULL",320,"NULL","NULL",3.9,11,2,4
+27155,NA,"Traverse","Minnesota",27,155,"NULL","NULL",2580,"NULL","NULL",3.2,4,1,NA
+27159,80922.5941422594,"Wadena","Minnesota",27,159,"NULL","NULL",1463,"NULL","NULL",5.5,10,1,3
+27163,215673.563218391,"Washington","Minnesota",27,163,"Minneapolis-St Paul, MN","Minneapolis-St. Paul-Bloomington, MN-WI",3061,"394865","33460",2.5,94,2,4
+27165,NA,"Watonwan","Minnesota",27,165,"NULL","NULL",2595,"NULL","NULL",3.6,9,2,NA
+27169,123520.689655172,"Winona","Minnesota",27,169,"Winona, MN","Winona, MN",1498,"395234","49100",2.6,19,1,3
+27171,177494.252873563,"Wright","Minnesota",27,171,"Minneapolis-St Paul, MN","Minneapolis-St. Paul-Bloomington, MN-WI",1500,"394865","33460",3,62,2,4
+27173,NA,"Yellow Medicine","Minnesota",27,173,"NULL","NULL",3264,"NULL","NULL",3.2,8,2,NA
+28001,108582.978723404,"Adams","Mississippi",28,1,"Natchez, MS","Natchez, MS-LA",358,"394903","35020",6.1,12,2,2
+28003,80608.4291187739,"Alcorn","Mississippi",28,3,"Corinth, MS","Corinth, MS",826,"394499","18420",4.1,15,1,2
+28007,NA,"Attala","Mississippi",28,7,"NULL","NULL",842,"NULL","NULL",5.8,11,1,3
+28011,92167.816091954,"Bolivar","Mississippi",28,11,"Cleveland, MS","Cleveland, MS",1547,"394473","17380",6,36,1,2
+28019,86817.0212765957,"Choctaw","Mississippi",28,19,"NULL","NULL",1617,"NULL","NULL",4.8,5,2,NA
+28021,65791.6030534351,"Claiborne","Mississippi",28,21,"Vicksburg, MS","Vicksburg, MS",2663,"395189","46980",8.8,4,1,NA
+28035,95951.3409961686,"Forrest","Mississippi",28,35,"Hattiesburg, MS","Hattiesburg, MS",1710,"394671","25620",4.3,21,2,2
+28041,NA,"Greene","Mississippi",28,41,"NULL","NULL",1058,"NULL","NULL",6.1,6,1,3
+28045,125947.872340426,"Hancock","Mississippi",28,45,"Gulfport, MS","Gulfport-Biloxi-Pascagoula, MS",1754,"394658","25060",4.8,11,1,3
+28047,NA,"Harrison","Mississippi",28,47,"Gulfport, MS","Gulfport-Biloxi-Pascagoula, MS",2333,"394658","25060",4.5,53,6,2.33333333333333
+28049,NA,"Hinds","Mississippi",28,49,"Jackson, MS","Jackson, MS",562,"394711","27140",4.5,88,9,2
+28059,112491.489361702,"Jackson","Mississippi",28,59,"Gulfport, MS","Gulfport-Biloxi-Pascagoula, MS",1805,"394658","25060",5.4,46,2,2
+28061,76404.5977011494,"Jasper","Mississippi",28,61,"Laurel, MS","Laurel, MS",1119,"394776","29860",5.9,7,1,NA
+28063,NA,"Jefferson","Mississippi",28,63,"NULL","NULL",2745,"NULL","NULL",12.9,6,1,NA
+28067,NA,"Jones","Mississippi",28,67,"Laurel, MS","Laurel, MS",574,"394776","29860",4.8,20,2,NA
+28073,137603.831417625,"Lamar","Mississippi",28,73,"Hattiesburg, MS","Hattiesburg, MS",589,"394671","25620",3.6,18,2,3
+28075,NA,"Lauderdale","Mississippi",28,75,"Meridian, MS","Meridian, MS",2953,"394852","32940",5,26,7,2
+28083,54340.4255319149,"Leflore","Mississippi",28,83,"Greenwood, MS","Greenwood, MS",1855,"394654","24900",6.8,15,2,2
+28089,181784,"Madison","Mississippi",28,89,"Jackson, MS","Jackson, MS",1905,"394711","27140",3.6,31,2,3
+28091,86745.5938697318,"Marion","Mississippi",28,91,"NULL","NULL",1169,"NULL","NULL",5.1,10,1,3.33333333333333
+28093,70954.7892720307,"Marshall","Mississippi",28,93,"Memphis, TN","Memphis, TN-MS-AR",2412,"394849","32820",4.7,16,1,3
+28095,NA,"Monroe","Mississippi",28,95,"NULL","NULL",1222,"NULL","NULL",4.9,14,2,3
+28099,85960.5363984674,"Neshoba","Mississippi",28,99,"NULL","NULL",1943,"NULL","NULL",4.7,11,2,3
+28105,161918.085106383,"Oktibbeha","Mississippi",28,105,"Starkville, MS","Starkville, MS",2818,"395124","44260",4.6,11,1,3
+28109,111953.256704981,"Pearl River","Mississippi",28,109,"Picayune, MS","Picayune, MS",3115,"394977","38100",4.7,21,3,NA
+28113,118052.490421456,"Pike","Mississippi",28,113,"McComb, MS","McComb, MS",278,"394844","32620",5.6,16,2,3
+28121,NA,"Rankin","Mississippi",28,121,"Jackson, MS","Jackson, MS",1351,"394711","27140",3.3,35,7,2.5
+28127,NA,"Simpson","Mississippi",28,127,"Jackson, MS","Jackson, MS",2029,"394711","27140",4.4,9,2,3
+28129,70598.8505747126,"Smith","Mississippi",28,129,"NULL","NULL",723,"NULL","NULL",4.4,6,1,NA
+28131,128304.597701149,"Stone","Mississippi",28,131,"NULL","NULL",734,"NULL","NULL",5.5,4,1,NA
+28137,113359.38697318,"Tate","Mississippi",28,137,"Memphis, TN","Memphis, TN-MS-AR",317,"394849","32820",4.7,10,1,3
+28139,93727.6595744681,"Tippah","Mississippi",28,139,"NULL","NULL",1433,"NULL","NULL",4.3,10,1,NA
+28149,100213.026819923,"Warren","Mississippi",28,149,"Vicksburg, MS","Vicksburg, MS",1476,"395189","46980",5.3,16,2,2
+28151,NA,"Washington","Mississippi",28,151,"Greenville, MS","Greenville, MS",3063,"394650","24740",7,25,3,2
+28153,80029.3193717277,"Wayne","Mississippi",28,153,"NULL","NULL",793,"NULL","NULL",5.3,8,1,3
+28161,85954.2553191489,"Yalobusha","Mississippi",28,161,"NULL","NULL",2882,"NULL","NULL",4.9,4,1,4
+28163,67726.4367816092,"Yazoo","Mississippi",28,163,"Jackson, MS","Jackson, MS",818,"394711","27140",5.4,10,1,2
+29001,NA,"Adair","Missouri",29,1,"Kirksville, MO","Kirksville, MO",351,"394751","28860",3.7,9,1,4
+29009,NA,"Barry","Missouri",29,9,"NULL","NULL",383,"NULL","NULL",3.2,19,2,NA
+29011,NA,"Barton","Missouri",29,11,"NULL","NULL",854,"NULL","NULL",3.3,10,1,4
+29013,NA,"Bates","Missouri",29,13,"Kansas City, MO","Kansas City, MO-KS",384,"394735","28140",3.8,14,1,3
+29019,129419.923371648,"Boone","Missouri",29,19,"Columbia, MO","Columbia, MO",395,"394485","17860",2.4,52,6,3
+29023,NA,"Butler","Missouri",29,23,"Poplar Bluff, MO","Poplar Bluff, MO",902,"394993","38740",4.8,19,5,2.5
+29029,165319.14893617,"Camden","Missouri",29,29,"NULL","NULL",909,"NULL","NULL",4.4,16,2,3
+29031,137319.78021978,"Cape Girardeau","Missouri",29,31,"Cape Girardeau, MO","Cape Girardeau, MO-IL",3237,"394441","16020",2.8,27,3,2.75
+29033,NA,"Carroll","Missouri",29,33,"NULL","NULL",1596,"NULL","NULL",3.3,13,1,3
+29037,151532.567049808,"Cass","Missouri",29,37,"Kansas City, MO","Kansas City, MO-KS",112,"394735","28140",3.1,45,2,3
+29039,NA,"Cedar","Missouri",29,39,"NULL","NULL",431,"NULL","NULL",3.6,6,2,NA
+29047,136902.448979592,"Clay","Missouri",29,47,"Kansas City, MO","Kansas City, MO-KS",126,"394735","28140",3,74,6,3.5
+29049,NA,"Clinton","Missouri",29,49,"Kansas City, MO","Kansas City, MO-KS",1629,"394735","28140",3.2,12,1,2
+29051,130204.597701149,"Cole","Missouri",29,51,"Jefferson City, MO","Jefferson City, MO",137,"394723","27620",2.6,27,3,3.5
+29053,NA,"Cooper","Missouri",29,53,"NULL","NULL",955,"NULL","NULL",3.3,16,1,3
+29065,NA,"Dent","Missouri",29,65,"NULL","NULL",148,"NULL","NULL",3.6,9,1,NA
+29069,NA,"Dunklin","Missouri",29,69,"Kennett, MO","Kennett, MO",1684,"394740","28380",5.8,21,1,2
+29071,97859.3869731801,"Franklin","Missouri",29,71,"St. Louis, MO","St. Louis, MO-IL",2283,"395121","41180",3.2,43,1,4
+29073,NA,"Gasconade","Missouri",29,73,"NULL","NULL",2703,"NULL","NULL",3.1,7,1,NA
+29077,108611.494252874,"Greene","Missouri",29,77,"Springfield, MO","Springfield, MO",1057,"395116","44180",2.6,92,9,3
+29079,NA,"Grundy","Missouri",29,79,"NULL","NULL",1069,"NULL","NULL",3.7,7,1,4
+29081,NA,"Harrison","Missouri",29,81,"NULL","NULL",2332,"NULL","NULL",3.2,12,1,NA
+29083,NA,"Henry","Missouri",29,83,"NULL","NULL",558,"NULL","NULL",3.8,14,2,4
+29091,125652.873563218,"Howell","Missouri",29,91,"West Plains, MO","West Plains, MO",1105,"395219","48460",3.9,15,2,3
+29093,NA,"Iron","Missouri",29,93,"NULL","NULL",192,"NULL","NULL",5.7,9,1,NA
+29095,104930.097087379,"Jackson","Missouri",29,95,"Kansas City, MO","Kansas City, MO-KS",1804,"394735","28140",3.8,232,19,3.33333333333333
+29097,80581.6091954023,"Jasper","Missouri",29,97,"Joplin, MO","Joplin, MO",1118,"394729","27900",2.8,51,2,3.5
+29099,129983.524904215,"Jefferson","Missouri",29,99,"St. Louis, MO","St. Louis, MO-IL",2744,"395121","41180",3.2,66,1,3
+29101,143054.716981132,"Johnson","Missouri",29,101,"Warrensburg, MO","Warrensburg, MO",1824,"395204","47660",3.8,26,1,3
+29105,110366.283524904,"Laclede","Missouri",29,105,"Lebanon, MO","Lebanon, MO",1846,"394781","30060",3.9,13,1,3
+29107,NA,"Lafayette","Missouri",29,107,"Kansas City, MO","Kansas City, MO-KS",2771,"394735","28140",3.3,19,1,3
+29109,NA,"Lawrence","Missouri",29,109,"NULL","NULL",2383,"NULL","NULL",3.3,23,2,NA
+29113,142478.443113772,"Lincoln","Missouri",29,113,"St. Louis, MO","St. Louis, MO-IL",1872,"395121","41180",3.4,20,1,3
+29117,86675.7894736842,"Livingston","Missouri",29,117,"NULL","NULL",2960,"NULL","NULL",2.7,11,2,4
+29121,114055.084745763,"Macon","Missouri",29,121,"NULL","NULL",621,"NULL","NULL",3.1,14,1,NA
+29123,NA,"Madison","Missouri",29,123,"NULL","NULL",1904,"NULL","NULL",3.8,6,1,NA
+29127,NA,"Marion","Missouri",29,127,"Hannibal, MO","Hannibal, MO",1168,"394663","25300",3.3,14,1,3
+29145,98870.2127659574,"Newton","Missouri",29,145,"Joplin, MO","Joplin, MO",1265,"394729","27900",3.1,22,5,3
+29157,97388.6597938144,"Perry","Missouri",29,157,"NULL","NULL",679,"NULL","NULL",2.5,6,1,4
+29159,NA,"Pettis","Missouri",29,159,"Sedalia, MO","Sedalia, MO",1316,"395081","42740",4.3,20,1,2
+29161,118421.538461538,"Phelps","Missouri",29,161,"Rolla, MO","Rolla, MO",1317,"395037","40620",3.3,15,1,3
+29163,NA,"Pike","Missouri",29,163,"NULL","NULL",277,"NULL","NULL",3.8,12,1,3
+29167,126341.747572816,"Polk","Missouri",29,167,"Springfield, MO","Springfield, MO",289,"395116","44180",3.8,18,1,3
+29171,NA,"Putnam","Missouri",29,171,"NULL","NULL",1342,"NULL","NULL",3.6,3,1,NA
+29175,77355.0898203593,"Randolph","Missouri",29,175,"Moberly, MO","Moberly, MO",2494,"394869","33620",4.1,15,1,2
+29177,NA,"Ray","Missouri",29,177,"Kansas City, MO","Kansas City, MO-KS",91,"394735","28140",3.7,13,1,NA
+29185,111113.157894737,"Saint Clair","Missouri",29,185,"NULL","NULL",3124,"NULL","NULL",4.6,7,2,NA
+29186,NA,"Sainte Genevieve","Missouri",29,186,"NULL","NULL",3270,"NULL","NULL",3,4,1,3
+29189,145947.126436782,"Saint Louis","Missouri",29,189,"St. Louis, MO","St. Louis, MO-IL",3130,"395121","41180",3.1,269,22,2.75
+29195,NA,"Saline","Missouri",29,195,"NULL","Marshall, MO",1365,"394831","32180",3.3,18,2,3
+29201,91678.7234042553,"Scott","Missouri",29,201,"Sikeston, MO","Sikeston, MO",712,"395099","43460",3.6,23,1,3
+29207,87250,"Stoddard","Missouri",29,207,"NULL","NULL",2561,"NULL","NULL",4.7,21,1,3
+29211,NA,"Sullivan","Missouri",29,211,"NULL","NULL",2565,"NULL","NULL",3.4,8,1,NA
+29213,NA,"Taney","Missouri",29,213,"Branson, MO","Branson, MO",741,"394411","14700",5.5,21,1,4
+29215,NA,"Texas","Missouri",29,215,"NULL","NULL",746,"NULL","NULL",4.3,16,1,3
+29217,NA,"Vernon","Missouri",29,217,"NULL","NULL",1458,"NULL","NULL",3.3,14,2,3
+29221,NA,"Washington","Missouri",29,221,"NULL","NULL",3062,"NULL","NULL",4.7,12,1,NA
+30001,NA,"Beaverhead","Montana",30,1,"NULL","NULL",2887,"NULL","NULL",3.2,12,1,4
+30007,NA,"Broadwater","Montana",30,7,"NULL","NULL",2893,"NULL","NULL",4,3,1,NA
+30009,191680.85106383,"Carbon","Montana",30,9,"Billings, MT","Billings, MT",914,"394386","13740",3.6,19,1,NA
+30015,191809.574468085,"Chouteau","Montana",30,15,"NULL","NULL",2202,"NULL","NULL",3.1,15,2,NA
+30017,149018.085106383,"Custer","Montana",30,17,"NULL","NULL",967,"NULL","NULL",3.2,16,1,3
+30021,149850,"Dawson","Montana",30,21,"NULL","NULL",980,"NULL","NULL",2.8,10,1,NA
+30023,NA,"Deer Lodge","Montana",30,23,"NULL","NULL",2919,"NULL","NULL",3.6,4,2,3
+30027,164838.29787234,"Fergus","Montana",30,27,"NULL","NULL",1012,"NULL","NULL",3.9,24,1,4
+30029,NA,"Flathead","Montana",30,29,"Kalispell, MT","Kalispell, MT",2265,"394733","28060",4.9,46,3,3.33333333333333
+30035,173045.744680851,"Glacier","Montana",30,35,"NULL","NULL",1724,"NULL","NULL",7.9,19,2,NA
+30039,NA,"Granite","Montana",30,39,"NULL","NULL",1730,"NULL","NULL",5.6,7,1,NA
+30041,162570.212765957,"Hill","Montana",30,41,"NULL","NULL",179,"NULL","NULL",3.5,19,1,2
+30047,NA,"Lake","Montana",30,47,"NULL","NULL",224,"NULL","NULL",4.2,22,2,3
+30053,120832.978723404,"Lincoln","Montana",30,53,"NULL","NULL",1874,"NULL","NULL",7.7,14,1,3
+30057,215070.37037037,"Madison","Montana",30,57,"NULL","NULL",1906,"NULL","NULL",3.7,13,2,NA
+30061,NA,"Mineral","Montana",30,61,"NULL","NULL",1934,"NULL","NULL",7.6,9,1,NA
+30063,194167.5,"Missoula","Montana",30,63,"Missoula, MT","Missoula, MT",2434,"394867","33540",3.4,41,2,4
+30065,NA,"Musselshell","Montana",30,65,"NULL","NULL",3107,"NULL","NULL",4.3,6,1,NA
+30067,182944.061302682,"Park","Montana",30,67,"NULL","NULL",269,"NULL","NULL",3.9,16,2,3
+30073,186808.510638298,"Pondera","Montana",30,73,"NULL","NULL",1974,"NULL","NULL",4.1,17,1,NA
+30077,178460.536398467,"Powell","Montana",30,77,"NULL","NULL",1335,"NULL","NULL",4.3,9,1,NA
+30085,NA,"Roosevelt","Montana",30,85,"NULL","NULL",2836,"NULL","NULL",4.5,22,3,NA
+30089,102067.605633803,"Sanders","Montana",30,89,"NULL","NULL",2014,"NULL","NULL",6.3,17,1,NA
+30093,108601.063829787,"Silver Bow","Montana",30,93,"Butte, MT","Butte-Silver Bow, MT",3032,"394430","15580",4.1,12,2,3
+30099,NA,"Teton","Montana",30,99,"NULL","NULL",744,"NULL","NULL",3.4,16,1,NA
+30101,NA,"Toole","Montana",30,101,"NULL","NULL",751,"NULL","NULL",2.9,11,1,NA
+30105,163322.340425532,"Valley","Montana",30,105,"NULL","NULL",1455,"NULL","NULL",3.2,17,1,3
+31011,93678.3216783217,"Boone","Nebraska",31,11,"NULL","NULL",396,"NULL","NULL",2.3,10,1,4
+31019,NA,"Buffalo","Nebraska",31,19,"Kearney, NE","Kearney, NE",1562,"394737","28260",2.4,27,3,3
+31021,NA,"Burt","Nebraska",31,21,"NULL","NULL",105,"NULL","NULL",3.4,7,1,NA
+31031,NA,"Cherry","Nebraska",31,31,"NULL","NULL",933,"NULL","NULL",2.2,13,1,3
+31033,NA,"Cheyenne","Nebraska",31,33,"NULL","NULL",2198,"NULL","NULL",2.8,12,2,3
+31047,NA,"Dawson","Nebraska",31,47,"Lexington, NE","Lexington, NE",981,"394791","30420",2.8,19,3,3
+31055,123922.222222222,"Douglas","Nebraska",31,55,"Omaha, NE","Omaha-Council Bluffs, NE-IA",1676,"394938","36540",3.1,194,18,3.66666666666667
+31067,83876.245210728,"Gage","Nebraska",31,67,"Beatrice, NE","Beatrice, NE",163,"394371","13100",3.2,13,2,4
+31081,NA,"Hamilton","Nebraska",31,81,"Grand Island, NE","Grand Island, NE",2320,"394638","24260",2.5,9,1,3.25
+31089,NA,"Holt","Nebraska",31,89,"NULL","NULL",183,"NULL","NULL",2.6,14,2,3
+31097,72828.3524904215,"Johnson","Nebraska",31,97,"NULL","NULL",1825,"NULL","NULL",3.6,7,1,NA
+31101,NA,"Keith","Nebraska",31,101,"NULL","NULL",579,"NULL","NULL",3,8,1,3
+31105,57444.8275862069,"Kimball","Nebraska",31,105,"NULL","NULL",1839,"NULL","NULL",2.7,2,1,NA
+31107,63952.808988764,"Knox","Nebraska",31,107,"NULL","NULL",213,"NULL","NULL",3.1,15,1,NA
+31109,124354.022988506,"Lancaster","Nebraska",31,109,"Lincoln, NE","Lincoln, NE",2775,"394796","30700",2.6,87,8,4.33333333333333
+31111,103822.988505747,"Lincoln","Nebraska",31,111,"North Platte, NE","North Platte, NE",1876,"394920","35820",3,23,1,3
+31119,105253.639846743,"Madison","Nebraska",31,119,"Norfolk, NE","Norfolk, NE",1908,"394919","35740",2.5,23,3,4
+31125,NA,"Nance","Nebraska",31,125,"NULL","NULL",653,"NULL","NULL",2.5,4,1,NA
+31127,NA,"Nemaha","Nebraska",31,127,"NULL","NULL",1258,"NULL","NULL",3.5,8,1,NA
+31131,119513.483146067,"Otoe","Nebraska",31,131,"NULL","NULL",263,"NULL","NULL",2.9,9,3,3.5
+31141,NA,"Platte","Nebraska",31,141,"Columbus, NE","Columbus, NE",1327,"394491","18100",2.7,15,1,3.66666666666667
+31145,NA,"Red Willow","Nebraska",31,145,"NULL","NULL",3003,"NULL","NULL",2.3,8,1,3.5
+31151,NA,"Saline","Nebraska",31,151,"NULL","NULL",1366,"NULL","NULL",3,9,2,3
+31153,140885.823754789,"Sarpy","Nebraska",31,153,"Omaha, NE","Omaha-Council Bluffs, NE-IA",704,"394938","36540",2.6,64,3,3
+31155,NA,"Saunders","Nebraska",31,155,"Omaha, NE","Omaha-Council Bluffs, NE-IA",2530,"394938","36540",2.7,19,1,NA
+31157,112500,"Scotts Bluff","Nebraska",31,157,"Scottsbluff, NE","Scottsbluff, NE",3192,"395072","42420",3.2,27,1,3
+31159,117319.157088123,"Seward","Nebraska",31,159,"Lincoln, NE","Lincoln, NE",1379,"394796","30700",2.6,7,1,3.25
+32001,NA,"Churchill","Nevada",32,1,"Fallon, NV","Fallon, NV",2660,"394584","21980",4,8,1,NA
+32003,180542.528735632,"Clark","Nevada",32,3,"Las Vegas, NV","Las Vegas-Henderson-Paradise, NV",445,"394775","29820",4.8,396,43,2.2
+32005,277684.674329502,"Douglas","Nevada",32,5,"Gardnerville Ranchos, NV","Gardnerville Ranchos, NV",1677,"394628","23820",4.3,14,2,3
+32007,181273.946360153,"Elko","Nevada",32,7,"Elko, NV","Elko, NV",156,"394566","21220",3.3,37,2,3
+32013,169270.114942529,"Humboldt","Nevada",32,13,"Winnemucca, NV","Winnemucca, NV",2353,"753927","49080",3.5,15,1,3
+32015,NA,"Lander","Nevada",32,15,"NULL","NULL",1140,"NULL","NULL",3.7,6,1,NA
+32017,NA,"Lincoln","Nevada",32,17,"NULL","NULL",1878,"NULL","NULL",4.5,11,1,NA
+32019,154755.555555556,"Lyon","Nevada",32,19,"Fernley, NV","Fernley, NV",249,"394592","22280",5.5,20,3,NA
+32023,NA,"Nye","Nevada",32,23,"Pahrump, NV","Pahrump, NV",90,"394954","37220",5.8,29,2,4
+32027,NA,"Pershing","Nevada",32,27,"NULL","NULL",2474,"NULL","NULL",4.2,5,1,NA
+32031,221953.256704981,"Washoe","Nevada",32,31,"Reno, NV","Reno, NV",1485,"395019","39900",3.7,120,14,2.75
+32033,NA,"White Pine","Nevada",32,33,"NULL","NULL",3078,"NULL","NULL",3.7,12,1,NA
+32510,238548.387096774,"Carson City","Nevada",32,510,"Carson City, NV","Carson City, NV",3087,"394444","16180",4.7,16,3,3
+33001,171377.011494253,"Belknap","New Hampshire",33,1,"Laconia, NH","Laconia, NH",1539,"394759","29060",2.6,22,1,3
+33003,210645.933014354,"Carroll","New Hampshire",33,3,"NULL","NULL",1598,"NULL","NULL",2.6,22,2,3.30769230769231
+33005,152462.45210728,"Cheshire","New Hampshire",33,5,"Keene, NH","Keene, NH",2195,"394738","28300",2.6,36,1,4
+33007,105392.95154185,"Coos","New Hampshire",33,7,"Berlin, NH","Berlin, NH-VT",141,"394383","13620",3.3,23,3,3
+33009,151873.180076628,"Grafton","New Hampshire",33,9,"Claremont, NH","Claremont-Lebanon, NH-VT",1729,"394468","17200",2.1,51,5,3.25
+33011,201978.544061303,"Hillsborough","New Hampshire",33,11,"Manchester, NH","Manchester-Nashua, NH",3166,"394820","31700",2.7,115,11,3.11111111111111
+33013,181951.724137931,"Merrimack","New Hampshire",33,13,"Concord, NH","Concord, NH",2799,"394493","18180",2.3,62,4,3.33333333333333
+33015,234257.471264368,"Rockingham","New Hampshire",33,15,"Boston, MA","Boston-Cambridge-Newton, MA-NH",3013,"394404","14460",2.8,94,6,3
+33017,178459.38697318,"Strafford","New Hampshire",33,17,"Boston, MA","Boston-Cambridge-Newton, MA-NH",2851,"394404","14460",2.3,37,2,4
+33019,152971.836734694,"Sullivan","New Hampshire",33,19,"Claremont, NH","Claremont-Lebanon, NH-VT",2566,"394468","17200",2.2,26,1,4
+34001,181467.432950192,"Atlantic","New Jersey",34,1,"Atlantic City, NJ","Atlantic City-Hammonton, NJ",2133,"394348","12100",5.9,83,9,4
+34003,373132.183908046,"Bergen","New Jersey",34,3,"New York, NY","New York-Newark-Jersey City, NY-NJ-PA",874,"394913","35620",3.5,283,10,2.83333333333333
+34005,195624.137931034,"Burlington","New Jersey",34,5,"Philadelphia, PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2896,"394974","37980",3.8,145,9,3
+34007,148403.0651341,"Camden","New Jersey",34,7,"Philadelphia, PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",911,"394974","37980",4.6,172,11,4
+34011,121950.191570881,"Cumberland","New Jersey",34,11,"Vineland, NJ","Vineland-Bridgeton, NJ",2913,"395193","47220",6.5,57,4,2
+34013,286636.781609195,"Essex","New Jersey",34,13,"New York, NY","New York-Newark-Jersey City, NY-NJ-PA",504,"394913","35620",5.2,257,14,2
+34015,174114.176245211,"Gloucester","New Jersey",34,15,"Philadelphia, PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2929,"394974","37980",4.2,86,3,3
+34017,274449.425287356,"Hudson","New Jersey",34,17,"New York, NY","New York-Newark-Jersey City, NY-NJ-PA",1106,"394913","35620",3.9,128,8,1.8
+34019,335381.992337165,"Hunterdon","New Jersey",34,19,"New York, NY","New York-Newark-Jersey City, NY-NJ-PA",2729,"394913","35620",3.3,56,1,3
+34021,204894.252873563,"Mercer","New Jersey",34,21,"Trenton, NJ","Trenton, NJ",1201,"395164","45940",3.7,104,12,2.75
+34023,256868.582375479,"Middlesex","New Jersey",34,23,"New York, NY","New York-Newark-Jersey City, NY-NJ-PA",2802,"394913","35620",3.7,203,13,2.5
+34025,321504.597701149,"Monmouth","New Jersey",34,25,"New York, NY","New York-Newark-Jersey City, NY-NJ-PA",2441,"394913","35620",3.7,190,8,3.25
+34029,232932.183908046,"Ocean","New Jersey",34,29,"New York, NY","New York-Newark-Jersey City, NY-NJ-PA",659,"394913","35620",4.4,117,9,3
+34033,136048.659003831,"Salem","New Jersey",34,33,"Philadelphia, PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",702,"394974","37980",5.4,33,2,3
+34035,330569.348659004,"Somerset","New Jersey",34,35,"New York, NY","New York-Newark-Jersey City, NY-NJ-PA",2552,"394913","35620",3.5,76,5,2
+34039,277143.67816092,"Union","New Jersey",34,39,"New York, NY","New York-Newark-Jersey City, NY-NJ-PA",771,"394913","35620",4.4,173,10,2.33333333333333
+35001,156812.260536398,"Bernalillo","New Mexico",35,1,"Albuquerque, NM","Albuquerque, NM",2889,"394312","10740",4.4,202,17,3.33333333333333
+35005,NA,"Chaves","New Mexico",35,5,"Roswell, NM","Roswell, NM",931,"395040","40740",4.8,33,3,2.5
+35006,131728.735632184,"Cibola","New Mexico",35,6,"Grants, NM","Grants, NM",937,"394642","24380",6.3,18,2,3
+35013,127921.83908046,"Dona Ana","New Mexico",35,13,"Las Cruces, NM","Las Cruces, NM",2252,"394773","29740",5.7,76,6,2.71428571428571
+35015,137978.927203065,"Eddy","New Mexico",35,15,"Carlsbad, NM","Carlsbad-Artesia, NM",155,"394443","16100",3.4,27,2,3
+35017,130716.058394161,"Grant","New Mexico",35,17,"Silver City, NM","Silver City, NM",538,"395100","43500",4.9,16,1,4
+35019,127382.978723404,"Guadalupe","New Mexico",35,19,"NULL","NULL",2711,"NULL","NULL",5.3,8,1,NA
+35025,NA,"Lea","New Mexico",35,25,"Hobbs, NM","Hobbs, NM",77,"394683","26020",4.2,38,2,2
+35027,219781.609195402,"Lincoln","New Mexico",35,27,"NULL","NULL",1877,"NULL","NULL",4.5,15,1,3
+35028,244965.957446809,"Los Alamos","New Mexico",35,28,"Los Alamos, NM","Los Alamos, NM",2962,"394805","31060",3.2,7,1,3
+35029,NA,"Luna","New Mexico",35,29,"Deming, NM","Deming, NM",243,"394529","19700",11.9,11,1,2
+35031,153562.835249042,"McKinley","New Mexico",35,31,"Gallup, NM","Gallup, NM",2428,"394626","23700",7,54,4,2
+35035,NA,"Otero","New Mexico",35,35,"Alamogordo, NM","Alamogordo, NM",664,"394305","10460",4.8,24,2,2
+35039,158378.723404255,"Rio Arriba","New Mexico",35,39,"Espanola, NM","Espa±ola, NM",3006,"394574","21580",5.1,31,1,4
+35041,NA,"Roosevelt","New Mexico",35,41,"Portales, NM","Portales, NM",2837,"394996","38780",4.3,13,1,3
+35043,188021.83908046,"Sandoval","New Mexico",35,43,"Albuquerque, NM","Albuquerque, NM",2524,"394312","10740",4.9,47,2,3
+35045,184402.298850575,"San Juan","New Mexico",35,45,"Farmington, NM","Farmington, NM",2519,"394588","22140",5.3,62,3,2
+35049,250131.417624521,"Santa Fe","New Mexico",35,49,"Santa Fe, NM","Santa Fe, NM",2527,"395066","42140",4.1,54,3,2
+35051,88397.8723404255,"Sierra","New Mexico",35,51,"NULL","NULL",1392,"NULL","NULL",7,5,1,NA
+35053,155361.70212766,"Socorro","New Mexico",35,53,"NULL","NULL",2030,"NULL","NULL",5.2,11,1,NA
+35055,NA,"Taos","New Mexico",35,55,"Taos, NM","Taos, NM",316,"395149","45340",6.4,25,1,1.5
+36001,165450.191570881,"Albany","New York",36,1,"Albany, NY","Albany-Schenectady-Troy, NY",823,"394308","10580",3.8,74,7,2
+36003,52817.2413793103,"Allegany","New York",36,3,"NULL","NULL",2119,"NULL","NULL",5.9,19,2,2
+36005,NA,"Bronx","New York",36,5,"New York, NY","New York-Newark-Jersey City, NY-NJ-PA",401,"394913","35620",5.6,443,15,2.33333333333333
+36009,64808.4291187739,"Cattaraugus","New York",36,9,"Olean, NY","Olean, NY",3088,"394936","36460",5.6,30,2,3
+36013,NA,"Chautauqua","New York",36,13,"Jamestown, NY","Jamestown-Dunkirk-Fredonia, NY",2900,"394719","27460",5.3,51,5,2
+36015,73655.5555555556,"Chemung","New York",36,15,"Elmira, NY","Elmira, NY",1610,"394568","21300",4.9,26,3,3.25
+36021,168512.260536398,"Columbia","New York",36,21,"Hudson, NY","Hudson, NY",2214,"394693","26460",3.5,19,1,2
+36025,94400.3831417624,"Delaware","New York",36,25,"NULL","NULL",2248,"NULL","NULL",5.1,23,4,2
+36027,231071.647509579,"Dutchess","New York",36,27,"New York, NY","New York-Newark-Jersey City, NY-NJ-PA",2255,"394913","35620",3.8,77,4,2.5
+36029,109717.24137931,"Erie","New York",36,29,"Buffalo, NY","Buffalo-Cheektowaga-Niagara Falls, NY",157,"394425","15380",4.5,218,16,3.125
+36031,151976.404494382,"Essex","New York",36,31,"NULL","NULL",505,"NULL","NULL",5.1,16,3,3
+36033,70126.6932270916,"Franklin","New York",36,33,"Malone, NY","Malone, NY",2287,"394819","31660",5.3,22,2,3.5
+36035,88570.4980842912,"Fulton","New York",36,35,"Gloversville, NY","Gloversville, NY",1024,"394634","24100",5.3,21,1,3
+36043,74503.0651340996,"Herkimer","New York",36,43,"Utica, NY","Utica-Rome, NY",2340,"395179","46540",5.1,25,1,4
+36045,97902.6819923372,"Jefferson","New York",36,45,"Watertown, NY","Watertown-Fort Drum, NY",2748,"395213","48060",5.8,39,3,2
+36047,404818.390804598,"Kings","New York",36,47,"New York, NY","New York-Newark-Jersey City, NY-NJ-PA",581,"394913","35620",4.2,589,18,1.375
+36049,NA,"Lewis","New York",36,49,"NULL","NULL",599,"NULL","NULL",5.8,14,1,3
+36051,102561.685823755,"Livingston","New York",36,51,"Rochester, NY","Rochester, NY",2961,"395031","40380",4.5,22,1,3
+36053,97522.6053639847,"Madison","New York",36,53,"Syracuse, NY","Syracuse, NY",1909,"395143","45060",5,26,2,3.5
+36055,114760.536398467,"Monroe","New York",36,55,"Rochester, NY","Rochester, NY",1223,"395031","40380",4.4,184,8,2.75
+36059,380867.816091954,"Nassau","New York",36,59,"New York, NY","New York-Newark-Jersey City, NY-NJ-PA",1252,"394913","35620",3.7,315,13,2
+36061,833242.857142857,"New York","New York",36,61,"New York, NY","New York-Newark-Jersey City, NY-NJ-PA",2452,"394913","35620",3.6,377,29,2.625
+36063,93033.3333333333,"Niagara","New York",36,63,"Buffalo, NY","Buffalo-Cheektowaga-Niagara Falls, NY",1946,"394425","15380",5.4,52,5,2
+36067,105786.206896552,"Onondaga","New York",36,67,"Syracuse, NY","Syracuse, NY",2465,"395143","45060",4.2,124,7,2.5
+36069,119145.210727969,"Ontario","New York",36,69,"Rochester, NY","Rochester, NY",1952,"395031","40380",4.1,30,4,3
+36071,208713.793103448,"Orange","New York",36,71,"New York, NY","New York-Newark-Jersey City, NY-NJ-PA",1290,"394913","35620",4.1,85,7,3
+36073,76257.4712643678,"Orleans","New York",36,73,"Rochester, NY","Rochester, NY",1954,"395031","40380",5.1,13,1,2
+36075,77631.8007662835,"Oswego","New York",36,75,"Syracuse, NY","Syracuse, NY",1296,"395143","45060",5.7,41,2,3
+36077,96133.3333333333,"Otsego","New York",36,77,"Oneonta, NY","Oneonta, NY",1298,"394939","36580",4.6,21,2,2
+36079,293376.245210728,"Putnam","New York",36,79,"New York, NY","New York-Newark-Jersey City, NY-NJ-PA",1343,"394913","35620",3.8,21,1,3
+36081,354133.716475096,"Queens","New York",36,81,"New York, NY","New York-Newark-Jersey City, NY-NJ-PA",1347,"394913","35620",3.5,368,12,1.2
+36083,138966.666666667,"Rensselaer","New York",36,83,"Albany, NY","Albany-Schenectady-Troy, NY",3004,"394308","10580",4,45,3,3.25
+36087,348971.647509579,"Rockland","New York",36,87,"New York, NY","New York-Newark-Jersey City, NY-NJ-PA",2515,"394913","35620",3.9,67,4,2
+36089,62067.4329501916,"Saint Lawrence","New York",36,89,"Ogdensburg, NY","Ogdensburg-Massena, NY",3249,"394932","36300",5.9,41,5,2.66666666666667
+36091,191499.616858238,"Saratoga","New York",36,91,"Albany, NY","Albany-Schenectady-Troy, NY",2529,"394308","10580",3.6,51,3,3
+36093,130215.325670498,"Schenectady","New York",36,93,"Albany, NY","Albany-Schenectady-Troy, NY",3137,"394308","10580",4.2,42,4,2
+36095,95064.7509578544,"Schoharie","New York",36,95,"Albany, NY","Albany-Schenectady-Troy, NY",2843,"394308","10580",5,12,1,4
+36101,71883.1417624521,"Steuben","New York",36,101,"Corning, NY","Corning, NY",2039,"394501","18500",5.1,38,6,4
+36103,332647.881355932,"Suffolk","New York",36,103,"New York, NY","New York-Newark-Jersey City, NY-NJ-PA",2046,"394913","35620",4,350,14,2
+36105,121092.720306513,"Sullivan","New York",36,105,"NULL","NULL",2567,"NULL","NULL",4.2,19,2,2
+36111,173655.938697318,"Ulster","New York",36,111,"Kingston, NY","Kingston, NY",1448,"394748","28740",4.1,46,3,3
+36113,158114.942528736,"Warren","New York",36,113,"Glens Falls, NY","Glens Falls, NY",1479,"394633","24020",4.8,20,1,4
+36117,95286.9731800766,"Wayne","New York",36,117,"Rochester, NY","Rochester, NY",796,"395031","40380",4.3,38,1,2
+36119,470585.440613027,"Westchester","New York",36,119,"New York, NY","New York-Newark-Jersey City, NY-NJ-PA",3148,"394913","35620",4.1,254,18,2.16666666666667
+36121,79212.6436781609,"Wyoming","New York",36,121,"NULL","NULL",2105,"NULL","NULL",4.9,15,1,3
+36123,97516.091954023,"Yates","New York",36,123,"Rochester, NY","Rochester, NY",816,"395031","40380",4,6,1,NA
+37001,118867.049808429,"Alamance","North Carolina",37,1,"Burlington, NC","Burlington, NC",2117,"394428","15500",3.7,39,1,3
+37013,NA,"Beaufort","North Carolina",37,13,"Washington, NC","Washington, NC",2137,"395208","47820",4.6,15,3,3
+37019,187747.892720307,"Brunswick","North Carolina",37,19,"Myrtle Beach, SC","Myrtle Beach-Conway-North Myrtle Beach, SC-NC",2640,"394898","34820",5.2,21,3,3
+37025,134581.992337165,"Cabarrus","North Carolina",37,25,"Charlotte, NC","Charlotte-Concord-Gastonia, NC-SC",2159,"394458","16740",3.5,48,2,3
+37027,71737.9310344828,"Caldwell","North Carolina",37,27,"Hickory, NC","Hickory-Lenoir-Morganton, NC",2163,"394679","25860",3.8,26,1,2
+37031,NA,"Carteret","North Carolina",37,31,"Morehead City, NC","Morehead City, NC",2179,"394877","33980",4.3,19,1,3
+37035,94335.2490421456,"Catawba","North Carolina",37,35,"Hickory, NC","Hickory-Lenoir-Morganton, NC",1604,"394679","25860",3.5,44,2,3
+37041,NA,"Chowan","North Carolina",37,41,"NULL","NULL",935,"NULL","NULL",4.5,4,1,4
+37045,88184.4621513944,"Cleveland","North Carolina",37,45,"Shelby, NC","Shelby, NC",2667,"395090","43140",4,30,4,4
+37047,NA,"Columbus","North Carolina",37,47,"NULL","NULL",2219,"NULL","NULL",5.1,26,1,2
+37051,103108.812260536,"Cumberland","North Carolina",37,51,"Fayetteville, NC","Fayetteville, NC",2912,"394589","22180",5.1,97,4,3
+37057,106871.91011236,"Davidson","North Carolina",37,57,"Winston-Salem, NC","Winston-Salem, NC",2242,"395235","49180",3.7,46,2,2
+37059,137617.24137931,"Davie","North Carolina",37,59,"Winston-Salem, NC","Winston-Salem, NC",468,"395235","49180",3.4,12,2,NA
+37063,149488.122605364,"Durham","North Carolina",37,63,"Durham, NC","Durham-Chapel Hill, NC",999,"394549","20500",3.5,67,6,3.5
+37067,121777.394636015,"Forsyth","North Carolina",37,67,"Winston-Salem, NC","Winston-Salem, NC",1712,"395235","49180",3.8,86,6,3
+37071,99761.6858237548,"Gaston","North Carolina",37,71,"Charlotte, NC","Charlotte-Concord-Gastonia, NC-SC",1032,"394458","16740",3.8,58,2,4
+37083,72632.2448979592,"Halifax","North Carolina",37,83,"Roanoke Rapids, NC","Roanoke Rapids, NC",1743,"395027","40260",6.1,20,2,NA
+37087,102185.440613027,"Haywood","North Carolina",37,87,"Asheville, NC","Asheville, NC",1769,"394338","11700",3.4,16,1,3
+37093,128805.857740586,"Hoke","North Carolina",37,93,"Fayetteville, NC","Fayetteville, NC",181,"394589","22180",5,14,2,NA
+37097,123310.756972112,"Iredell","North Carolina",37,97,"Charlotte, NC","Charlotte-Concord-Gastonia, NC-SC",1789,"394458","16740",3.5,48,3,2.5
+37099,183391.570881226,"Jackson","North Carolina",37,99,"Cullowhee, NC","Cullowhee, NC",1806,"753877","19000",4.2,10,1,2
+37105,105507.279693487,"Lee","North Carolina",37,105,"Sanford, NC","Sanford, NC",86,"395063","41820",4.3,16,1,2
+37113,115331.979695431,"Macon","North Carolina",37,113,"NULL","NULL",622,"NULL","NULL",4,11,2,3
+37117,NA,"Martin","North Carolina",37,117,"NULL","NULL",1180,"NULL","NULL",5,12,1,2
+37119,152306.896551724,"Mecklenburg","North Carolina",37,119,"Charlotte, NC","Charlotte-Concord-Gastonia, NC-SC",3102,"394458","16740",3.7,192,13,3.5
+37121,NA,"Mitchell","North Carolina",37,121,"NULL","NULL",2438,"NULL","NULL",4.6,6,1,4
+37127,115583.908045977,"Nash","North Carolina",37,127,"Rocky Mount, NC","Rocky Mount, NC",256,"395036","40580",5.2,26,2,2
+37129,167503.448275862,"New Hanover","North Carolina",37,129,"Wilmington, NC","Wilmington, NC",3109,"395229","48900",3.8,46,2,3
+37133,118694.636015326,"Onslow","North Carolina",37,133,"Jacksonville, NC","Jacksonville, NC",1285,"394716","27340",4.5,36,3,3
+37139,NA,"Pasquotank","North Carolina",37,139,"Elizabeth City, NC","Elizabeth City, NC",2995,"394562","21020",4.7,12,1,3
+37145,118443.67816092,"Person","North Carolina",37,145,"Durham, NC","Durham-Chapel Hill, NC",1315,"394549","20500",4.1,12,1,3
+37147,112996.629213483,"Pitt","North Carolina",37,147,"Greenville, NC","Greenville, NC",283,"394651","24780",4.3,36,1,2
+37151,110469.662921348,"Randolph","North Carolina",37,151,"Greensboro, NC","Greensboro-High Point, NC",2495,"394648","24660",3.7,39,1,4
+37155,63525.2873563218,"Robeson","North Carolina",37,155,"Lumberton, NC","Lumberton, NC",2001,"394810","31300",5.9,44,1,3
+37157,81421.4559386973,"Rockingham","North Carolina",37,157,"Greensboro, NC","Greensboro-High Point, NC",3012,"394648","24660",4.5,26,2,3
+37159,118578.544061303,"Rowan","North Carolina",37,159,"Charlotte, NC","Charlotte-Concord-Gastonia, NC-SC",701,"394458","16740",3.9,36,2,3
+37163,NA,"Sampson","North Carolina",37,163,"NULL","NULL",2012,"NULL","NULL",4,23,1,3
+37167,109835.249042146,"Stanly","North Carolina",37,167,"Albemarle, NC","Albemarle, NC",1397,"394309","10620",3.6,22,1,3
+37169,111648.275862069,"Stokes","North Carolina",37,169,"Winston-Salem, NC","Winston-Salem, NC",1401,"395235","49180",3.6,20,1,NA
+37171,117460.153256705,"Surry","North Carolina",37,171,"Mount Airy, NC","Mount Airy, NC",737,"394884","34340",3.6,27,2,3
+37173,NA,"Swain","North Carolina",37,173,"NULL","NULL",739,"NULL","NULL",4.4,8,2,NA
+37179,164442.528735632,"Union","North Carolina",37,179,"Charlotte, NC","Charlotte-Concord-Gastonia, NC-SC",770,"394458","16740",3.4,53,1,2
+37181,85705.7471264368,"Vance","North Carolina",37,181,"Henderson, NC","Henderson, NC",781,"394677","25780",5.7,19,1,2
+37183,189145.210727969,"Wake","North Carolina",37,183,"Raleigh, NC","Raleigh, NC",324,"395012","39580",3.3,197,8,3.5
+37187,NA,"Washington","North Carolina",37,187,"NULL","NULL",3064,"NULL","NULL",6,6,1,NA
+37191,77558.6206896552,"Wayne","North Carolina",37,191,"Goldsboro, NC","Goldsboro, NC",794,"394635","24140",4.4,33,1,2.66666666666667
+37193,NA,"Wilkes","North Carolina",37,193,"North Wilkesboro, NC","North Wilkesboro, NC",1492,"394922","35900",3.7,23,1,2
+37195,114075.862068966,"Wilson","North Carolina",37,195,"Wilson, NC","Wilson, NC",1495,"395231","48980",6.2,28,1,4
+38001,83419.1489361702,"Adams","North Dakota",38,1,"NULL","NULL",359,"NULL","NULL",2,2,1,4
+38003,NA,"Barnes","North Dakota",38,3,"NULL","NULL",849,"NULL","NULL",2.8,10,1,NA
+38015,197252.53164557,"Burleigh","North Dakota",38,15,"Bismarck, ND","Bismarck, ND",2157,"394390","13900",2.6,37,2,4
+38017,184786.516853933,"Cass","North Dakota",38,17,"Fargo, ND","Fargo, ND-MN",113,"394585","22020",2.3,53,8,3.25
+38021,77152.1276595745,"Dickey","North Dakota",38,21,"NULL","NULL",991,"NULL","NULL",1.9,5,1,3
+38029,133450.574712644,"Emmons","North Dakota",38,29,"NULL","NULL",1005,"NULL","NULL",4.7,8,1,NA
+38035,NA,"Grand Forks","North Dakota",38,35,"Grand Forks, MN","Grand Forks, ND-MN",3093,"394637","24220",2.3,32,5,3
+38053,NA,"McKenzie","North Dakota",38,53,"NULL","NULL",2427,"NULL","NULL",1.8,9,1,NA
+38055,116193.486590038,"McLean","North Dakota",38,55,"NULL","NULL",1188,"NULL","NULL",3.3,15,2,NA
+38057,NA,"Mercer","North Dakota",38,57,"NULL","NULL",1200,"NULL","NULL",4,7,1,NA
+38061,NA,"Mountrail","North Dakota",38,61,"NULL","NULL",2809,"NULL","NULL",1.7,8,1,NA
+38069,131075.531914894,"Pierce","North Dakota",38,69,"NULL","NULL",1320,"NULL","NULL",3.2,5,1,3
+38093,161729.203539823,"Stutsman","North Dakota",38,93,"Jamestown, ND","Jamestown, ND",2562,"394718","27420",2.5,18,2,3
+38097,NA,"Traill","North Dakota",38,97,"NULL","NULL",1439,"NULL","NULL",2.6,11,2,NA
+38101,192455.752212389,"Ward","North Dakota",38,101,"Minot, ND","Minot, ND",325,"394866","33500",3,32,3,1
+38105,NA,"Williams","North Dakota",38,105,"Williston, ND","Williston, ND",2599,"395227","48780",2.1,21,2,3
+39001,66800,"Adams","Ohio",39,1,"NULL","NULL",361,"NULL","NULL",7,9,1,3
+39003,81815.3256704981,"Allen","Ohio",39,3,"Lima, OH","Lima, OH",371,"394794","30620",4.4,35,5,3.5
+39007,80785.4406130268,"Ashtabula","Ohio",39,7,"Ashtabula, OH","Ashtabula, OH",2624,"394340","11780",5.3,32,5,4
+39013,68649.4252873563,"Belmont","Ohio",39,13,"Wheeling, OH","Wheeling, WV-OH",1540,"395221","48540",5.5,23,4,3.5
+39017,135281.609195402,"Butler","Ohio",39,17,"Cincinnati, OH","Cincinnati, OH-KY-IN",904,"394466","17140",4.1,84,8,3.66666666666667
+39021,101206.513409962,"Champaign","Ohio",39,21,"Urbana, OH","Urbana, OH",2649,"395178","46500",3.8,18,1,3
+39023,90643.6781609195,"Clark","Ohio",39,23,"Springfield, OH","Springfield, OH",446,"395117","44220",4.5,51,5,2.77777777777778
+39025,138992.337164751,"Clermont","Ohio",39,25,"Cincinnati, OH","Cincinnati, OH-KY-IN",2206,"394466","17140",4,49,1,4
+39027,NA,"Clinton","Ohio",39,27,"Wilmington, OH","Wilmington, OH",1631,"395230","48940",5.2,17,1,3
+39029,75465.5172413793,"Columbiana","Ohio",39,29,"Salem, OH","Salem, OH",2905,"753915","41400",5.2,40,2,3
+39033,71395.4022988506,"Crawford","Ohio",39,33,"Bucyrus, OH","Bucyrus, OH",2234,"394424","15340",5.2,18,2,3
+39035,112496.9348659,"Cuyahoga","Ohio",39,35,"Cleveland, OH","Cleveland-Elyria, OH",2241,"394475","17460",5.2,381,29,3.85714285714286
+39037,107095.402298851,"Darke","Ohio",39,37,"Greenville, OH","Greenville, OH",467,"394652","24820",3.9,20,1,3
+39039,89161.6858237548,"Defiance","Ohio",39,39,"Defiance, OH","Defiance, OH",2245,"394526","19580",4.4,14,3,3.8
+39041,224737.54789272,"Delaware","Ohio",39,41,"Columbus, OH","Columbus, OH",2249,"394492","18140",3.3,55,3,2.66666666666667
+39043,114434.099616858,"Erie","Ohio",39,43,"Sandusky, OH","Sandusky, OH",158,"395062","41780",5.6,26,2,4
+39045,143122.988505747,"Fairfield","Ohio",39,45,"Columbus, OH","Columbus, OH",2695,"394492","18140",4,47,2,2
+39047,90083.908045977,"Fayette","Ohio",39,47,"Washington Court House, OH","Washington Court House, OH",1702,"395206","47920",4.1,7,1,3
+39049,124913.793103448,"Franklin","Ohio",39,49,"Columbus, OH","Columbus, OH",2288,"394492","18140",3.7,381,24,2.625
+39051,112266.666666667,"Fulton","Ohio",39,51,"Toledo, OH","Toledo, OH",1025,"395160","45780",4.4,21,1,3
+39053,NA,"Gallia","Ohio",39,53,"Point Pleasant, WV","Point Pleasant, WV-OH",1029,"394989","38580",6.1,14,1,2
+39055,198925.670498084,"Geauga","Ohio",39,55,"Cleveland, OH","Cleveland-Elyria, OH",1033,"394475","17460",4.3,25,2,4
+39057,142946.107784431,"Greene","Ohio",39,57,"Dayton, OH","Dayton, OH",1061,"394521","19380",4,37,3,3
+39059,77336.0153256705,"Guernsey","Ohio",39,59,"Cambridge, OH","Cambridge, OH",2311,"394434","15740",5.5,15,2,3
+39061,118553.639846743,"Hamilton","Ohio",39,61,"Cincinnati, OH","Cincinnati, OH-KY-IN",2322,"394466","17140",4.1,209,24,3.07692307692308
+39063,112087.356321839,"Hancock","Ohio",39,63,"Findlay, OH","Findlay, OH",1755,"394593","22300",3.4,35,1,4
+39065,87647.8927203065,"Hardin","Ohio",39,65,"NULL","NULL",1080,"NULL","NULL",4.3,16,1,4
+39067,NA,"Harrison","Ohio",39,67,"NULL","NULL",2334,"NULL","NULL",5.1,5,1,NA
+39069,97681.2260536399,"Henry","Ohio",39,69,"NULL","NULL",559,"NULL","NULL",4.9,14,1,4
+39071,82214.9425287356,"Highland","Ohio",39,71,"NULL","NULL",2343,"NULL","NULL",5.5,18,2,2
+39073,101357.959183673,"Hocking","Ohio",39,73,"Columbus, OH","Columbus, OH",1777,"394492","18140",4.9,8,1,3
+39075,NA,"Holmes","Ohio",39,75,"NULL","NULL",1096,"NULL","NULL",3.2,17,1,4
+39077,NA,"Huron","Ohio",39,77,"Norwalk, OH","Norwalk, OH",565,"394923","35940",5.9,23,2,4
+39079,NA,"Jackson","Ohio",39,79,"Jackson, OH","Jackson, OH",1807,"753892","27160",6.5,12,1,3
+39083,105622.222222222,"Knox","Ohio",39,83,"Mount Vernon, OH","Mount Vernon, OH",214,"394889","34540",4.3,20,1,3
+39087,75474.3295019157,"Lawrence","Ohio",39,87,"Huntington, WV","Huntington-Ashland, WV-KY-OH",2385,"394697","26580",5.5,24,1,NA
+39089,184389.361702128,"Licking","Ohio",39,89,"Columbus, OH","Columbus, OH",1862,"394492","18140",3.9,56,4,3
+39091,98908.4291187739,"Logan","Ohio",39,91,"Bellefontaine, OH","Bellefontaine, OH",611,"394377","13340",3.7,14,1,3
+39093,121642.911877395,"Lorain","Ohio",39,93,"Cleveland, OH","Cleveland-Elyria, OH",1150,"394475","17460",5.4,94,8,4.25
+39095,89199.6168582376,"Lucas","Ohio",39,95,"Toledo, OH","Toledo, OH",616,"395160","45780",5.2,147,14,3.375
+39097,120330.651340996,"Madison","Ohio",39,97,"Columbus, OH","Columbus, OH",1910,"394492","18140",3.7,17,1,3
+39099,74848.6590038314,"Mahoning","Ohio",39,99,"Youngstown, OH","Youngstown-Warren-Boardman, OH-PA",2399,"395245","49660",5.9,74,10,3
+39101,74185.8407079646,"Marion","Ohio",39,101,"Marion, OH","Marion, OH",1170,"394827","32020",4.5,27,1,3.33333333333333
+39103,159304.214559387,"Medina","Ohio",39,103,"Cleveland, OH","Cleveland-Elyria, OH",1191,"394475","17460",4.3,43,3,4
+39107,120409.195402299,"Mercer","Ohio",39,107,"Celina, OH","Celina, OH",1202,"394449","16380",2.7,22,1,4
+39109,116060.153256705,"Miami","Ohio",39,109,"Dayton, OH","Dayton, OH",641,"394521","19380",3.8,40,1,3
+39113,92417.2413793103,"Montgomery","Ohio",39,113,"Dayton, OH","Dayton, OH",2980,"394521","19380",4.4,164,17,3.09090909090909
+39117,102062.835249042,"Morrow","Ohio",39,117,"Columbus, OH","Columbus, OH",1243,"394492","18140",4.4,15,1,4
+39119,88960.5363984674,"Muskingum","Ohio",39,119,"Zanesville, OH","Zanesville, OH",2812,"395248","49780",5.3,31,3,2.75
+39123,124045.593869732,"Ottawa","Ohio",39,123,"Port Clinton, OH","Port Clinton, OH",1301,"753913","38840",6.3,16,1,4
+39125,NA,"Paulding","Ohio",39,125,"NULL","NULL",2471,"NULL","NULL",4.1,10,1,3
+39129,127814.559386973,"Pickaway","Ohio",39,129,"Columbus, OH","Columbus, OH",2479,"394492","18140",4.2,21,1,3
+39139,87852.8735632184,"Richland","Ohio",39,139,"Mansfield, OH","Mansfield, OH",2506,"394824","31900",4.8,48,4,3
+39141,90354.4061302682,"Ross","Ohio",39,141,"Chillicothe, OH","Chillicothe, OH",309,"394465","17060",4.5,27,2,3
+39143,96534.8659003831,"Sandusky","Ohio",39,143,"Fremont, OH","Fremont, OH",2525,"394618","23380",4.5,25,3,3.30769230769231
+39145,65487.3563218391,"Scioto","Ohio",39,145,"Portsmouth, OH","Portsmouth, OH",1370,"394999","39020",6.7,33,2,4
+39147,87279.7752808989,"Seneca","Ohio",39,147,"Tiffin, OH","Tiffin, OH",1374,"395157","45660",4.4,24,4,3.5
+39149,109625.287356322,"Shelby","Ohio",39,149,"Sidney, OH","Sidney, OH",1387,"395097","43380",3.7,21,1,3
+39151,NA,"Stark","Ohio",39,151,"Canton, OH","Canton-Massillon, OH",730,"394439","15940",4.9,110,8,2.85714285714286
+39153,114491.187739464,"Summit","Ohio",39,153,"Akron, OH","Akron, OH",1404,"394304","10420",4.6,161,12,3
+39155,78316.8582375479,"Trumbull","Ohio",39,155,"Youngstown, OH","Youngstown-Warren-Boardman, OH-PA",2583,"395245","49660",6.2,72,5,4
+39157,90973.5632183908,"Tuscarawas","Ohio",39,157,"New Philadelphia, OH","New Philadelphia-Dover, OH",3044,"394911","35420",4.5,43,3,3
+39161,84009.1633466135,"Van Wert","Ohio",39,161,"Van Wert, OH","Van Wert, OH",2587,"395185","46780",3.5,13,2,3
+39165,169186.590038314,"Warren","Ohio",39,165,"Cincinnati, OH","Cincinnati, OH-KY-IN",1480,"394466","17140",3.8,45,4,4
+39167,91381.9923371647,"Washington","Ohio",39,167,"Marietta, OH","Marietta, OH",3067,"753903","31930",5.5,24,2,2.5
+39169,118701.915708812,"Wayne","Ohio",39,169,"Wooster, OH","Wooster, OH",797,"395237","49300",3.6,43,2,3
+39173,120594.252873563,"Wood","Ohio",39,173,"Toledo, OH","Toledo, OH",335,"395160","45780",4,43,1,3
+39175,NA,"Wyandot","Ohio",39,175,"NULL","NULL",2104,"NULL","NULL",3.2,9,1,3
+40001,NA,"Adair","Oklahoma",40,1,"NULL","NULL",352,"NULL","NULL",4.4,18,1,3.25
+40005,NA,"Atoka","Oklahoma",40,5,"NULL","NULL",375,"NULL","NULL",4.3,11,1,NA
+40009,75086.3354037267,"Beckham","Oklahoma",40,9,"Elk City, OK","Elk City, OK",1535,"394564","21120",2.8,15,2,3
+40013,74957.4712643678,"Bryan","Oklahoma",40,13,"Durant, OK","Durant, OK",413,"394548","20460",3.3,23,1,3
+40015,NA,"Caddo","Oklahoma",40,15,"NULL","NULL",424,"NULL","NULL",3.7,32,2,3
+40019,66309.5785440613,"Carter","Oklahoma",40,19,"Ardmore, OK","Ardmore, OK",922,"394336","11620",3.7,28,2,3
+40021,74363.9846743295,"Cherokee","Oklahoma",40,21,"Tahlequah, OK","Tahlequah, OK",2192,"395144","45140",4.5,21,2,2
+40023,NA,"Choctaw","Oklahoma",40,23,"NULL","NULL",1618,"NULL","NULL",5.3,14,2,3
+40027,110371.264367816,"Cleveland","Oklahoma",40,27,"Oklahoma City, OK","Oklahoma City, OK",2668,"394935","36420",3,70,6,3.5
+40031,71844.4444444444,"Comanche","Oklahoma",40,31,"Lawton, OK","Lawton, OK",2221,"394780","30020",4.1,54,5,3
+40037,86095.5056179775,"Creek","Oklahoma",40,37,"Tulsa, OK","Tulsa, OK",460,"395169","46140",4,38,3,3
+40039,76136.398467433,"Custer","Oklahoma",40,39,"Weatherford, OK","Weatherford, OK",969,"753926","48220",2.6,15,2,3
+40041,120475.135135135,"Delaware","Oklahoma",40,41,"NULL","NULL",2250,"NULL","NULL",4,19,1,3
+40047,96219.1011235955,"Garfield","Oklahoma",40,47,"Enid, OK","Enid, OK",2303,"394570","21420",3.2,34,3,4
+40049,NA,"Garvin","Oklahoma",40,49,"NULL","NULL",1031,"NULL","NULL",3.5,22,2,NA
+40051,83970.1149425287,"Grady","Oklahoma",40,51,"Oklahoma City, OK","Oklahoma City, OK",527,"394935","36420",3.2,31,1,2.66666666666667
+40057,NA,"Harmon","Oklahoma",40,57,"NULL","NULL",1085,"NULL","NULL",3.1,3,1,NA
+40061,NA,"Haskell","Oklahoma",40,61,"NULL","NULL",1765,"NULL","NULL",5.3,10,1,3
+40063,NA,"Hughes","Oklahoma",40,63,"NULL","NULL",1107,"NULL","NULL",4.6,12,1,3
+40071,NA,"Kay","Oklahoma",40,71,"Ponca City, OK","Ponca City, OK",76,"394990","38620",5,24,2,3.5
+40079,72103.3707865169,"LeFlore","Oklahoma",40,79,"Fort Smith, AR","Fort Smith, AR-OK",1853,"394609","22900",4.9,38,1,3
+40081,63876.245210728,"Lincoln","Oklahoma",40,81,"Oklahoma City, OK","Oklahoma City, OK",1879,"394935","36420",3.7,23,2,NA
+40087,112391.891891892,"McClain","Oklahoma",40,87,"Oklahoma City, OK","Oklahoma City, OK",1921,"394935","36420",2.9,22,1,4
+40089,77385.1063829787,"McCurtain","Oklahoma",40,89,"NULL","NULL",2791,"NULL","NULL",5.6,29,1,3
+40095,59460.153256705,"Marshall","Oklahoma",40,95,"NULL","NULL",2413,"NULL","NULL",4.1,6,1,3
+40097,83665.5172413793,"Mayes","Oklahoma",40,97,"NULL","NULL",633,"NULL","NULL",3.6,23,1,4
+40101,NA,"Muskogee","Oklahoma",40,101,"Muskogee, OK","Muskogee, OK",2450,"394897","34780",4.3,38,4,2
+40103,NA,"Noble","Oklahoma",40,103,"NULL","NULL",656,"NULL","NULL",2.8,10,1,3
+40109,94882.7586206897,"Oklahoma","Oklahoma",40,109,"Oklahoma City, OK","Oklahoma City, OK",2463,"394935","36420",3.4,230,30,3.2
+40111,50665.9003831418,"Okmulgee","Oklahoma",40,111,"Tulsa, OK","Tulsa, OK",2464,"395169","46140",5,24,4,2.5
+40113,103538.202247191,"Osage","Oklahoma",40,113,"Tulsa, OK","Tulsa, OK",662,"395169","46140",4.4,34,2,NA
+40115,55484.2911877395,"Ottawa","Oklahoma",40,115,"Miami, OK","Miami, OK",1302,"394855","33060",3.7,22,2,3
+40117,NA,"Pawnee","Oklahoma",40,117,"Tulsa, OK","Tulsa, OK",1312,"395169","46140",4.3,8,1,NA
+40119,112192.720306513,"Payne","Oklahoma",40,119,"Stillwater, OK","Stillwater, OK",670,"395133","44660",3.1,28,2,3
+40123,66290.4214559387,"Pontotoc","Oklahoma",40,123,"Ada, OK","Ada, OK",2485,"394300","10220",3.3,23,3,3
+40131,111033.707865169,"Rogers","Oklahoma",40,131,"Tulsa, OK","Tulsa, OK",1358,"395169","46140",3.4,34,2,3
+40133,52048.3146067416,"Seminole","Oklahoma",40,133,"NULL","NULL",2540,"NULL","NULL",5.1,25,1,3
+40143,99540.2298850575,"Tulsa","Oklahoma",40,143,"Tulsa, OK","Tulsa, OK",757,"395169","46140",3.5,173,23,3.2
+40145,105496.9348659,"Wagoner","Oklahoma",40,145,"Tulsa, OK","Tulsa, OK",2065,"395169","46140",3.5,21,1,3
+40149,NA,"Washita","Oklahoma",40,149,"NULL","NULL",2072,"NULL","NULL",3.2,9,1,NA
+40153,96506.7415730337,"Woodward","Oklahoma",40,153,"Woodward, OK","Woodward, OK",2605,"395236","49260",2.9,12,2,3
+41001,NA,"Baker","Oregon",41,1,"NULL","NULL",380,"NULL","NULL",5.3,12,1,4
+41003,222176.62835249,"Benton","Oregon",41,3,"Corvallis, OR","Corvallis, OR",870,"394505","18700",3.1,27,1,3
+41005,256066.283524904,"Clackamas","Oregon",41,5,"Portland, OR","Portland-Vancouver-Hillsboro, OR-WA",2661,"394998","38900",3.6,115,4,3.25
+41007,NA,"Clatsop","Oregon",41,7,"Astoria, OR","Astoria, OR",1621,"394341","11820",4,14,2,2.66666666666667
+41011,134332.183908046,"Coos","Oregon",41,11,"Coos Bay, OR","Coos Bay, OR",142,"394496","18300",5.3,27,3,2
+41013,156269.387755102,"Crook","Oregon",41,13,"Prineville, OR","Prineville, OR",462,"395004","39260",5.8,9,2,4
+41015,NA,"Curry","Oregon",41,15,"Brookings, OR","Brookings, OR",466,"394418","15060",6,7,2,2.5
+41019,128790.038314176,"Douglas","Oregon",41,19,"Roseburg, OR","Roseburg, OR",1678,"395039","40700",5.2,48,3,2.25
+41023,NA,"Grant","Oregon",41,23,"NULL","NULL",540,"NULL","NULL",7,7,1,NA
+41027,282851.583710407,"Hood River","Oregon",41,27,"Hood River, OR","Hood River, OR",2936,"394687","26220",3.3,8,1,4
+41029,190127.586206897,"Jackson","Oregon",41,29,"Medford, OR","Medford, OR",1809,"394848","32780",4.7,62,3,3.33333333333333
+41031,139824.892703863,"Jefferson","Oregon",41,31,"NULL","NULL",2751,"NULL","NULL",5.3,12,1,3
+41033,170903.448275862,"Josephine","Oregon",41,33,"Grants Pass, OR","Grants Pass, OR",2760,"394641","24420",5.4,24,1,3
+41035,123474.329501916,"Klamath","Oregon",41,35,"Klamath Falls, OR","Klamath Falls, OR",1842,"394752","28900",6.2,30,1,3
+41037,NA,"Lake","Oregon",41,37,"NULL","NULL",226,"NULL","NULL",5.6,8,1,3
+41039,182897.318007663,"Lane","Oregon",41,39,"Eugene, OR","Eugene, OR",231,"394576","21660",4.3,111,6,2.5
+41041,177428.735632184,"Lincoln","Oregon",41,41,"Newport, OR","Newport, OR",1880,"753905","35440",4.7,16,2,3
+41043,145302.681992337,"Linn","Oregon",41,43,"Albany, OR","Albany, OR",238,"394307","10540",4.6,46,2,2.5
+41047,161927.969348659,"Marion","Oregon",41,47,"Salem, OR","Salem, OR",1171,"395048","41420",4.2,111,4,3
+41049,NA,"Morrow","Oregon",41,49,"Hermiston-Pendleton, OR","Hermiston-Pendleton, OR",1244,"753887","25840",4.2,9,1,NA
+41051,228725.670498084,"Multnomah","Oregon",41,51,"Portland, OR","Portland-Vancouver-Hillsboro, OR-WA",2810,"394998","38900",3.6,168,12,2.85714285714286
+41059,121862.068965517,"Umatilla","Oregon",41,59,"Hermiston-Pendleton, OR","Hermiston-Pendleton, OR",2585,"753887","25840",4.8,37,4,3.25
+41061,129034.661354582,"Union","Oregon",41,61,"La Grande, OR","La Grande, OR",774,"394758","29260",5.2,14,1,3
+41063,NA,"Wallowa","Oregon",41,63,"NULL","NULL",2068,"NULL","NULL",6,7,1,NA
+41065,NA,"Wasco","Oregon",41,65,"The Dalles, OR","The Dalles, OR",785,"753923","45520",4.2,11,1,3
+41067,241031.800766284,"Washington","Oregon",41,67,"Portland, OR","Portland-Vancouver-Hillsboro, OR-WA",3069,"394998","38900",3.4,129,5,3.33333333333333
+41071,180600.383141762,"Yamhill","Oregon",41,71,"Portland, OR","Portland-Vancouver-Hillsboro, OR-WA",2110,"394998","38900",3.7,34,2,3.5
+42001,164662.068965517,"Adams","Pennsylvania",42,1,"Gettysburg, PA","Gettysburg, PA",362,"394630","23900",3.2,27,1,4
+42003,100747.892720307,"Allegheny","Pennsylvania",42,3,"Pittsburgh, PA","Pittsburgh, PA",2614,"394982","38300",4.1,297,32,2.81818181818182
+42005,80113.4693877551,"Armstrong","Pennsylvania",42,5,"Pittsburgh, PA","Pittsburgh, PA",2620,"394982","38300",5,21,1,4
+42007,102416.858237548,"Beaver","Pennsylvania",42,7,"Pittsburgh, PA","Pittsburgh, PA",860,"394982","38300",4.6,54,2,2
+42011,141934.099616858,"Berks","Pennsylvania",42,11,"Reading, PA","Reading, PA",385,"395015","39740",4.2,99,6,3
+42013,83733.7164750958,"Blair","Pennsylvania",42,13,"Altoona, PA","Altoona, PA",387,"394321","11020",4.2,32,5,3
+42015,NA,"Bradford","Pennsylvania",42,15,"Sayre, PA","Sayre, PA",2149,"395071","42380",4.3,18,4,2.75
+42017,250563.218390805,"Bucks","Pennsylvania",42,17,"Philadelphia, PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",414,"394974","37980",3.7,133,10,3.375
+42019,161771.365638767,"Butler","Pennsylvania",42,19,"Pittsburgh, PA","Pittsburgh, PA",905,"394982","38300",3.9,44,3,4
+42021,67163.2183908046,"Cambria","Pennsylvania",42,21,"Johnstown, PA","Johnstown, PA",1582,"394727","27780",5.2,41,4,4
+42025,120375.862068966,"Carbon","Pennsylvania",42,25,"Allentown, PA","Allentown-Bethlehem-Easton, PA-NJ",915,"394318","10900",5.1,21,2,3
+42027,165133.333333333,"Centre","Pennsylvania",42,27,"State College, PA","State College, PA",930,"395125","44300",3.3,34,3,4
+42029,266215.708812261,"Chester","Pennsylvania",42,29,"Philadelphia, PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",1611,"394974","37980",3.2,109,10,3.25
+42031,NA,"Clarion","Pennsylvania",42,31,"NULL","NULL",1620,"NULL","NULL",4.7,17,2,2
+42033,70495.2,"Clearfield","Pennsylvania",42,33,"DuBois, PA","DuBois, PA",2902,"394541","20180",5.1,27,2,3
+42035,99340.2298850575,"Clinton","Pennsylvania",42,35,"Lock Haven, PA","Lock Haven, PA",1632,"394799","30820",5.4,11,2,3
+42037,100151.724137931,"Columbia","Pennsylvania",42,37,"Bloomsburg, PA","Bloomsburg-Berwick, PA",2216,"394395","14100",4.8,20,2,3
+42039,NA,"Crawford","Pennsylvania",42,39,"Meadville, PA","Meadville, PA",2235,"394847","32740",4.7,27,2,2
+42041,153224.137931034,"Cumberland","Pennsylvania",42,41,"Harrisburg, PA","Harrisburg-Carlisle, PA",2914,"394666","25420",3.3,57,5,3.5
+42043,130188.122605364,"Dauphin","Pennsylvania",42,43,"Harrisburg, PA","Harrisburg-Carlisle, PA",1650,"394666","25420",4,71,8,3
+42045,171975.478927203,"Delaware","Pennsylvania",42,45,"Philadelphia, PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2251,"394974","37980",4,108,8,2.33333333333333
+42047,81669.3486590038,"Elk","Pennsylvania",42,47,"NULL","NULL",72,"NULL","NULL",3.9,10,1,3
+42049,98375.0957854406,"Erie","Pennsylvania",42,49,"Erie, PA","Erie, PA",159,"394572","21500",4.8,74,9,3.4
+42051,NA,"Fayette","Pennsylvania",42,51,"Pittsburgh, PA","Pittsburgh, PA",1703,"394982","38300",5.9,47,2,3
+42055,123599.616858238,"Franklin","Pennsylvania",42,55,"Chambersburg, PA","Chambersburg-Waynesboro, PA",2289,"394453","16540",3.7,42,3,3.5
+42057,NA,"Fulton","Pennsylvania",42,57,"NULL","NULL",1026,"NULL","NULL",4.4,8,1,3
+42061,95708.1545064378,"Huntingdon","Pennsylvania",42,61,"Huntingdon, PA","Huntingdon, PA",2938,"394695","26500",5.3,19,1,4
+42063,87287.7394636015,"Indiana","Pennsylvania",42,63,"Indiana, PA","Indiana, PA",1788,"394704","26860",5,23,1,3
+42065,83404.4943820225,"Jefferson","Pennsylvania",42,65,"NULL","NULL",2752,"NULL","NULL",4.7,16,2,3.5
+42069,106269.731800766,"Lackawanna","Pennsylvania",42,69,"Scranton, PA","Scranton--Wilkes-Barre--Hazleton, PA",2949,"395075","42540",4.5,50,6,1.5
+42071,157132.567049808,"Lancaster","Pennsylvania",42,71,"Lancaster, PA","Lancaster, PA",2776,"394768","29540",3.4,115,5,3.5
+42073,84312.389380531,"Lawrence","Pennsylvania",42,73,"New Castle, PA","New Castle, PA",2386,"394907","35260",5.2,29,2,3
+42077,156542.911877395,"Lehigh","Pennsylvania",42,77,"Allentown, PA","Allentown-Bethlehem-Easton, PA-NJ",1146,"394318","10900",4.6,83,10,3
+42079,87844.0154440154,"Luzerne","Pennsylvania",42,79,"Scranton, PA","Scranton--Wilkes-Barre--Hazleton, PA",1893,"395075","42540",5.4,67,8,2.5
+42081,109469.731800766,"Lycoming","Pennsylvania",42,81,"Williamsport, PA","Williamsport, PA",2394,"395225","48700",4.9,33,4,4
+42083,NA,"McKean","Pennsylvania",42,83,"Bradford, PA","Bradford, PA",1185,"394409","14620",4.9,14,2,3.5
+42085,97851.677852349,"Mercer","Pennsylvania",42,85,"Youngstown, OH","Youngstown-Warren-Boardman, OH-PA",1203,"395245","49660",4.8,41,5,3
+42091,234897.701149425,"Montgomery","Pennsylvania",42,91,"Philadelphia, PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2981,"394974","37980",3.4,164,16,2.2
+42093,NA,"Montour","Pennsylvania",42,93,"Bloomsburg, PA","Bloomsburg-Berwick, PA",1937,"394395","14100",3.5,6,4,2
+42095,166893.869731801,"Northampton","Pennsylvania",42,95,"Allentown, PA","Allentown-Bethlehem-Easton, PA-NJ",3112,"394318","10900",4.4,61,3,2
+42097,87617.3410404624,"Northumberland","Pennsylvania",42,97,"Sunbury, PA","Sunbury, PA",3244,"395140","44980",5.2,25,2,3
+42101,93100.7662835249,"Philadelphia","Pennsylvania",42,101,"Philadelphia, PA","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",3175,"394974","37980",5.6,308,35,2.92857142857143
+42105,NA,"Potter","Pennsylvania",42,105,"NULL","NULL",1331,"NULL","NULL",5.4,10,1,3
+42107,62066.2835249042,"Schuylkill","Pennsylvania",42,107,"Pottsville, PA","Pottsville, PA",3028,"395000","39060",5.3,38,3,4
+42111,81068.9655172414,"Somerset","Pennsylvania",42,111,"Somerset, PA","Somerset, PA",2553,"395106","43740",5.2,29,3,3
+42115,NA,"Susquehanna","Pennsylvania",42,115,"NULL","NULL",3142,"NULL","NULL",4,15,3,3
+42119,NA,"Union","Pennsylvania",42,119,"Lewisburg, PA","Lewisburg, PA",775,"394785","30260",3.7,10,1,3
+42123,NA,"Warren","Pennsylvania",42,123,"Warren, PA","Warren, PA",1481,"395203","47620",4.5,13,2,3
+42125,105213.026819923,"Washington","Pennsylvania",42,125,"Pittsburgh, PA","Pittsburgh, PA",3070,"394982","38300",4.4,56,4,2.66666666666667
+42127,132474.103585657,"Wayne","Pennsylvania",42,127,"NULL","NULL",798,"NULL","NULL",4.7,11,2,2.66666666666667
+42129,98659.0038314176,"Westmoreland","Pennsylvania",42,129,"Pittsburgh, PA","Pittsburgh, PA",3200,"394982","38300",4.4,93,6,3.33333333333333
+42131,NA,"Wyoming","Pennsylvania",42,131,"Scranton, PA","Scranton--Wilkes-Barre--Hazleton, PA",2106,"395075","42540",4.4,8,1,4
+42133,141408.812260536,"York","Pennsylvania",42,133,"York, PA","York-Hanover, PA",343,"395244","49620",3.8,109,7,3.33333333333333
+44003,179532.183908046,"Kent","Rhode Island",44,3,"Providence, RI","Providence-Warwick, RI-MA",202,"395005","39300",3.7,47,1,3
+44005,292978.544061303,"Newport","Rhode Island",44,5,"Providence, RI","Providence-Warwick, RI-MA",1945,"395005","39300",3.6,21,2,4
+44007,182825.287356322,"Providence","Rhode Island",44,7,"Providence, RI","Providence-Warwick, RI-MA",3001,"395005","39300",4.4,189,15,3
+44009,273752.873563218,"Washington","Rhode Island",44,9,"Providence, RI","Providence-Warwick, RI-MA",3071,"395005","39300",3.6,38,2,3
+45001,NA,"Abbeville","South Carolina",45,1,"Greenwood, SC","Greenwood, SC",2606,"394655","24940",4.2,9,1,4
+45003,89558.4269662921,"Aiken","South Carolina",45,3,"Augusta, GA","Augusta-Richmond County, GA-SC",365,"394352","12260",3.5,39,1,2
+45019,203437.54789272,"Charleston","South Carolina",45,19,"Charleston, SC","Charleston-North Charleston, SC",2897,"394457","16700",2.9,85,11,3.66666666666667
+45021,67610.7279693487,"Cherokee","South Carolina",45,21,"Gaffney, SC","Gaffney, SC",2193,"394621","23500",4,19,1,2
+45023,NA,"Chester","South Carolina",45,23,"Charlotte, NC","Charlotte-Concord-Gastonia, NC-SC",1612,"394458","16740",4.9,12,1,3
+45025,NA,"Chesterfield","South Carolina",45,25,"NULL","NULL",3157,"NULL","NULL",3.5,16,1,NA
+45027,83640.4494382023,"Clarendon","South Carolina",45,27,"NULL","NULL",2665,"NULL","NULL",5,14,2,NA
+45029,103426.696832579,"Colleton","South Carolina",45,29,"NULL","NULL",2208,"NULL","NULL",4.2,9,1,3
+45031,62083.5249042146,"Darlington","South Carolina",45,31,"Florence, SC","Florence, SC",2917,"394597","22500",4.3,24,2,2
+45037,93842.9530201342,"Edgefield","South Carolina",45,37,"Augusta, GA","Augusta-Richmond County, GA-SC",2688,"394352","12260",3.6,10,1,NA
+45039,NA,"Fairfield","South Carolina",45,39,"Columbia, SC","Columbia, SC",2696,"394486","17900",6.4,9,1,NA
+45041,97296.5517241379,"Florence","South Carolina",45,41,"Florence, SC","Florence, SC",2266,"394597","22500",3.9,45,7,2.5
+45043,197113.147410359,"Georgetown","South Carolina",45,43,"Georgetown, SC","Georgetown, SC",2928,"394629","23860",4.7,19,2,4
+45045,131446.360153257,"Greenville","South Carolina",45,45,"Greenville, SC","Greenville-Anderson-Mauldin, SC",2934,"394653","24860",3.1,103,12,4.4
+45047,NA,"Greenwood","South Carolina",45,47,"Greenwood, SC","Greenwood, SC",2710,"394655","24940",3.9,22,2,3
+45049,NA,"Hampton","South Carolina",45,49,"NULL","NULL",1747,"NULL","NULL",3.7,10,1,3
+45051,142401.53256705,"Horry","South Carolina",45,51,"Myrtle Beach, SC","Myrtle Beach-Conway-North Myrtle Beach, SC-NC",563,"394898","34820",4.4,56,5,3.5
+45053,NA,"Jasper","South Carolina",45,53,"Hilton Head Island, SC","Hilton Head Island-Bluffton-Beaufort, SC",1120,"394681","25940",3.2,7,1,3
+45055,85409.9616858238,"Kershaw","South Carolina",45,55,"Columbia, SC","Columbia, SC",1838,"394486","17900",3.7,18,1,4
+45057,111943.824701195,"Lancaster","South Carolina",45,57,"Charlotte, NC","Charlotte-Concord-Gastonia, NC-SC",2777,"394458","16740",3.9,22,1,2
+45063,115242.528735632,"Lexington","South Carolina",45,63,"Columbia, SC","Columbia, SC",2779,"394486","17900",3,71,3,3
+45067,NA,"Marion","South Carolina",45,67,"NULL","NULL",1172,"NULL","NULL",6,11,1,2
+45071,NA,"Newberry","South Carolina",45,71,"Newberry, SC","Newberry, SC",2453,"394914","35140",3.3,14,1,4
+45077,111832.567049808,"Pickens","South Carolina",45,77,"Greenville, SC","Greenville-Anderson-Mauldin, SC",1972,"394653","24860",3.5,27,2,3
+45079,117781.992337165,"Richland","South Carolina",45,79,"Columbia, SC","Columbia, SC",2507,"394486","17900",3.6,107,16,2
+45083,102881.22605364,"Spartanburg","South Carolina",45,83,"Spartanburg, SC","Spartanburg, SC",3141,"395109","43900",3.3,84,6,3.5
+45087,NA,"Union","South Carolina",45,87,"Spartanburg, SC","Spartanburg, SC",776,"395109","43900",4.4,9,1,NA
+45089,NA,"Williamsburg","South Carolina",45,89,"NULL","NULL",3202,"NULL","NULL",5.7,14,1,3
+45091,135761.685823755,"York","South Carolina",45,91,"Charlotte, NC","Charlotte-Concord-Gastonia, NC-SC",344,"394458","16740",3.4,63,2,1
+46005,NA,"Beadle","South Dakota",46,5,"Huron, SD","Huron, SD",858,"394700","26700",2.7,14,1,NA
+46011,NA,"Brookings","South Dakota",46,11,"Brookings, SD","Brookings, SD",2639,"394419","15100",2.9,18,1,4
+46013,NA,"Brown","South Dakota",46,13,"NULL","Aberdeen, SD",408,"394297","10100",2.9,23,3,4
+46065,NA,"Hughes","South Dakota",46,65,"Pierre, SD","Pierre, SD",1108,"394979","38180",2.7,9,1,4
+46079,NA,"Lake","South Dakota",46,79,"NULL","NULL",227,"NULL","NULL",3.5,18,2,NA
+46081,201466.283524904,"Lawrence","South Dakota",46,81,"Spearfish, SD","Spearfish, SD",2387,"395110","43940",3,14,3,4
+46083,NA,"Lincoln","South Dakota",46,83,"Sioux Falls, SD","Sioux Falls, SD",1881,"395103","43620",2.4,20,5,5
+46093,NA,"Meade","South Dakota",46,93,"Rapid City, SD","Rapid City, SD",636,"395013","39660",3.4,17,2,NA
+46099,129912.692307692,"Minnehaha","South Dakota",46,99,"Sioux Falls, SD","Sioux Falls, SD",2805,"395103","43620",2.7,78,8,NA
+46103,166814.176245211,"Pennington","South Dakota",46,103,"Rapid City, SD","Rapid City, SD",2997,"395013","39660",3.1,40,6,3
+46127,NA,"Union","South Dakota",46,127,"Sioux City, IA","Sioux City, IA-NE-SD",777,"395102","43580",3.3,13,1,NA
+46135,151830.651340996,"Yankton","South Dakota",46,135,"Yankton, SD","Yankton, SD",2111,"395241","49460",2.7,11,3,4
+47001,88957.0881226054,"Anderson","Tennessee",47,1,"Knoxville, TN","Knoxville, TN",2123,"394753","28940",3.8,28,1,3
+47005,64387.3469387755,"Benton","Tennessee",47,5,"NULL","NULL",871,"NULL","NULL",5,8,1,3
+47009,112859.38697318,"Blount","Tennessee",47,9,"Knoxville, TN","Knoxville, TN",884,"394753","28940",3.3,29,2,2
+47013,NA,"Campbell","Tennessee",47,13,"Knoxville, TN","Knoxville, TN",2170,"394753","28940",4.8,15,2,3
+47015,98086.5900383142,"Cannon","Tennessee",47,15,"Nashville, TN","Nashville-Davidson--Murfreesboro--Franklin, TN",912,"394902","34980",3.2,6,1,3
+47017,54380.0766283525,"Carroll","Tennessee",47,17,"NULL","NULL",1600,"NULL","NULL",5,15,2,3
+47019,84046.3601532567,"Carter","Tennessee",47,19,"Johnson City, TN","Johnson City, TN",923,"394726","27740",4.2,20,1,4
+47021,113689.655172414,"Cheatham","Tennessee",47,21,"Nashville, TN","Nashville-Davidson--Murfreesboro--Franklin, TN",2185,"394902","34980",2.8,13,1,NA
+47025,NA,"Claiborne","Tennessee",47,25,"NULL","NULL",2664,"NULL","NULL",4.4,13,1,NA
+47027,NA,"Clay","Tennessee",47,27,"NULL","NULL",131,"NULL","NULL",4.6,4,1,NA
+47031,97994.6360153257,"Coffee","Tennessee",47,31,"Tullahoma, TN","Tullahoma-Manchester, TN",947,"395168","46100",3.5,19,3,3
+47035,83496.6292134831,"Cumberland","Tennessee",47,35,"Crossville, TN","Crossville, TN",2915,"394509","18900",4.3,12,1,3
+47037,143962.835249042,"Davidson","Tennessee",47,37,"Nashville, TN","Nashville-Davidson--Murfreesboro--Franklin, TN",2243,"394902","34980",2.7,167,15,3.16666666666667
+47039,NA,"Decatur","Tennessee",47,39,"NULL","NULL",1666,"NULL","NULL",4.9,4,1,3
+47041,91829.2887029289,"Dekalb","Tennessee",47,41,"NULL","NULL",986,"NULL","NULL",4.4,6,1,4
+47043,98753.6398467433,"Dickson","Tennessee",47,43,"Nashville, TN","Nashville-Davidson--Murfreesboro--Franklin, TN",1668,"394902","34980",3.1,16,1,3
+47049,77815.7303370787,"Fentress","Tennessee",47,49,"NULL","NULL",2262,"NULL","NULL",4.3,7,1,3
+47053,57462.8352490421,"Gibson","Tennessee",47,53,"NULL","NULL",1038,"NULL","NULL",4.5,21,3,3.33333333333333
+47055,78873.9463601533,"Giles","Tennessee",47,55,"NULL","NULL",522,"NULL","NULL",3.6,8,1,4
+47063,87439.4636015326,"Hamblen","Tennessee",47,63,"Morristown, TN","Morristown, TN",1745,"394880","34100",3.8,18,2,1
+47065,121591.954022989,"Hamilton","Tennessee",47,65,"Chattanooga, TN","Chattanooga, TN-GA",2323,"394460","16860",3.4,78,13,2.5
+47067,NA,"Hancock","Tennessee",47,67,"NULL","NULL",1756,"NULL","NULL",5.1,3,1,NA
+47069,50055.6485355649,"Hardeman","Tennessee",47,69,"NULL","NULL",2327,"NULL","NULL",5,9,1,NA
+47071,55147.1264367816,"Hardin","Tennessee",47,71,"NULL","NULL",1081,"NULL","NULL",4.4,7,1,3
+47077,73869.7318007663,"Henderson","Tennessee",47,77,"NULL","NULL",2720,"NULL","NULL",4.8,11,1,3
+47079,74032.183908046,"Henry","Tennessee",47,79,"Paris, TN","Paris, TN",560,"394962","37540",4.3,9,1,3
+47081,83675.0957854406,"Hickman","Tennessee",47,81,"Nashville, TN","Nashville-Davidson--Murfreesboro--Franklin, TN",1773,"394902","34980",3.3,8,1,NA
+47083,58487.7394636015,"Houston","Tennessee",47,83,"NULL","NULL",1784,"NULL","NULL",5.6,5,1,3
+47085,78778.4860557769,"Humphreys","Tennessee",47,85,"NULL","NULL",2728,"NULL","NULL",4.2,7,1,2
+47093,125127.586206897,"Knox","Tennessee",47,93,"Knoxville, TN","Knoxville, TN",215,"394753","28940",3,93,13,3.5
+47097,58677.0114942529,"Lauderdale","Tennessee",47,97,"NULL","NULL",2954,"NULL","NULL",6.1,8,1,3
+47103,76494.2528735632,"Lincoln","Tennessee",47,103,"NULL","NULL",1882,"NULL","NULL",3.2,11,1,2
+47111,77154.2857142857,"Macon","Tennessee",47,111,"Nashville, TN","Nashville-Davidson--Murfreesboro--Franklin, TN",623,"394902","34980",3.3,8,1,2
+47117,85595.0191570881,"Marshall","Tennessee",47,117,"Lewisburg, TN","Lewisburg, TN",2415,"394786","30280",3.3,9,1,4
+47119,108345.210727969,"Maury","Tennessee",47,119,"Nashville, TN","Nashville-Davidson--Murfreesboro--Franklin, TN",632,"394902","34980",3.3,21,1,4
+47123,97861.3026819923,"Monroe","Tennessee",47,123,"NULL","NULL",1226,"NULL","NULL",3.7,17,1,3
+47133,59003.5856573705,"Overton","Tennessee",47,133,"Cookeville, TN","Cookeville, TN",1960,"394495","18260",3.9,9,1,2
+47135,NA,"Perry","Tennessee",47,135,"NULL","NULL",683,"NULL","NULL",4.3,4,1,3
+47139,NA,"Polk","Tennessee",47,139,"Cleveland, TN","Cleveland, TN",293,"394474","17420",4.2,6,1,NA
+47141,110082.375478927,"Putnam","Tennessee",47,141,"Cookeville, TN","Cookeville, TN",1345,"394495","18260",3.5,21,1,3
+47143,94449.8084291188,"Rhea","Tennessee",47,143,"Dayton, TN","Dayton, TN",302,"753878","19420",5.6,8,1,3
+47145,104040.229885057,"Roane","Tennessee",47,145,"Knoxville, TN","Knoxville, TN",696,"394753","28940",4.2,17,2,3
+47147,118989.272030651,"Robertson","Tennessee",47,147,"Nashville, TN","Nashville-Davidson--Murfreesboro--Franklin, TN",2834,"394902","34980",3.2,20,1,3
+47149,133786.973180077,"Rutherford","Tennessee",47,149,"Nashville, TN","Nashville-Davidson--Murfreesboro--Franklin, TN",3016,"394902","34980",2.7,61,4,3
+47155,143632.950191571,"Sevier","Tennessee",47,155,"Sevierville, TN","Sevierville, TN",1376,"395086","42940",3.5,28,1,3
+47157,100731.800766284,"Shelby","Tennessee",47,157,"Memphis, TN","Memphis, TN-MS-AR",1388,"394849","32820",4.2,322,23,2
+47159,93411.1553784861,"Smith","Tennessee",47,159,"Nashville, TN","Nashville-Davidson--Murfreesboro--Franklin, TN",724,"394902","34980",3.1,9,1,3
+47163,100062.068965517,"Sullivan","Tennessee",47,163,"Kingsport, TN","Kingsport-Bristol-Bristol, TN-VA",2569,"394747","28700",3.7,43,5,3
+47165,139506.130268199,"Sumner","Tennessee",47,165,"Nashville, TN","Nashville-Davidson--Murfreesboro--Franklin, TN",1407,"394902","34980",2.8,47,3,2.5
+47167,111278.927203065,"Tipton","Tennessee",47,167,"Memphis, TN","Memphis, TN-MS-AR",1435,"394849","32820",4.2,14,1,3
+47169,NA,"Trousdale","Tennessee",47,169,"Nashville, TN","Nashville-Davidson--Murfreesboro--Franklin, TN",2856,"394902","34980",3.3,3,1,NA
+47171,75968.5258964143,"Unicoi","Tennessee",47,171,"Johnson City, TN","Johnson City, TN",1449,"394726","27740",5,8,1,3
+47177,63263.6015325671,"Warren","Tennessee",47,177,"McMinnville, TN","McMinnville, TN",1482,"394845","32660",4,11,1,3
+47179,104990.804597701,"Washington","Tennessee",47,179,"Johnson City, TN","Johnson City, TN",3072,"394726","27740",3.6,29,8,3
+47181,NA,"Wayne","Tennessee",47,181,"NULL","NULL",799,"NULL","NULL",4.8,8,1,3
+47187,281809.578544061,"Williamson","Tennessee",47,187,"Nashville, TN","Nashville-Davidson--Murfreesboro--Franklin, TN",3080,"394902","34980",2.5,48,2,4
+48001,NA,"Anderson","Texas",48,1,"Palestine, TX","Palestine, TX",2124,"394956","37300",3.1,30,2,3
+48005,NA,"Angelina","Texas",48,5,"Lufkin, TX","Lufkin, TX",2125,"394809","31260",4.5,43,4,3
+48017,74818.085106383,"Bailey","Texas",48,17,"NULL","NULL",845,"NULL","NULL",4.4,5,1,NA
+48021,NA,"Bastrop","Texas",48,21,"Austin, TX","Austin-Round Rock, TX",1533,"394355","12420",3.3,28,14,3
+48025,89221.4559386973,"Bee","Texas",48,25,"Beeville, TX","Beeville, TX",69,"394376","13300",5.2,13,1,3
+48027,104500.766283525,"Bell","Texas",48,27,"Killeen, TX","Killeen-Temple, TX",98,"394746","28660",4.1,121,10,3.5
+48029,NA,"Bexar","Texas",48,29,"San Antonio, TX","San Antonio-New Braunfels, TX",386,"395055","41700",3.4,547,47,3.11111111111111
+48037,NA,"Bowie","Texas",48,37,"Texarkana, TX","Texarkana, TX-AR",399,"395152","45500",5,54,6,2
+48039,NA,"Brazoria","Texas",48,39,"Houston, TX","Houston-The Woodlands-Sugar Land, TX",2151,"394692","26420",4.5,101,5,NA
+48041,133866.666666667,"Brazos","Texas",48,41,"College Station, TX","College Station-Bryan, TX",890,"394483","17780",2.9,47,6,3
+48043,154880.530973451,"Brewster","Texas",48,43,"NULL","NULL",2152,"NULL","NULL",3.4,7,1,3
+48049,NA,"Brown","Texas",48,49,"Brownwood, TX","Brownwood, TX",409,"394422","15220",3.7,24,1,2
+48053,NA,"Burnet","Texas",48,53,"NULL","NULL",897,"NULL","NULL",2.9,13,2,3
+48055,NA,"Caldwell","Texas",48,55,"Austin, TX","Austin-Round Rock, TX",2164,"394355","12420",3.6,15,2,3
+48057,122618.309859155,"Calhoun","Texas",48,57,"Port Lavaca, TX","Port Lavaca, TX",1578,"753914","38920",4.5,8,1,2.66666666666667
+48061,67944.8275862069,"Cameron","Texas",48,61,"Brownsville, TX","Brownsville-Harlingen, TX",1585,"394421","15180",6.2,182,11,3.5
+48063,NA,"Camp","Texas",48,63,"NULL","NULL",106,"NULL","NULL",4.9,5,1,4
+48069,94779.69348659,"Castro","Texas",48,69,"NULL","NULL",926,"NULL","NULL",3,6,1,NA
+48071,NA,"Chambers","Texas",48,71,"Houston, TX","Houston-The Woodlands-Sugar Land, TX",2182,"394692","26420",5.4,19,2,NA
+48073,NA,"Cherokee","Texas",48,73,"Jacksonville, TX","Jacksonville, TX",2194,"394717","27380",4.2,25,3,3
+48075,82539.846743295,"Childress","Texas",48,75,"NULL","NULL",2656,"NULL","NULL",2.6,3,1,4
+48077,NA,"Clay","Texas",48,77,"Wichita Falls, TX","Wichita Falls, TX",132,"395223","48660",3.3,7,1,NA
+48083,NA,"Coleman","Texas",48,83,"NULL","NULL",1637,"NULL","NULL",3.9,6,2,NA
+48085,200489.285714286,"Collin","Texas",48,85,"Dallas-Fort Worth, TX","Dallas-Fort Worth-Arlington, TX",951,"394514","19100",3.3,277,28,3.83333333333333
+48089,NA,"Colorado","Texas",48,89,"NULL","NULL",2209,"NULL","NULL",3.2,13,3,3.66666666666667
+48091,182104.214559387,"Comal","Texas",48,91,"San Antonio, TX","San Antonio-New Braunfels, TX",454,"395055","41700",3.3,48,5,4
+48093,68931.4606741573,"Comanche","Texas",48,93,"NULL","NULL",2222,"NULL","NULL",3.7,9,1,NA
+48097,NA,"Cooke","Texas",48,97,"Gainesville, TX","Gainesville, TX",455,"394624","23620",3.2,21,2,4
+48107,61255.938697318,"Crosby","Texas",48,107,"Lubbock, TX","Lubbock, TX",963,"394808","31180",4.4,11,1,NA
+48113,117046.613545817,"Dallas","Texas",48,113,"Dallas-Fort Worth, TX","Dallas-Fort Worth-Arlington, TX",978,"394514","19100",3.7,728,58,3.22222222222222
+48115,81173.5632183908,"Dawson","Texas",48,115,"Lamesa, TX","Lamesa, TX",982,"394767","29500",4.5,9,1,NA
+48117,87090.4255319149,"Deaf Smith","Texas",48,117,"Hereford, TX","Hereford, TX",2918,"394678","25820",2.9,11,2,3
+48121,173666.153846154,"Denton","Texas",48,121,"Dallas-Fort Worth, TX","Dallas-Fort Worth-Arlington, TX",988,"394514","19100",3.1,234,19,3.75
+48123,NA,"De Witt","Texas",48,123,"NULL","NULL",1661,"NULL","NULL",3.3,28,1,4
+48133,NA,"Eastland","Texas",48,133,"NULL","NULL",2256,"NULL","NULL",3.6,16,1,4
+48135,132574.468085106,"Ector","Texas",48,135,"Odessa, TX","Odessa, TX",494,"394930","36220",2.9,47,5,2.5
+48139,127208.812260536,"Ellis","Texas",48,139,"Dallas-Fort Worth, TX","Dallas-Fort Worth-Arlington, TX",498,"394514","19100",3.3,63,3,3
+48141,96236.7816091954,"El Paso","Texas",48,141,"El Paso, TX","El Paso, TX",1690,"394561","21340",4.3,279,17,2.33333333333333
+48145,69352.8735632184,"Falls","Texas",48,145,"Waco, TX","Waco, TX",509,"395197","47380",3.9,17,1,4
+48157,NA,"Fort Bend","Texas",48,157,"Houston, TX","Houston-The Woodlands-Sugar Land, TX",2698,"394692","26420",4,165,12,3.5
+48161,95837.2881355932,"Freestone","Texas",48,161,"NULL","NULL",2701,"NULL","NULL",5.8,17,1,3
+48163,87228.7356321839,"Frio","Texas",48,163,"NULL","NULL",162,"NULL","NULL",2.9,9,2,NA
+48165,120193.805309735,"Gaines","Texas",48,165,"NULL","NULL",1028,"NULL","NULL",2.6,8,1,3.25
+48167,NA,"Galveston","Texas",48,167,"Houston, TX","Houston-The Woodlands-Sugar Land, TX",2702,"394692","26420",4.6,103,4,NA
+48177,NA,"Gonzales","Texas",48,177,"NULL","NULL",2307,"NULL","NULL",3.1,13,1,3.25
+48179,NA,"Gray","Texas",48,179,"Pampa, TX","Pampa, TX",167,"394959","37420",4.2,10,1,4
+48181,NA,"Grayson","Texas",48,181,"Sherman, TX","Sherman-Denison, TX",1733,"395094","43300",3.2,61,8,2.5
+48183,101336.01532567,"Gregg","Texas",48,183,"Longview, TX","Longview, TX",548,"394803","30980",4.2,48,6,4
+48187,NA,"Guadalupe","Texas",48,187,"San Antonio, TX","San Antonio-New Braunfels, TX",2712,"395055","41700",3.2,40,1,3
+48189,NA,"Hale","Texas",48,189,"Plainview, TX","Plainview, TX",171,"394984","38380",4.8,27,2,3
+48193,84800,"Hamilton","Texas",48,193,"NULL","NULL",2324,"NULL","NULL",3.4,6,1,4
+48201,NA,"Harris","Texas",48,201,"Houston, TX","Houston-The Woodlands-Sugar Land, TX",1090,"394692","26420",4.4,1125,93,3.35714285714286
+48207,63550,"Haskell","Texas",48,207,"NULL","NULL",1766,"NULL","NULL",3.8,6,1,NA
+48209,154521.072796935,"Hays","Texas",48,209,"Austin, TX","Austin-Round Rock, TX",178,"394355","12420",3,53,4,3.5
+48213,NA,"Henderson","Texas",48,213,"Athens, TX","Athens, TX",2721,"394345","11980",3.8,33,1,3
+48215,NA,"Hidalgo","Texas",48,215,"McAllen, TX","McAllen-Edinburg-Mission, TX",1776,"394843","32580",6.6,352,17,4
+48217,70761.3545816733,"Hill","Texas",48,217,"NULL","NULL",180,"NULL","NULL",3.6,39,2,3
+48219,NA,"Hockley","Texas",48,219,"Levelland, TX","Levelland, TX",1778,"394784","30220",3.2,19,1,3
+48221,149609.961685824,"Hood","Texas",48,221,"Dallas-Fort Worth, TX","Dallas-Fort Worth-Arlington, TX",184,"394514","19100",3.7,18,1,3
+48227,95454.2372881356,"Howard","Texas",48,227,"Big Spring, TX","Big Spring, TX",1104,"394385","13700",3.4,14,3,2
+48233,NA,"Hutchinson","Texas",48,233,"Borger, TX","Borger, TX",2941,"394403","14420",5.2,13,2,3
+48237,NA,"Jack","Texas",48,237,"NULL","NULL",195,"NULL","NULL",2.8,6,2,NA
+48241,NA,"Jasper","Texas",48,241,"NULL","NULL",1121,"NULL","NULL",6.5,17,1,3
+48245,NA,"Jefferson","Texas",48,245,"Beaumont, TX","Beaumont-Port Arthur, TX",2754,"394372","13140",6.5,88,14,3
+48249,NA,"Jim Wells","Texas",48,249,"Alice, TX","Alice, TX",2759,"394316","10860",5.7,21,1,3
+48251,113905.363984674,"Johnson","Texas",48,251,"Dallas-Fort Worth, TX","Dallas-Fort Worth-Arlington, TX",1827,"394514","19100",3.5,70,1,4
+48253,NA,"Jones","Texas",48,253,"Abilene, TX","Abilene, TX",577,"394299","10180",4.8,14,3,3
+48255,69362.0689655172,"Karnes","Texas",48,255,"NULL","NULL",1129,"NULL","NULL",3,17,1,3
+48257,143526.966292135,"Kaufman","Texas",48,257,"Dallas-Fort Worth, TX","Dallas-Fort Worth-Arlington, TX",1833,"394514","19100",3.5,51,3,3
+48265,181668.199233716,"Kerr","Texas",48,265,"Kerrville, TX","Kerrville, TX",205,"394742","28500",3.3,23,3,3
+48273,94589.2720306513,"Kleberg","Texas",48,273,"Kingsville, TX","Kingsville, TX",1843,"394749","28780",5.2,17,1,3
+48279,74970.2127659574,"Lamb","Texas",48,279,"NULL","NULL",229,"NULL","NULL",4.5,14,1,NA
+48281,133911.111111111,"Lampasas","Texas",48,281,"Killeen, TX","Killeen-Temple, TX",2376,"394746","28660",3.6,7,1,4
+48285,NA,"Lavaca","Texas",48,285,"NULL","NULL",1145,"NULL","NULL",3.2,10,2,4
+48293,NA,"Limestone","Texas",48,293,"NULL","NULL",2781,"NULL","NULL",4.8,13,2,3
+48303,NA,"Lubbock","Texas",48,303,"Lubbock, TX","Lubbock, TX",1891,"394808","31180",3.1,103,10,2.83333333333333
+48305,97927.6595744681,"Lynn","Texas",48,305,"Lubbock, TX","Lubbock, TX",244,"394808","31180",3.3,7,1,NA
+48307,NA,"McCulloch","Texas",48,307,"NULL","NULL",2790,"NULL","NULL",3.5,6,1,NA
+48309,NA,"McLennan","Texas",48,309,"Waco, TX","Waco, TX",2429,"395197","47380",3.6,128,5,2
+48321,141083.908045977,"Matagorda","Texas",48,321,"Bay City, TX","Bay City, TX",2787,"394370","13060",6.1,19,2,3
+48325,NA,"Medina","Texas",48,325,"San Antonio, TX","San Antonio-New Braunfels, TX",1192,"395055","41700",3.5,20,1,4
+48329,127389.272030651,"Midland","Texas",48,329,"Midland, TX","Midland, TX",1930,"394860","33260",2.2,45,5,3
+48331,79053.0973451327,"Milam","Texas",48,331,"NULL","NULL",642,"NULL","NULL",5.5,17,2,NA
+48335,82736.398467433,"Mitchell","Texas",48,335,"NULL","NULL",2439,"NULL","NULL",4.6,12,1,NA
+48337,NA,"Montague","Texas",48,337,"NULL","NULL",2442,"NULL","NULL",3.2,14,2,3
+48339,NA,"Montgomery","Texas",48,339,"Houston, TX","Houston-The Woodlands-Sugar Land, TX",2983,"394692","26420",3.8,126,17,2.5
+48341,88847.8723404255,"Moore","Texas",48,341,"Dumas, TX","Dumas, TX",651,"394544","20300",2.8,11,1,3.25
+48347,NA,"Nacogdoches","Texas",48,347,"Nacogdoches, TX","Nacogdoches, TX",3108,"394899","34860",4,34,3,3
+48349,NA,"Navarro","Texas",48,349,"Corsicana, TX","Corsicana, TX",1942,"394503","18620",3.8,26,1,2
+48353,72200,"Nolan","Texas",48,353,"Sweetwater, TX","Sweetwater, TX",657,"395142","45020",3.4,10,1,4
+48355,NA,"Nueces","Texas",48,355,"Corpus Christi, TX","Corpus Christi, TX",1272,"394502","18580",4.7,127,14,3.5
+48363,NA,"Palo Pinto","Texas",48,363,"Mineral Wells, TX","Mineral Wells, TX",2994,"394864","33420",3.3,14,1,2
+48367,147256.704980843,"Parker","Texas",48,367,"Dallas-Fort Worth, TX","Dallas-Fort Worth-Arlington, TX",1308,"394514","19100",3.1,41,2,4
+48371,92823.4042553192,"Pecos","Texas",48,371,"NULL","NULL",672,"NULL","NULL",3.6,10,2,3
+48375,NA,"Potter","Texas",48,375,"Amarillo, TX","Amarillo, TX",1333,"394323","11100",2.9,50,9,3
+48397,178959.760956175,"Rockwall","Texas",48,397,"Dallas-Fort Worth, TX","Dallas-Fort Worth-Arlington, TX",2516,"394514","19100",3.2,24,3,3
+48399,85404.0816326531,"Runnels","Texas",48,399,"NULL","NULL",2004,"NULL","NULL",3.3,15,2,NA
+48403,NA,"Sabine","Texas",48,403,"NULL","NULL",1361,"NULL","NULL",7.7,7,1,NA
+48405,NA,"San Augustine","Texas",48,405,"NULL","NULL",3226,"NULL","NULL",6.5,4,1,NA
+48409,NA,"San Patricio","Texas",48,409,"Corpus Christi, TX","Corpus Christi, TX",3190,"394502","18580",6.4,33,1,3
+48415,NA,"Scurry","Texas",48,415,"Snyder, TX","Snyder, TX",1371,"395104","43660",3.7,10,1,NA
+48423,NA,"Smith","Texas",48,423,"Tyler, TX","Tyler, TX",725,"395174","46340",3.6,69,10,4
+48425,NA,"Somervell","Texas",48,425,"Dallas-Fort Worth, TX","Dallas-Fort Worth-Arlington, TX",2848,"394514","19100",4.2,5,1,4
+48427,73904.9808429119,"Starr","Texas",48,427,"Rio Grande City, TX","Rio Grande City, TX",731,"395024","40100",9.9,29,1,3
+48429,NA,"Stephens","Texas",48,429,"NULL","NULL",2559,"NULL","NULL",3.8,5,1,3
+48437,65331.914893617,"Swisher","Texas",48,437,"NULL","NULL",2048,"NULL","NULL",4.3,8,1,NA
+48439,126063.095238095,"Tarrant","Texas",48,439,"Dallas-Fort Worth, TX","Dallas-Fort Worth-Arlington, TX",2049,"394514","19100",3.5,564,54,3.2
+48441,NA,"Taylor","Texas",48,441,"Abilene, TX","Abilene, TX",1423,"394299","10180",3.2,60,6,3.5
+48445,69888.122605364,"Terry","Texas",48,445,"NULL","NULL",742,"NULL","NULL",4.2,8,1,3
+48449,NA,"Titus","Texas",48,449,"Mount Pleasant, TX","Mount Pleasant, TX",750,"394886","34420",5,15,1,3
+48451,115430.526315789,"Tom Green","Texas",48,451,"San Angelo, TX","San Angelo, TX",2855,"395054","41660",3.2,95,4,3
+48453,197451.792828685,"Travis","Texas",48,453,"Austin, TX","Austin-Round Rock, TX",1440,"394355","12420",2.8,283,28,3.4
+48455,86505.3191489362,"Trinity","Texas",48,455,"Huntsville, TX","Huntsville, TX",2057,"394699","26660",5.2,10,1,3
+48457,NA,"Tyler","Texas",48,457,"NULL","NULL",758,"NULL","NULL",6.8,14,1,3
+48463,106983.185840708,"Uvalde","Texas",48,463,"Uvalde, TX","Uvalde, TX",1453,"395181","46620",4.3,15,1,NA
+48465,111683.524904215,"Val Verde","Texas",48,465,"Del Rio, TX","Del Rio, TX",2857,"394527","19620",4.3,16,1,3
+48469,NA,"Victoria","Texas",48,469,"Victoria, TX","Victoria, TX",2588,"395190","47020",4,34,6,3.66666666666667
+48471,NA,"Walker","Texas",48,471,"Huntsville, TX","Huntsville, TX",1466,"394699","26660",4.3,18,1,2
+48475,91457.8544061303,"Ward","Texas",48,475,"NULL","NULL",326,"NULL","NULL",3.1,7,1,NA
+48479,91116.091954023,"Webb","Texas",48,479,"Laredo, TX","Laredo, TX",328,"394772","29700",3.8,81,6,2.25
+48481,110722.222222222,"Wharton","Texas",48,481,"El Campo, TX","El Campo, TX",2085,"394558","20900",3.8,18,2,3
+48483,NA,"Wheeler","Texas",48,483,"NULL","NULL",2090,"NULL","NULL",3.4,6,2,NA
+48485,NA,"Wichita","Texas",48,485,"Wichita Falls, TX","Wichita Falls, TX",2095,"395223","48660",3.5,52,7,3.66666666666667
+48487,NA,"Wilbarger","Texas",48,487,"Vernon, TX","Vernon, TX",2873,"395188","46900",4.3,8,2,NA
+48491,166872.373540856,"Williamson","Texas",48,491,"Austin, TX","Austin-Round Rock, TX",3081,"394355","12420",3,162,12,3
+48493,148797.701149425,"Wilson","Texas",48,493,"San Antonio, TX","San Antonio-New Braunfels, TX",1497,"395055","41700",3.1,31,1,3
+48495,66300.7662835249,"Winkler","Texas",48,495,"NULL","NULL",2100,"NULL","NULL",3.3,5,1,NA
+48497,NA,"Wise","Texas",48,497,"Dallas-Fort Worth, TX","Dallas-Fort Worth-Arlington, TX",333,"394514","19100",3.5,29,3,3
+48501,84019.1489361702,"Yoakum","Texas",48,501,"NULL","NULL",1505,"NULL","NULL",2.8,7,1,NA
+48503,NA,"Young","Texas",48,503,"NULL","NULL",819,"NULL","NULL",3.4,10,2,3
+49001,NA,"Beaver","Utah",49,1,"NULL","NULL",861,"NULL","NULL",3.6,7,2,NA
+49003,158634.482758621,"Box Elder","Utah",49,3,"Ogden, UT","Ogden-Clearfield, UT",2637,"394931","36260",3,25,2,3
+49005,NA,"Cache","Utah",49,5,"Logan, UT","Logan, UT-ID",422,"394800","30860",2.7,43,2,4
+49007,NA,"Carbon","Utah",49,7,"Price, UT","Price, UT",916,"395003","39220",4.7,11,1,4
+49011,191613.793103448,"Davis","Utah",49,11,"Ogden, UT","Ogden-Clearfield, UT",470,"394931","36260",2.9,103,5,3
+49013,204358.510638298,"Duchesne","Utah",49,13,"NULL","NULL",2254,"NULL","NULL",4.6,15,2,3
+49017,NA,"Garfield","Utah",49,17,"NULL","NULL",2304,"NULL","NULL",7.9,9,1,NA
+49021,173127.203065134,"Iron","Utah",49,21,"Cedar City, UT","Cedar City, UT",193,"394446","16260",3.6,19,1,3
+49025,NA,"Kane","Utah",49,25,"NULL","NULL",198,"NULL","NULL",3.2,10,1,NA
+49035,198992.720306513,"Salt Lake","Utah",49,35,"Salt Lake City, UT","Salt Lake City, UT",2840,"395053","41620",3,300,24,3.42857142857143
+49037,250637.234042553,"San Juan","Utah",49,37,"NULL","NULL",2521,"NULL","NULL",6.5,15,2,NA
+49039,NA,"Sanpete","Utah",49,39,"NULL","NULL",2016,"NULL","NULL",3.8,16,2,NA
+49041,138198.084291188,"Sevier","Utah",49,41,"NULL","NULL",1377,"NULL","NULL",3.6,15,1,4
+49045,157608.045977011,"Tooele","Utah",49,45,"Salt Lake City, UT","Salt Lake City, UT",1436,"395053","41620",3.5,29,1,3
+49049,191292.720306513,"Utah","Utah",49,49,"Provo, UT","Provo-Orem, UT",322,"395006","39340",2.8,179,10,3.66666666666667
+49053,190117.624521073,"Washington","Utah",49,53,"St. George, UT","St. George, UT",3074,"395119","41100",3.4,53,2,4
+49057,151419.540229885,"Weber","Utah",49,57,"Ogden, UT","Ogden-Clearfield, UT",802,"394931","36260",3.5,82,2,3
+50003,NA,"Bennington","Vermont",50,3,"Bennington, VT","Bennington, VT",2888,"394382","13540",3.2,16,1,4
+50005,NA,"Caledonia","Vermont",50,5,"NULL","NULL",2645,"NULL","NULL",3.3,13,1,3
+50015,212551.136363636,"Lamoille","Vermont",50,15,"NULL","NULL",2375,"NULL","NULL",3.6,15,1,3
+50017,NA,"Orange","Vermont",50,17,"Claremont, NH","Claremont-Lebanon, NH-VT",1293,"394468","17200",2.7,21,1,3
+50021,170506.976744186,"Rutland","Vermont",50,21,"Rutland, VT","Rutland, VT",2009,"395044","40860",3.2,32,1,4
+50023,204012.790697674,"Washington","Vermont",50,23,"Barre, VT","Barre, VT",3076,"394362","12740",2.7,27,3,4
+50025,193347.402597403,"Windham","Vermont",50,25,"NULL","NULL",2098,"NULL","NULL",2.9,29,3,4
+50027,205416.883116883,"Windsor","Vermont",50,27,"Claremont, NH","Claremont-Lebanon, NH-VT",2099,"394468","17200",2.4,35,3,2
+51003,246962.835249042,"Albemarle","Virginia",51,3,"Charlottesville, VA","Charlottesville, VA",2608,"394459","16820",2.6,28,4,3
+51005,NA,"Alleghany","Virginia",51,5,"NULL","NULL",2613,"NULL","NULL",4,7,1,3
+51013,443319.157088123,"Arlington","Virginia",51,13,"Washington, DC","Washington-Arlington-Alexandria, DC-VA-MD-WV",2619,"395209","47900",2,39,1,4
+51027,NA,"Buchanan","Virginia",51,27,"NULL","NULL",2155,"NULL","NULL",5.9,11,1,3
+51057,NA,"Essex","Virginia",51,57,"NULL","NULL",506,"NULL","NULL",4,4,1,4
+51059,390961.685823755,"Fairfax","Virginia",51,59,"Washington, DC","Washington-Arlington-Alexandria, DC-VA-MD-WV",1694,"395209","47900",2.5,221,8,3
+51061,267279.310344828,"Fauquier","Virginia",51,61,"Washington, DC","Washington-Arlington-Alexandria, DC-VA-MD-WV",2261,"395209","47900",2.6,22,1,2
+51067,163481.224489796,"Franklin","Virginia",51,67,"Roanoke, VA","Roanoke, VA",2292,"395028","40220",3.1,16,1,3
+51071,NA,"Giles","Virginia",51,71,"Blacksburg, VA","Blacksburg-Christiansburg-Radford, VA",523,"394392","13980",3.4,6,2,4
+51073,171025.670498084,"Gloucester","Virginia",51,73,"Virginia Beach, VA","Virginia Beach-Norfolk-Newport News, VA-NC",2930,"395194","47260",2.7,10,1,3
+51083,91179.6407185629,"Halifax","Virginia",51,83,"NULL","NULL",1744,"NULL","NULL",4.3,12,1,3
+51085,200410.344827586,"Hanover","Virginia",51,85,"Richmond, VA","Richmond, VA",1758,"395022","40060",2.6,26,2,4
+51087,170357.471264368,"Henrico","Virginia",51,87,"Richmond, VA","Richmond, VA",1771,"395022","40060",3,84,5,4
+51107,372560.153256705,"Loudoun","Virginia",51,107,"Washington, DC","Washington-Arlington-Alexandria, DC-VA-MD-WV",1887,"395209","47900",2.5,92,4,3
+51121,162485.440613027,"Montgomery","Virginia",51,121,"Blacksburg, VA","Blacksburg-Christiansburg-Radford, VA",2984,"394392","13980",3,23,2,3
+51131,NA,"Northampton","Virginia",51,131,"NULL","NULL",3113,"NULL","NULL",5.8,6,1,4
+51153,277159.770114943,"Prince William","Virginia",51,153,"Washington, DC","Washington-Arlington-Alexandria, DC-VA-MD-WV",3247,"395209","47900",2.7,96,3,2
+51155,NA,"Pulaski","Virginia",51,155,"Blacksburg, VA","Blacksburg-Christiansburg-Radford, VA",1987,"394392","13980",3.5,10,1,3
+51165,156010.727969349,"Rockingham","Virginia",51,165,"Harrisonburg, VA","Harrisonburg, VA",3014,"394668","25500",2.7,22,1,3
+51167,NA,"Russell","Virginia",51,167,"NULL","NULL",2008,"NULL","NULL",4.5,15,1,3
+51173,80872.3076923077,"Smyth","Virginia",51,173,"NULL","NULL",726,"NULL","NULL",4.3,16,3,3
+51177,185316.733067729,"Spotsylvania","Virginia",51,177,"Washington, DC","Washington-Arlington-Alexandria, DC-VA-MD-WV",3193,"395209","47900",3,35,1,3
+51185,80876.6283524904,"Tazewell","Virginia",51,185,"Bluefield, WV","Bluefield, WV-VA",2573,"394396","14140",4.6,16,2,3.5
+51191,115866.666666667,"Washington","Virginia",51,191,"Kingsport, TN","Kingsport-Bristol-Bristol, TN-VA",3075,"394747","28700",3.4,18,2,3
+51197,NA,"Wythe","Virginia",51,197,"NULL","NULL",815,"NULL","NULL",3.9,14,1,3
+51199,236055.555555556,"York","Virginia",51,199,"Virginia Beach, VA","Virginia Beach-Norfolk-Newport News, VA-NC",345,"395194","47260",2.8,19,2,4
+51510,NA,"Alexandria City","Virginia",51,510,"Washington, DC","Washington-Arlington-Alexandria, DC-VA-MD-WV",3253,"395209","47900",2.3,22,1,3
+51540,197406.896551724,"Charlottesville City","Virginia",51,540,"Charlottesville, VA","Charlottesville, VA",3288,"394459","16820",2.5,13,1,2
+51590,58616.4750957854,"Danville City","Virginia",51,590,"Danville, VA","Danville, VA",3205,"394518","19260",5.4,15,2,1
+51620,NA,"Franklin City","Virginia",51,620,"NULL","NULL",3206,"NULL","NULL",4.6,3,1,3
+51640,NA,"Galax City","Virginia",51,640,"NULL","NULL",2927,"NULL","NULL",3.7,4,1,2
+51650,132309.578544061,"Hampton City","Virginia",51,650,"Virginia Beach, VA","Virginia Beach-Norfolk-Newport News, VA-NC",3164,"395194","47260",4.1,37,3,3
+51670,92654.0229885057,"Hopewell City","Virginia",51,670,"Richmond, VA","Richmond, VA",3209,"395022","40060",4.7,8,2,2
+51678,NA,"Lexington City","Virginia",51,678,"NULL","NULL",3242,"NULL","NULL",4.4,4,1,3
+51700,144166.283524904,"Newport News City","Virginia",51,700,"Virginia Beach, VA","Virginia Beach-Norfolk-Newport News, VA-NC",3278,"395194","47260",3.7,50,5,3
+51710,142252.107279693,"Norfolk City","Virginia",51,710,"Virginia Beach, VA","Virginia Beach-Norfolk-Newport News, VA-NC",3173,"395194","47260",3.7,58,7,3.33333333333333
+51720,NA,"Norton City","Virginia",51,720,"Big Stone Gap, VA","Big Stone Gap, VA",3114,"753866","13720",4.2,2,2,4
+51730,NA,"Petersburg City","Virginia",51,730,"Richmond, VA","Richmond, VA",3259,"395022","40060",6.1,11,3,2
+51740,122350.191570881,"Portsmouth City","Virginia",51,740,"Virginia Beach, VA","Virginia Beach-Norfolk-Newport News, VA-NC",3260,"395194","47260",4.1,26,2,3
+51760,121528.735632184,"Richmond City","Virginia",51,760,"Richmond, VA","Richmond, VA",3219,"395022","40060",3.6,56,6,3
+51775,134959.760956175,"Salem City","Virginia",51,775,"Roanoke, VA","Roanoke, VA",703,"395028","40220",3,8,2,3
+51800,182159.770114943,"Suffolk City","Virginia",51,800,"Virginia Beach, VA","Virginia Beach-Norfolk-Newport News, VA-NC",3194,"395194","47260",3.3,23,3,4
+51810,202385.057471264,"Virginia Beach City","Virginia",51,810,"Virginia Beach, VA","Virginia Beach-Norfolk-Newport News, VA-NC",3286,"395194","47260",2.9,92,4,3.5
+53001,97726.8199233716,"Adams","Washington",53,1,"Othello, WA","Othello, WA",363,"753908","36830",5.7,15,2,NA
+53003,NA,"Asotin","Washington",53,3,"Lewiston, ID","Lewiston, ID-WA",840,"394787","30300",4.2,11,1,3
+53005,157152.107279693,"Benton","Washington",53,5,"Kennewick, WA","Kennewick-Richland, WA",872,"394741","28420",5.2,60,4,3
+53007,193077.394636015,"Chelan","Washington",53,7,"Wenatchee, WA","Wenatchee, WA",932,"395218","48300",4.7,39,4,4
+53009,187715.325670498,"Clallam","Washington",53,9,"Port Angeles, WA","Port Angeles, WA",1619,"394994","38820",6.4,32,2,2
+53011,210679.310344828,"Clark","Washington",53,11,"Portland, OR","Portland-Vancouver-Hillsboro, OR-WA",448,"394998","38900",4.9,133,4,3
+53013,NA,"Columbia","Washington",53,13,"Walla Walla, WA","Walla Walla, WA",2217,"395199","47460",5.5,4,1,NA
+53019,NA,"Ferry","Washington",53,19,"NULL","NULL",511,"NULL","NULL",11.7,12,1,NA
+53021,130287.739463602,"Franklin","Washington",53,21,"Kennewick, WA","Kennewick-Richland, WA",2294,"394741","28420",6.1,31,1,3
+53025,121511.235955056,"Grant","Washington",53,25,"Moses Lake, WA","Moses Lake, WA",542,"394882","34180",6.4,56,4,NA
+53027,111972.80334728,"Grays Harbor","Washington",53,27,"Aberdeen, WA","Aberdeen, WA",3163,"394298","10140",6.7,42,4,2
+53029,242067.432950192,"Island","Washington",53,29,"Oak Harbor, WA","Oak Harbor, WA",1112,"394925","36020",5.3,26,2,3
+53031,237403.448275862,"Jefferson","Washington",53,31,"NULL","NULL",2755,"NULL","NULL",5.9,13,1,3
+53033,333070.114942529,"King","Washington",53,33,"Seattle, WA","Seattle-Tacoma-Bellevue, WA",207,"395078","42660",3.4,514,32,3
+53037,168506.896551724,"Kittitas","Washington",53,37,"Ellensburg, WA","Ellensburg, WA",2367,"394567","21260",5.2,20,1,3
+53039,NA,"Klickitat","Washington",53,39,"NULL","NULL",2765,"NULL","NULL",5.7,22,2,4
+53041,143007.692307692,"Lewis","Washington",53,41,"Centralia, WA","Centralia, WA",601,"394452","16500",6.3,46,2,3
+53043,NA,"Lincoln","Washington",53,43,"NULL","NULL",1883,"NULL","NULL",4.9,16,2,4
+53047,117247.69874477,"Okanogan","Washington",53,47,"NULL","NULL",2461,"NULL","NULL",6.6,33,3,2.66666666666667
+53049,NA,"Pacific","Washington",53,49,"NULL","NULL",1962,"NULL","NULL",6.9,20,2,NA
+53053,211758.237547893,"Pierce","Washington",53,53,"Seattle, WA","Seattle-Tacoma-Bellevue, WA",1322,"395078","42660",5.2,276,12,3
+53055,351970.119521912,"San Juan","Washington",53,55,"NULL","NULL",2522,"NULL","NULL",3.9,14,1,NA
+53057,240032.584269663,"Skagit","Washington",53,57,"Mount Vernon, WA","Mount Vernon-Anacortes, WA",1393,"394890","34580",5.3,50,3,3.5
+53061,265800,"Snohomish","Washington",53,61,"Seattle, WA","Seattle-Tacoma-Bellevue, WA",2847,"395078","42660",3.8,224,8,3
+53063,145546.360153257,"Spokane","Washington",53,63,"Spokane, WA","Spokane-Spokane Valley, WA",2033,"395113","44060",5.3,172,10,3
+53065,142507.279693487,"Stevens","Washington",53,65,"Spokane, WA","Spokane-Spokane Valley, WA",2042,"395113","44060",7.2,45,2,4
+53067,204631.800766284,"Thurston","Washington",53,67,"Olympia, WA","Olympia-Tumwater, WA",2575,"394937","36500",4.8,80,2,3
+53075,NA,"Whitman","Washington",53,75,"Pullman, WA","Pullman, WA",2093,"395008","39420",4.4,26,2,4
+53077,128626.819923372,"Yakima","Washington",53,77,"Yakima, WA","Yakima, WA",1503,"395240","49420",6.4,110,4,2.25
+54003,154429.197080292,"Berkeley","West Virginia",54,3,"Hagerstown, MD","Hagerstown-Martinsburg, MD-WV",2142,"394660","25180",4.1,35,2,3
+54005,53401.7699115044,"Boone","West Virginia",54,5,"Charleston, WV","Charleston, WV",398,"394455","16620",6,17,1,3
+54007,NA,"Braxton","West Virginia",54,7,"NULL","NULL",1555,"NULL","NULL",6.6,8,1,NA
+54009,NA,"Brooke","West Virginia",54,9,"Weirton, OH","Weirton-Steubenville, WV-OH",892,"395217","48260",6.2,10,2,3
+54011,94795.5056179775,"Cabell","West Virginia",54,11,"Huntington, WV","Huntington-Ashland, WV-KY-OH",906,"394697","26580",4.7,30,6,2.5
+54019,NA,"Fayette","West Virginia",54,19,"Beckley, WV","Beckley, WV",1706,"394374","13220",6.5,19,2,3
+54023,NA,"Grant","West Virginia",54,23,"NULL","NULL",544,"NULL","NULL",5.6,6,1,3
+54025,NA,"Greenbrier","West Virginia",54,25,"NULL","NULL",2933,"NULL","NULL",5.1,14,1,3
+54027,NA,"Hampshire","West Virginia",54,27,"Winchester, VA","Winchester, VA-WV",2715,"395232","49020",4.2,15,1,NA
+54033,NA,"Harrison","West Virginia",54,33,"Clarksburg, WV","Clarksburg, WV",2336,"394469","17220",4.6,28,3,3
+54035,NA,"Jackson","West Virginia",54,35,"NULL","NULL",1814,"NULL","NULL",5.4,13,1,3
+54037,179101.526717557,"Jefferson","West Virginia",54,37,"Washington, DC","Washington-Arlington-Alexandria, DC-VA-MD-WV",2757,"395209","47900",3.4,16,1,3
+54039,69583.5249042146,"Kanawha","West Virginia",54,39,"Charleston, WV","Charleston, WV",1832,"394455","16620",5.1,72,8,3.22222222222222
+54041,NA,"Lewis","West Virginia",54,41,"NULL","NULL",602,"NULL","NULL",5.9,6,2,3
+54045,NA,"Logan","West Virginia",54,45,"Logan, WV","Logan, WV",613,"753898","30880",7.1,17,1,3
+54051,NA,"Marshall","West Virginia",54,51,"Wheeling, OH","Wheeling, WV-OH",2416,"395221","48540",6,13,1,3
+54053,NA,"Mason","West Virginia",54,53,"Point Pleasant, WV","Point Pleasant, WV-OH",631,"394989","38580",6.9,11,1,3
+54055,NA,"Mercer","West Virginia",54,55,"Bluefield, WV","Bluefield, WV-VA",1204,"394396","14140",6.2,26,3,2.5
+54057,NA,"Mineral","West Virginia",54,57,"Cumberland, MD","Cumberland, MD-WV",1936,"394513","19060",5.6,14,1,NA
+54061,128431.417624521,"Monongalia","West Virginia",54,61,"Morgantown, WV","Morgantown, WV",2966,"394879","34060",4,19,3,2.5
+54067,NA,"Nicholas","West Virginia",54,67,"NULL","NULL",2455,"NULL","NULL",6.5,16,1,2
+54069,NA,"Ohio","West Virginia",54,69,"Wheeling, OH","Wheeling, WV-OH",262,"395221","48540",4.8,14,4,2
+54075,NA,"Pocahontas","West Virginia",54,75,"NULL","NULL",3000,"NULL","NULL",6.2,5,1,NA
+54077,NA,"Preston","West Virginia",54,77,"Morgantown, WV","Morgantown, WV",1979,"394879","34060",5.2,12,2,3
+54081,80868.8311688312,"Raleigh","West Virginia",54,81,"Beckley, WV","Beckley, WV",1990,"394374","13220",5.3,31,3,2
+54083,NA,"Randolph","West Virginia",54,83,"Elkins, WV","Elkins, WV",2496,"753879","21180",5.4,18,1,3
+54087,NA,"Roane","West Virginia",54,87,"NULL","NULL",697,"NULL","NULL",7.7,6,1,3
+54089,NA,"Summers","West Virginia",54,89,"NULL","NULL",2047,"NULL","NULL",5.5,5,1,NA
+54091,NA,"Taylor","West Virginia",54,91,"Clarksburg, WV","Clarksburg, WV",1425,"394469","17220",4.7,5,1,NA
+54097,NA,"Upshur","West Virginia",54,97,"NULL","NULL",1451,"NULL","NULL",5.5,10,1,2.85714285714286
+54107,78305.7471264368,"Wood","West Virginia",54,107,"Parkersburg, WV","Parkersburg-Vienna, WV",338,"394964","37620",5.4,30,2,2
+55005,131209.195402299,"Barron","Wisconsin",55,5,"NULL","NULL",851,"NULL","NULL",3.3,39,3,NA
+55023,NA,"Crawford","Wisconsin",55,23,"NULL","NULL",2236,"NULL","NULL",3.6,15,2,4
+55025,192159.230769231,"Dane","Wisconsin",55,25,"Madison, WI","Madison, WI",146,"394816","31540",2.2,161,9,3
+55029,240842.14559387,"Door","Wisconsin",55,29,"NULL","NULL",149,"NULL","NULL",3.5,17,1,4
+55035,124245.977011494,"Eau Claire","Wisconsin",55,35,"Eau Claire, WI","Eau Claire, WI",2924,"394555","20740",2.6,36,3,NA
+55039,113078.927203065,"Fond du Lac","Wisconsin",55,39,"Fond du Lac, WI","Fond du Lac, WI",3092,"394599","22540",2.6,42,4,4
+55043,118958.620689655,"Grant","Wisconsin",55,43,"Platteville, WI","Platteville, WI",543,"394985","38420",2.8,29,4,3
+55045,119678.544061303,"Green","Wisconsin",55,45,"Madison, WI","Madison, WI",546,"394816","31540",2.4,22,1,4
+55067,NA,"Langlade","Wisconsin",55,67,"NULL","NULL",2377,"NULL","NULL",3.9,13,1,4
+55069,NA,"Lincoln","Wisconsin",55,69,"Merrill, WI","Merrill, WI",1884,"394853","32980",3,12,2,3
+55073,106170.114942529,"Marathon","Wisconsin",55,73,"Wausau, WI","Wausau, WI",2401,"395215","48140",2.6,50,3,3
+55079,103633.333333333,"Milwaukee","Wisconsin",55,79,"Milwaukee, WI","Milwaukee-Waukesha-West Allis, WI",2804,"394862","33340",3.6,295,22,3.66666666666667
+55081,NA,"Monroe","Wisconsin",55,81,"NULL","NULL",1227,"NULL","NULL",2.7,27,3,NA
+55083,141853.256704981,"Oconto","Wisconsin",55,83,"Green Bay, WI","Green Bay, WI",1277,"394646","24580",3.2,24,2,3
+55087,122869.348659004,"Outagamie","Wisconsin",55,87,"Appleton, WI","Appleton, WI",2820,"394334","11540",2.7,75,3,3
+55089,210629.118773946,"Ozaukee","Wisconsin",55,89,"Milwaukee, WI","Milwaukee-Waukesha-West Allis, WI",1961,"394862","33340",2.5,27,3,3.66666666666667
+55095,NA,"Polk","Wisconsin",55,95,"NULL","NULL",295,"NULL","NULL",3.5,26,4,4
+55097,155574.257425743,"Portage","Wisconsin",55,97,"Stevens Point, WI","Stevens Point, WI",1976,"395132","44620",2.9,30,1,4
+55105,109777.011494253,"Rock","Wisconsin",55,105,"Janesville, WI","Janesville-Beloit, WI",308,"394720","27500",3.2,71,4,NA
+55109,167841.762452107,"Saint Croix","Wisconsin",55,109,"Minneapolis-St Paul, MN","Minneapolis-St. Paul-Bloomington, MN-WI",3126,"394865","33460",2.9,29,5,4
+55111,148697.318007663,"Sauk","Wisconsin",55,111,"Baraboo, WI","Baraboo, WI",314,"394360","12660",2.5,33,4,5
+55113,214034.482758621,"Sawyer","Wisconsin",55,113,"NULL","NULL",1368,"NULL","NULL",4.2,13,1,4
+55117,118749.425287356,"Sheboygan","Wisconsin",55,117,"Sheboygan, WI","Sheboygan, WI",2845,"395089","43100",2.4,50,2,3
+55119,NA,"Taylor","Wisconsin",55,119,"NULL","NULL",1424,"NULL","NULL",3,10,2,4
+55127,147551.340996169,"Walworth","Wisconsin",55,127,"Whitewater, WI","Whitewater-Elkhorn, WI",2592,"395222","48580",2.9,42,2,3
+55133,225754.273504274,"Waukesha","Wisconsin",55,133,"Milwaukee, WI","Milwaukee-Waukesha-West Allis, WI",2596,"394862","33340",2.6,112,9,4
+55135,NA,"Waupaca","Wisconsin",55,135,"NULL","NULL",2074,"NULL","NULL",2.9,27,1,5
+55141,98376.6283524904,"Wood","Wisconsin",55,141,"Wisconsin Rapids-Marshfield, WI","Wisconsin Rapids-Marshfield, WI",337,"753928","49220",3.4,33,3,2
+56001,188869.811320755,"Albany","Wyoming",56,1,"Laramie, WY","Laramie, WY",824,"394771","29660",3.2,19,1,4
+56003,NA,"Big Horn","Wyoming",56,3,"NULL","NULL",2144,"NULL","NULL",4.5,16,2,NA
+56005,197409.961685824,"Campbell","Wyoming",56,5,"Gillette, WY","Gillette, WY",2172,"394631","23940",4,23,1,2
+56007,146382.978723404,"Carbon","Wyoming",56,7,"NULL","NULL",917,"NULL","NULL",3.7,13,1,NA
+56009,199644.827586207,"Converse","Wyoming",56,9,"NULL","NULL",2223,"NULL","NULL",3.6,15,1,3
+56013,192575.862068966,"Fremont","Wyoming",56,13,"Riverton, WY","Riverton, WY",1716,"395026","40180",5,32,2,3
+56015,148944.680851064,"Goshen","Wyoming",56,15,"NULL","NULL",1045,"NULL","NULL",3.2,12,2,3.5
+56017,190506.382978723,"Hot Springs","Wyoming",56,17,"NULL","NULL",3096,"NULL","NULL",3.6,4,2,NA
+56021,162250.632911392,"Laramie","Wyoming",56,21,"Cheyenne, WY","Cheyenne, WY",1848,"394462","16940",3.7,42,2,2
+56023,NA,"Lincoln","Wyoming",56,23,"NULL","NULL",1886,"NULL","NULL",3.7,18,2,3
+56025,149943.459915612,"Natrona","Wyoming",56,25,"Casper, WY","Casper, WY",1941,"394445","16220",4.5,36,6,3
+56029,222826.41509434,"Park","Wyoming",56,29,"NULL","NULL",270,"NULL","NULL",4.3,15,2,3.5
+56031,157854.166666667,"Platte","Wyoming",56,31,"NULL","NULL",1328,"NULL","NULL",3.6,13,1,3
+56037,NA,"Sweetwater","Wyoming",56,37,"Rock Springs, WY","Rock Springs, WY",3036,"395032","40540",4,28,2,NA
+56041,168297.318007663,"Uinta","Wyoming",56,41,"Evanston, WY","Evanston, WY",760,"394578","21740",4.2,17,2,3
+56043,176966.666666667,"Washakie","Wyoming",56,43,"NULL","NULL",2593,"NULL","NULL",4.1,7,1,3
+56045,269942.553191489,"Weston","Wyoming",56,45,"NULL","NULL",1486,"NULL","NULL",3.4,7,1,NA
